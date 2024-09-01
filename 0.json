@@ -1,0 +1,13 @@
+//个人自用分享，禁止商用
+{
+	 "urls": [
+	{ "url": "http://www.饭太硬.com/tv/", "name": "饭太硬线路" }, 
+	{ "url": "http://肥猫.live", "name": "肥猫线路" }, 
+	{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长线路" }, 
+	{ "url": "http://home.jundie.top:81/top98.json", "name": "俊佬线路" }, 
+	{ "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt", "name": "OK线路" }, 
+ 	{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
+	{ "url": "https://www.lysvc.cc/tvbox/TVshare.json", "name": "狸云" },
+	{ "url": "https://jxjson.icu/balabala", "name": "巴拉线路" }
+ 	]
+ }
