@@ -952,22 +952,26 @@ douyu16,https://live.metshop.top/douyu/263824
 
 
 虎牙直播,#genre#
-huya台球1,http://live.iill.top/huya.php?id=880214
-huya台球2,http://live.iill.top/huya.php?id=880625
-huya01,http://live.iill.top/huya.php?id=11336592
-huya02,http://live.iill.top/huya.php?id=11602044
-huya03,http://live.iill.top/huya.php?id=11336719
-huya04,http://live.iill.top/huya.php?id=11601968
-huya05,http://live.iill.top/huya.php?id=11352962
-huya06,http://live.iill.top/huya.php?id=11352897
-huya07,http://live.iill.top/huya.php?id=11352913
-huya08,http://live.iill.top/huya.php?id=11602077
-huya09,http://live.iill.top/huya.php?id=11601986
-huya10,http://live.iill.top/huya.php?id=11352891
-huya11,http://live.iill.top/huya.php?id=11336590
-huya12,http://live.iill.top/huya.php?id=11352875
-huya13,hhttp://live.iill.top/huya.php?id=29807256
-漫威「解说」,http://live.iill.top/huya.php?id=17089779
+
+huya台球1,http://cfss.cc/cdn/hy/880214.m3u8
+huya台球2,http://cfss.cc/cdn/hy/880625.m3u8
+huya01,http://cfss.cc/cdn/hy/11336592.m3u8
+huya02,http://cfss.cc/cdn/hy/11602044.m3u8
+huya03,http://cfss.cc/cdn/hy/11336719.m3u8
+huya04,http://cfss.cc/cdn/hy/11601968.m3u8
+huya05,http://cfss.cc/cdn/hy/11352962.m3u8
+huya06,http://cfss.cc/cdn/hy/11352897.m3u8
+huya07,http://cfss.cc/cdn/hy/11352913.m3u8
+huya08,http://cfss.cc/cdn/hy/11602077.m3u8
+huya09,http://cfss.cc/cdn/hy/11601986.m3u8
+huya10,http://cfss.cc/cdn/hy/11352891.m3u8
+huya11,http://cfss.cc/cdn/hy/11336590.m3u8
+huya12,http://cfss.cc/cdn/hy/11352875.m3u8
+huya13,http://cfss.cc/cdn/hy/29807256.m3u8
+huya14,http://cfss.cc/cdn/hy/17089779.m3u8
+
+
+
 
 
 全球频道,#genre#
@@ -993,34 +997,6 @@ Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 熊猫频道3,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
 熊猫频道4,http://120.77.28.4:8648/mgu.php?id=xm9 
 熊猫频道5,http://120.77.28.4:8648/mgu.php?id=xm10
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
