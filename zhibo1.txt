@@ -891,6 +891,16 @@ douyu6,http://maomao.kandiantv.cn/douyu1.php?id=1377142
 人气港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
 粤语电影1,http://maomao.kandiantv.cn/douyu1.php?id=6566671
 粤语电影2,http://maomao.kandiantv.cn/douyu1.php?id=1226741
+华语原画电影,http://maomao.kandiantv.cn/douyu1.php?id=276200
+特辑电影,http://maomao.kandiantv.cn/douyu1.php?id=3637778
+,http://maomao.kandiantv.cn/douyu1.php?id=
+,http://maomao.kandiantv.cn/douyu1.php?id=
+,http://maomao.kandiantv.cn/douyu1.php?id=
+,http://maomao.kandiantv.cn/douyu1.php?id=
+,http://maomao.kandiantv.cn/douyu1.php?id=
+,http://maomao.kandiantv.cn/douyu1.php?id=
+
+
 
 douyu1,https://www.goodiptv.club/douyu/434971
 douyu2,https://www.goodiptv.club/douyu/9651304
@@ -924,6 +934,8 @@ douyu6,https://www.goodiptv.club/douyu/1377142
 
 
 
+
+
 douyu1,https://live.metshop.top/douyu/434971
 douyu2,https://live.metshop.top/douyu/9651304
 douyu3,https://live.metshop.top/douyu/74374
@@ -941,8 +953,6 @@ douyu6,https://live.metshop.top/douyu/1377142
 霍格沃茨 哈利,https://live.metshop.top/douyu/8814650
 欧美大片1,https://live.metshop.top/douyu/20415
 欧美大片2,https://live.metshop.top/douyu/2793084
-粤语电影1,https://live.metshop.top/douyu/6566671
-粤语电影2,https://live.metshop.top/douyu/1226741
 贝爷影厅1,https://live.metshop.top/douyu/36337
 贝爷影厅2,https://live.metshop.top/douyu/252802
 贝爷MAX影厅,https://live.metshop.top/douyu/4332
@@ -953,6 +963,10 @@ douyu6,https://live.metshop.top/douyu/1377142
 新三国,https://live.metshop.top/douyu/5908256
 金庸武侠,https://live.metshop.top/douyu/338759
 人气港剧,https://live.metshop.top/douyu/4549169
+粤语电影1,https://live.metshop.top/douyu/6566671
+粤语电影2,https://live.metshop.top/douyu/1226741
+
+
 
 
 
