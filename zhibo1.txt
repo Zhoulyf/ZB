@@ -1021,7 +1021,23 @@ huya11,http://cfss.cc/cdn/hy/11336590.m3u8
 huya12,http://cfss.cc/cdn/hy/11352875.m3u8
 huya13,http://cfss.cc/cdn/hy/29807256.m3u8
 huya14,http://cfss.cc/cdn/hy/17089779.m3u8
-
+huya15,http://cfss.cc/cdn/hy/138531.m3u8
+huya16,http://cfss.cc/cdn/hy/21059634.m3u8
+huya17,http://cfss.cc/cdn/hy/26355850.m3u8
+huya18,http://cfss.cc/cdn/hy/26355802.m3u8
+huya19,http://cfss.cc/cdn/hy/26355786.m3u8
+huya20,http://cfss.cc/cdn/hy/11342399.m3u8
+huya21,http://cfss.cc/cdn/hy/11352950.m3u8
+huya22,http://cfss.cc/cdn/hy/11342422.m3u8
+huya23,http://cfss.cc/cdn/hy/30080257.m3u8
+huya24,http://cfss.cc/cdn/hy/11352876.m3u8
+huya25,http://cfss.cc/cdn/hy/30080229.m3u8
+huya26,http://cfss.cc/cdn/hy/11352917.m3u8
+huya27,http://cfss.cc/cdn/hy/11342395.m3u8
+huya28,http://cfss.cc/cdn/hy/11279247.m3u8
+huya29,http://cfss.cc/cdn/hy/30080226.m3u8
+huya30,http://cfss.cc/cdn/hy/21059561.m3u8
+huya31,http://cfss.cc/cdn/hy/11352915.m3u8
 
 
 
