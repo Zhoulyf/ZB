@@ -868,6 +868,7 @@ douyu3,http://maomao.kandiantv.cn/douyu1.php?id=74374
 douyu4,http://maomao.kandiantv.cn/douyu1.php?id=263824
 douyu5,http://maomao.kandiantv.cn/douyu1.php?id=96577
 douyu6,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+douyu7,http://maomao.kandiantv.cn/douyu1.php?id=7254536
 女神金,http://maomao.kandiantv.cn/douyu1.php?id=747764
 小宇60帧,http://maomao.kandiantv.cn/douyu1.php?id=323876
 小白影院,http://maomao.kandiantv.cn/douyu1.php?id=322360
@@ -893,12 +894,17 @@ douyu6,http://maomao.kandiantv.cn/douyu1.php?id=1377142
 粤语电影2,http://maomao.kandiantv.cn/douyu1.php?id=1226741
 华语原画电影,http://maomao.kandiantv.cn/douyu1.php?id=276200
 特辑电影,http://maomao.kandiantv.cn/douyu1.php?id=3637778
-,http://maomao.kandiantv.cn/douyu1.php?id=
-,http://maomao.kandiantv.cn/douyu1.php?id=
-,http://maomao.kandiantv.cn/douyu1.php?id=
-,http://maomao.kandiantv.cn/douyu1.php?id=
-,http://maomao.kandiantv.cn/douyu1.php?id=
-,http://maomao.kandiantv.cn/douyu1.php?id=
+贝贝电影,http://maomao.kandiantv.cn/douyu1.php?id=431460
+经典影视剧,http://maomao.kandiantv.cn/douyu1.php?id=6091425
+经典港剧天地,http://maomao.kandiantv.cn/douyu1.php?id=4290711
+网神影厅,http://maomao.kandiantv.cn/douyu1.php?id=508118
+PDD影院,http://maomao.kandiantv.cn/douyu1.php?id=1274132
+科幻大放映,http://maomao.kandiantv.cn/douyu1.php?id=10183347
+动漫超燃怀旧经典,http://maomao.kandiantv.cn/douyu1.php?id=1174353
+动漫合集,http://maomao.kandiantv.cn/douyu1.php?id=7620081
+香港赌片,http://maomao.kandiantv.cn/douyu1.php?id=315457
+女团社演唱会,http://maomao.kandiantv.cn/douyu1.php?id=11327316
+开心麻花,http://maomao.kandiantv.cn/douyu1.php?id=10153463
 
 
 
@@ -908,6 +914,7 @@ douyu3,https://www.goodiptv.club/douyu/74374
 douyu4,https://www.goodiptv.club/douyu/263824
 douyu5,https://www.goodiptv.club/douyu/96577
 douyu6,https://www.goodiptv.club/douyu/1377142
+douyu7,https://www.goodiptv.club/douyu/7254536
 女神金,https://www.goodiptv.club/douyu/747764
 小宇60帧,https://www.goodiptv.club/douyu/323876
 小白影院,https://www.goodiptv.club/douyu/322360
@@ -931,7 +938,19 @@ douyu6,https://www.goodiptv.club/douyu/1377142
 人气港剧,https://www.goodiptv.club/douyu/4549169
 粤语电影1,https://www.goodiptv.club/douyu/6566671
 粤语电影2,https://www.goodiptv.club/douyu/1226741
-
+华语原画电影,https://www.goodiptv.club/douyu/276200
+特辑电影,https://www.goodiptv.club/douyu/3637778
+贝贝电影,https://www.goodiptv.club/douyu/431460
+经典影视剧,https://www.goodiptv.club/douyu/6091425
+经典港剧天地,https://www.goodiptv.club/douyu/4290711
+网神影厅,https://www.goodiptv.club/douyu/508118
+PDD影院,https://www.goodiptv.club/douyu/1274132
+科幻大放映,https://www.goodiptv.club/douyu/10183347
+动漫超燃怀旧经典,https://www.goodiptv.club/douyu/1174353
+动漫合集,https://www.goodiptv.club/douyu/7620081
+香港赌片,https://www.goodiptv.club/douyu/315457
+女团社演唱会,https://www.goodiptv.club/douyu/11327316
+开心麻花,https://www.goodiptv.club/douyu/10153463
 
 
 
@@ -942,6 +961,7 @@ douyu3,https://live.metshop.top/douyu/74374
 douyu4,https://live.metshop.top/douyu/263824
 douyu5,https://live.metshop.top/douyu/96577
 douyu6,https://live.metshop.top/douyu/1377142
+douyu7,https://live.metshop.top/douyu/7254536
 女神金,https://live.metshop.top/douyu/747764
 小宇60帧,https://live.metshop.top/douyu/323876
 小白影院,https://live.metshop.top/douyu/322360
@@ -965,7 +985,19 @@ douyu6,https://live.metshop.top/douyu/1377142
 人气港剧,https://live.metshop.top/douyu/4549169
 粤语电影1,https://live.metshop.top/douyu/6566671
 粤语电影2,https://live.metshop.top/douyu/1226741
-
+华语原画电影,https://live.metshop.top/douyu/276200
+特辑电影,https://live.metshop.top/douyu/3637778
+贝贝电影,https://live.metshop.top/douyu/431460
+经典影视剧,https://live.metshop.top/douyu/6091425
+经典港剧天地,https://live.metshop.top/douyu/4290711
+网神影厅,https://live.metshop.top/douyu/508118
+PDD影院,https://live.metshop.top/douyu/1274132
+科幻大放映,https://live.metshop.top/douyu/10183347
+动漫超燃怀旧经典,https://live.metshop.top/douyu/1174353
+动漫合集,https://live.metshop.top/douyu/7620081
+香港赌片,https://live.metshop.top/douyu/315457
+女团社演唱会,https://live.metshop.top/douyu/11327316
+开心麻花,https://live.metshop.top/douyu/10153463
 
 
 
@@ -1017,7 +1049,6 @@ Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 熊猫频道3,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
 熊猫频道4,http://120.77.28.4:8648/mgu.php?id=xm9 
 熊猫频道5,http://120.77.28.4:8648/mgu.php?id=xm10
-
 
 
 
