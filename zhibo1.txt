@@ -633,8 +633,6 @@ CHANNEL-V,http://118.113.254.110:18888/udp/239.93.1.7:2194
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
-TVB娱乐新闻台,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 
 
