@@ -936,7 +936,9 @@ CHC动作电影,http://dassby.qqff.top:99/live/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5
 
 CHC影迷电影,http://dassby.qqff.top:99/live/CHC%E9%AB%98%E6%B8%85/index.m3u8
 
-
+CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
+CHC影迷电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000
+CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
 
 
 
