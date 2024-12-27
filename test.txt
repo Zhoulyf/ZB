@@ -3,8 +3,6 @@ CHC动作电影,http://117.190.144.101:1111/tsfile/live/1020_1.m3u8
 CHC家庭影院,http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
 CHC影迷电影,http://1.192.250.104:9901/tsfile/live/1000_1.m3u8
 
-
-
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 CHC家庭影院,http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
 chc动作电影,https://stream1.freetv.fun/3418ffa2ae218404d9d5063d656d3d02454891b596ad1254c4a183c356987f35.m3u8
