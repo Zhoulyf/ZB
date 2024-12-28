@@ -986,7 +986,8 @@ PDD影院,http://zzy789.xyz/douyu1.php?id=1274132
 青春动作喜剧轮播,http://zzy789.xyz/douyu1.php?id=5423
 权游,http://zzy789.xyz/douyu1.php?id=8945323
 音乐MV,http://zzy789.xyz/douyu1.php?id=3870925
-科学黑历史http://zzy789.xyz/douyu1.php?id=9317739
+科学黑历史,http://zzy789.xyz/douyu1.php?id=9317739
+庆余年1,http://zzy789.xyz/douyu1.php?id=7812810
 
 我不是胡八一,https://www.goodiptv.club/douyu/11649079
 怡宝电影,https://www.goodiptv.club/douyu/434971
@@ -1032,6 +1033,7 @@ PDD影院,https://www.goodiptv.club/douyu/1274132
 权游,https://www.goodiptv.club/douyu/8945323
 音乐MV,https://www.goodiptv.club/douyu/3870925
 科学黑历史,https://www.goodiptv.club/douyu/9317739
+庆余年1,https://www.goodiptv.club/douyu/7812810
 
 我不是胡八一,http://120.77.28.4:8648/douyu.php?id=11649079
 怡宝电影,http://120.77.28.4:8648/douyu.php?id=434971
@@ -1077,6 +1079,7 @@ PDD影院,http://120.77.28.4:8648/douyu.php?id=1274132
 权游,http://120.77.28.4:8648/douyu.php?id=8945323
 音乐MV,http://120.77.28.4:8648/douyu.php?id=3870925
 科学黑历史,http://120.77.28.4:8648/douyu.php?id=9317739
+庆余年1,http://120.77.28.4:8648/douyu.php?id=7812810
 
 我不是胡八一,http://huanqiuzhibo.cn/manifest/douyu.php?id=11649079
 怡宝电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
@@ -1122,6 +1125,7 @@ PDD影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132
 权游,http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
 音乐MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
 科学黑历史,http://huanqiuzhibo.cn/manifest/douyu.php?id=9317739
+庆余年1,http://huanqiuzhibo.cn/manifest/douyu.php?id=7812810
 
 我不是胡八一,https://live.metshop.top/douyu/11649079
 怡宝电影,https://live.metshop.top/douyu/434971
@@ -1169,6 +1173,7 @@ PDD影院,https://live.metshop.top/douyu/1274132
 权游,https://live.metshop.top/douyu/8945323
 音乐MV,https://live.metshop.top/douyu/3870925
 科学黑历史,https://live.metshop.top/douyu/9317739
+庆余年1,https://live.metshop.top/douyu/7812810
 
 我不是胡八一,http://allinone.netsite.cc/douyu/11649079
 怡宝电影,http://allinone.netsite.cc/douyu/434971
@@ -1214,6 +1219,7 @@ PDD影院,http://allinone.netsite.cc/douyu/1274132
 权游,http://allinone.netsite.cc/douyu/8945323
 音乐MV,http://allinone.netsite.cc/douyu/3870925
 科学黑历史,http://allinone.netsite.cc/douyu/9317739
+庆余年1,http://allinone.netsite.cc/douyu/7812810
 
 我不是胡八一,http://diyp.zxxoo.work/douyu/11649079
 怡宝电影,http://diyp.zxxoo.work/douyu/434971
@@ -1259,6 +1265,7 @@ PDD影院,http://diyp.zxxoo.work/douyu/1274132
 权游,http://diyp.zxxoo.work/douyu/8945323
 音乐MV,http://diyp.zxxoo.work/douyu/3870925
 科学黑历史,http://diyp.zxxoo.work/douyu/9317739
+庆余年1,http://diyp.zxxoo.work/douyu/7812810
 
 虎牙直播线路,#genre#
 huya台球1,http://www.52sw.top:678/play/huya.php?id=880214
