@@ -937,16 +937,26 @@ iHOT爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/20000000040000000
 
 
 电影频道,#genre#
-CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
-CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
-CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC动作电影,http://113.236.31.149:9901/tsfile/live/1101_1.m3u8$『线路25』
+CHC动作电影,http://61.243.161.199:9901/tsfile/live/1101_1.m3u8$『线路27』
+CHC动作电影,http://116.1.184.67:8181/tsfile/live/1063_1.m3u8$『线路37』
+CHC动作电影,http://116.1.184.56:8181/tsfile/live/1063_1.m3u8$『线路42』
+CHC动作电影,http://dassby.qqff.top:99/live/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1/index.m3u8
 
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$『线路17』
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$『线路15』
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$『线路56』
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$『线路11』
+CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$『线路8』
+CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$『线路58』
 CHC家庭影院,http://dassby.qqff.top:99/live/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2/index.m3u8
 CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 
-CHC动作电影,http://dassby.qqff.top:99/live/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1/index.m3u8
-
 CHC影迷电影,http://dassby.qqff.top:99/live/CHC%E9%AB%98%E6%B8%85/index.m3u8
+
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 
 CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
 CHC影迷电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000
