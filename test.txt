@@ -1,6 +1,11 @@
 测试,#genre#
 
-
+CCTV-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+CCTV-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV-文化精品,http://wouu.net:9977/udp/239.93.42.47:5140
+CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 
 
 
