@@ -141,7 +141,7 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0%24%E8%AE%A2%E9%98%85%E6%BA%90-1920x1080
 
-上海新闻,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&yang-1989
+上海新闻综合,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&yang-1989
 上海都市,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&yang-1989
 五星体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&yang-1989
 劲爆体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&yang-1989
