@@ -40,7 +40,7 @@ CCTV-17 农村农业,http://[2409:8087:5e00:24::20]:6610/000000001000/1/10000000
 东南卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265033/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=YanG-1989
 湖北卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265023/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=YanG-1989
 贵州卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=YanG-1989
-辽宁卫视「IPV6,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265022/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=YanG-1989
+辽宁卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265022/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=YanG-1989
 吉林卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=YanG-1989
 黑龙江卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=YanG-1989
 云南卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=YanG-1989
@@ -114,5 +114,50 @@ iHOT爱体育,http://[2409:8087:5e00:24::20]:6610/000000001000/1/200000000400000
 
 
 
-
+我不是胡八一,https://live.iill.top/douyu/11649079
+怡宝电影,https://live.iill.top/douyu/434971
+bbox达人,https://live.iill.top/douyu/428402
+奶虫电影,https://live.iill.top/douyu/263824
+小U电影,https://live.iill.top/douyu/96577
+凌宝直播,https://live.iill.top/douyu/1377142
+小鬼影院,https://live.iill.top/douyu/3928
+女神金,https://live.iill.top/douyu/747764
+小白影院,https://live.iill.top/douyu/322360
+神乐影院,https://live.iill.top/douyu/85894
+科幻FANS,https://live.iill.top/douyu/3508304
+漫威主线,https://live.iill.top/douyu/6140589
+豆瓣高分,https://live.iill.top/douyu/8770422
+霍格沃茨 哈利,https://live.iill.top/douyu/8814650
+欧美大片1,https://live.iill.top/douyu/20415
+欧美大片2,https://live.iill.top/douyu/2793084
+贝爷影厅1,https://live.iill.top/douyu/36337
+贝爷影厅2,https://live.iill.top/douyu/252802
+贝爷MAX影厅,https://live.iill.top/douyu/4332
+鱼宝恐怖✔原,https://live.iill.top/douyu/1165374
+老三国,https://live.iill.top/douyu/7459925
+新三国,https://live.iill.top/douyu/5908256
+金庸武侠,https://live.iill.top/douyu/338759
+人气港剧,https://live.iill.top/douyu/4549169
+粤语电影1,https://live.iill.top/douyu/6566671
+粤语电影2,https://live.iill.top/douyu/1226741
+华语原画电影,https://live.iill.top/douyu/276200
+贝贝电影,https://live.iill.top/douyu/431460
+经典影视剧,https://live.iill.top/douyu/6091425
+神 剧,https://live.iill.top/douyu/5875025
+经典港剧天地,https://live.iill.top/douyu/4290711
+网神影厅,https://live.iill.top/douyu/508118
+PDD影院,https://live.iill.top/douyu/1274132
+动漫超燃怀旧经典,https://live.iill.top/douyu/1174353
+动漫合集,https://live.iill.top/douyu/7620081
+香港赌片,https://live.iill.top/douyu/315457
+女团演唱会,https://live.iill.top/douyu/11327316
+开心麻花,https://live.iill.top/douyu/10153463
+4K影视剧,https://live.iill.top/douyu/12191214
+4K电影院,https://live.iill.top/douyu/12192607
+青春动作喜剧轮播,https://live.iill.top/douyu/5423
+权游,https://live.iill.top/douyu/8945323
+音乐MV,https://live.iill.top/douyu/3870925
+科学黑历史,https://live.iill.top/douyu/9317739
+庆余年1,https://live.iill.top/douyu/7812810
+生活大爆炸,https://live.iill.top/douyu/6668627
 
