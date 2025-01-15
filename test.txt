@@ -2,46 +2,17 @@
 
 
 央视频道,#genre#
-CCTV1,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$『线路1』
-CCTV1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$『线路4』
-CCTV1,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$『线路24』
-CCTV1,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$『线路45』
-CCTV1,http://tv.kmhlzxs.top:35455/gaoma/cctv1.m3u8$『线路73』
 
-CCTV1,http://wab201.win:35455/gaoma/cctv1.m3u8$『线路75』
-CCTV1,http://43.248.128.135:35455/gaoma/cctv1.m3u8$『线路76』
 CCTV1,http://49.74.145.161:35455/gaoma/cctv1.m3u8$『线路77』
-CCTV1,http://123.138.22.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路78』
-CCTV1,http://113.195.45.40:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$『线路79』
-CCTV1,http://36.40.236.130:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路80』
 CCTV1,http://101.66.199.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$『线路81』
-CCTV1,http://101.66.199.88:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$『线路82』
-CCTV1,http://101.66.199.179:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$『线路83』
-CCTV1,http://101.66.199.235:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$『线路84』
-CCTV1,http://101.66.198.160:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$『线路85』
 CCTV1,http://106.53.99.30/dl/bjyd.php?id=1$『线路86』
 CCTV1,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1$『线路87』
-CCTV1,http://61.150.67.62:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路88』
-CCTV1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266$『线路89』
-CCTV1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02$『线路90』
-CCTV1,http://kxrj.site:1258/699/mg9.php?id=cctv1$『线路91』
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1$『线路92』
-CCTV1,http://124.231.213.16:9999/tsfile/live/0001_1.m3u8$『线路93』
-CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1$『线路94』
-CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1$『线路95』
-CCTV1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3$『线路96』
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$『线路97』
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$『线路98』
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$『线路99』
-CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8$『线路100』
-CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$『线路101』
-CCTV1,http://nas.zyylover.homes:35455/itv/1000000005000265001.m3u8?cdn=ystenlive$『线路102』
-CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$『线路103』
-CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8$『线路104』
 CCTV1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=201$『线路105』
 CCTV1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=484$『线路106』
 CCTV1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=488$『线路107』
 CCTV1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=489$『线路108』
+
 CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111$『线路109』
 CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111$『线路110』
 CCTV1,http://livetv.wqwqwq.sbs/itv/6000000001000029752.m3u8?cdn=wasusyt$『线路111』
