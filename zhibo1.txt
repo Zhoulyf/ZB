@@ -1,4 +1,43 @@
 央视频道,#genre#
+CCTV-1 综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=201$『线路105』
+CCTV-1 综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=484$『线路106』
+CCTV-1 综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=488$『线路107』
+CCTV-1 综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=489$『线路108』
+CCTV-2 财经,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=061$『线路88』
+CCTV-3 综艺,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=062$『线路80』
+CTV-4 中文国际,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=063$『线路81』
+CCTV-5 体育,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=064$『线路99』
+CCTV-5+ 体育赛事,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=246$『线路78』
+CCTV-6 电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=065$『线路84』
+CCTV-7 国防军事,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=127$『线路89』
+CCTV-8 电视剧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=066$『线路77』
+CCTV-9 纪录,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=128$『线路90』
+CTV-10 科教,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=129$『线路89』
+CCTV-11 戏曲,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=130$『线路82』
+CCTV-12 社会与法,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=131$『线路92』
+CCTV-13 新闻,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=067$『线路88』
+CCTV-14 少儿,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=132$『线路94』
+CCTV-15 音乐,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=133$『线路81』
+CCTV-17 农业农村,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=204$『线路81』
+
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+
 CCTV-1 综合,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=YanG-1989
 CCTV-2 财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=YanG-1989
 CCTV-3 综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=YanG-1989
@@ -36,24 +75,6 @@ CCTV-14 少儿,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/8
 CCTV-15 音乐,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -180,6 +201,7 @@ CCTV-16 奥林匹克,http://[2409:8087:5e08:24::2]:6610/000000001000/50000000080
 CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
 
 上海本地,#genre#
+东方卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=093$『线路101』
 东方卫视,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=YanG-1989
 东方卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -266,6 +288,43 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 
 
 卫视频道,#genre#
+湖南卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=086$『线路90』
+浙江卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=094$『线路102』
+东方卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=093$『线路101』
+北京卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=083$『线路86』
+江苏卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=085$『线路93』
+安徽卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=096$『线路78』
+重庆卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=107$『线路83』
+四川卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=103$『线路70』
+东南卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=483$『线路77』
+深圳卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=100$『线路75』
+深圳卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szws$『线路76』
+广东卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=092$『线路98』
+广西卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=116$『线路69』
+甘肃卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=119$『线路60』
+贵州卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=101$『线路81』
+河北卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=108$『线路77』
+河南卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=339$『线路78』
+黑龙江卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=095$『线路85』
+湖北卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=102$『线路88』
+江西卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=098$『线路83』
+吉林卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=097$『线路75』
+内蒙古卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=110$『线路47』
+辽宁卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=058$『线路78』
+辽宁卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=141$『线路79』
+辽宁卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=185$『线路80』
+宁夏卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=118$『线路55』
+青海卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=111$『线路63』
+山东卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=099$『线路77』
+天津卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=084$『线路84』
+新疆卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=150$『线路52』
+云南卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=482$『线路58』
+西藏卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=121$『线路49』
+兵团卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=124$『线路32』
+农林卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=122$『线路21』
+延边卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=117$『线路30』
+
+
 湖南卫视,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265024/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=YanG-1989
 浙江卫视,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=YanG-1989
 江苏卫视,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265030/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=YanG-1989
