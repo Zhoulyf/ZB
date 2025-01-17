@@ -36,6 +36,24 @@ CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
+CCTV-1 综合,http://221.2.148.205:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路82』
+CCTV-2 财经,http://221.2.148.205:8154/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『线路58』
+CCTV-3 综艺,http://221.2.148.205:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『线路61』
+CCTV-4 中文国际,http://221.2.148.205:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『线路59』
+CCTV-5 体育,http://221.2.148.205:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『线路70』
+CCTV-5+ 体育赛事,http://221.2.148.205:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$『线路60』
+CCTV-7 国防军事,http://221.2.148.205:8154/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『线路66』
+CCTV-8 电视剧,http://221.2.148.205:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『线路56』
+CCTV-9 纪录,http://221.2.148.205:8154/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$『线路69』
+CCTV-10 科教,http://221.2.148.205:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$『线路65』
+CCTV-11 戏曲,http://221.2.148.205:8154/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$『线路60』
+CCTV-12 社会与法,http://221.2.148.205:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$『线路67』
+CCTV-13 新闻,http://221.2.148.205:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$『线路62』
+CCTV-14 少儿,http://221.2.148.205:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『线路64』
+CCTV-15 音乐,http://221.2.148.205:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『线路57』
+CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$『线路64』
+
+
 CCTV-1 综合,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
