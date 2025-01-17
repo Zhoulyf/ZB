@@ -1,23 +1,4 @@
 央视频道,#genre#
-CCTV-1 综合,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=YanG-1989
-CCTV-2 财经,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=YanG-1989
-CCTV-3 综艺,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=YanG-1989
-CCTV-4 中文国际,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=YanG-1989
-CCTV-5 体育,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=YanG-1989
-CCTV-5+ 体育赛事,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=YanG-1989
-CCTV-6 电影,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=YanG-1989
-CCTV-7 国防军事,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=YanG-1989
-CCTV-8 电视剧,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=YanG-1989
-CCTV-9 纪录,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=YanG-1989
-CCTV-10 科教,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=YanG-1989
-CCTV-11 戏曲,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=YanG-1989
-CCTV-12 社会与法,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=YanG-1989
-CCTV-13 新闻,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265101/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=YanG-1989
-CCTV-14 少儿,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=YanG-1989
-CCTV-15 音乐,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=YanG-1989
-CCTV-16 奥林匹克,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=YanG-1989
-CCTV-17 农业农村,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=YanG-1989
-
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -34,6 +15,7 @@ CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16 奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1 综合,http://221.2.148.205:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路82』
@@ -53,6 +35,24 @@ CCTV-14 少儿,http://221.2.148.205:8154/tsfile/live/0014_1.m3u8?key=txiptv&play
 CCTV-15 音乐,http://221.2.148.205:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『线路57』
 CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$『线路64』
 
+CCTV-1 综合,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=YanG-1989
+CCTV-2 财经,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=YanG-1989
+CCTV-3 综艺,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=YanG-1989
+CCTV-4 中文国际,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=YanG-1989
+CCTV-5 体育,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=YanG-1989
+CCTV-5+ 体育赛事,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=YanG-1989
+CCTV-6 电影,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=YanG-1989
+CCTV-7 国防军事,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=YanG-1989
+CCTV-8 电视剧,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=YanG-1989
+CCTV-9 纪录,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=YanG-1989
+CCTV-10 科教,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=YanG-1989
+CCTV-11 戏曲,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=YanG-1989
+CCTV-12 社会与法,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=YanG-1989
+CCTV-13 新闻,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265101/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=YanG-1989
+CCTV-14 少儿,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=YanG-1989
+CCTV-15 音乐,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=YanG-1989
+CCTV-16 奥林匹克,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=YanG-1989
+CCTV-17 农业农村,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=YanG-1989
 
 CCTV-1 综合,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
@@ -312,6 +312,37 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 甘肃卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=YanG-1989
 青海卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=YanG-1989
 三沙卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000011000288016/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=YanG-1989
+
+北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=ace
+东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=ace
+天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=ace
+重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=ace
+黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=ace
+吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=ace
+辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=ace
+内蒙古卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=ace
+宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=ace
+陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=ace
+河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=ace
+山西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=ace
+山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=ace
+安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=ace
+河南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=ace
+湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=ace
+湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=ace
+江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=ace
+江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=ace
+浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=ace
+东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=ace
+广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=ace
+深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=ace
+广西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gxws-sd/1500.m3u8?innersid=ace
+云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=ace
+贵州卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=ace
+四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=ace
+新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=ace
+兵团卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/btws-sd/1500.m3u8?innersid=ace
+西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=ace
 
 湖南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
