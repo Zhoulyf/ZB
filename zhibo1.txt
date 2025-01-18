@@ -330,6 +330,7 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 
 湖南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265024/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=YanG-1989
 浙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=YanG-1989
