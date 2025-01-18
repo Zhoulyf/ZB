@@ -198,7 +198,7 @@ CCTV-16 奥林匹克,http://[2409:8087:5e08:24::2]:6610/000000001000/50000000080
 CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
 
 上海本地,#genre#
-东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8#http://lu.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
 东方卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=YanG-1989
 东方卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -207,6 +207,23 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/index.m3u8
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8
+
+上海新闻综合,http://lu.wqwqwq.sbs/itv/5000000011000031110.m3u8?cdn=bestzb
+上海都市,http://lu.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+五星体育,http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
+劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty#http://lu.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq#http://lu.wqwqwq.sbs/itv/5000000011000031207.m3u8?cdn=bestzb
+生活时尚,http://lu.wqwqwq.sbs/itv/5000000002000019634.m3u8?cdn=bestzb
+第一财经,http://lu.wqwqwq.sbs/itv/5000000010000027146.m3u8?cdn=bestzb
+东方财经,http://lu.wqwqwq.sbs/itv/5000000007000010003.m3u8?cdn=bestzb
+东方影视,http://lu.wqwqwq.sbs/itv/5000000010000032212.m3u8?cdn=bestzb#http://z.b.bkpcp.top/m.php?id=shys
+金色学堂,http://lu.wqwqwq.sbs/itv/5000000010000026105.m3u8?cdn=bestzb
+都市剧场,http://lu.wqwqwq.sbs/itv/5000000011000031111.m3u8?cdn=bestzb
+欢笑剧场,http://lu.wqwqwq.sbs/itv/5000000002000009455.m3u8?cdn=bestzb#http://z.b.bkpcp.top/m.php?id=hxjc
+法治天地,http://lu.wqwqwq.sbs/itv/9001547084732463424.m3u8?cdn=bestzb
+乐游,http://lu.wqwqwq.sbs/itv/5000000011000031112.m3u8?cdn=bestzb
+动漫秀场,http://lu.wqwqwq.sbs/itv/5000000011000031113.m3u8?cdn=bestzb
+游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy#http://lu.wqwqwq.sbs/itv/5000000011000031114.m3u8?cdn=bestzb
 
 上海新闻综合,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=YanG-1989
 上海都市,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=YanG-1989
@@ -285,6 +302,35 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 
 
 卫视频道,#genre#
+湖南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006692.m3u8?cdn=bestzb
+浙江卫视,http://lu.wqwqwq.sbs/itv/5000000004000007275.m3u8?cdn=bestzb
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws#http://lu.wqwqwq.sbs/itv/1000000005000265030.m3u8?cdn=ystenlive
+东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8#http://lu.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
+北京卫视,http://lu.wqwqwq.sbs/itv/1000000005000265027.m3u8?cdn=ystenlive
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+深圳卫视,http://lu.wqwqwq.sbs/itv/5000000004000007410.m3u8?cdn=bestzb
+重庆卫视,http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
+安徽卫视,http://lu.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive
+四川卫视,http://lu.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
+广西卫视,http://lu.wqwqwq.sbs/itv/5000000011000031118.m3u8?cdn=bestzb
+天津卫视,http://lu.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
+山东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265019.m3u8?cdn=ystenlive
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws#http://lu.wqwqwq.sbs/itv/1000000005000265032.m3u8?cdn=ystenlive
+河北卫视,http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://lu.wqwqwq.sbs/itv/5000000011000031119.m3u8?cdn=bestzb
+海南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
+东南卫视,http://lu.wqwqwq.sbs/itv/5000000004000010584.m3u8?cdn=bestzb
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws#http://lu.wqwqwq.sbs/itv/1000000005000265023.m3u8?cdn=ystenlive
+贵州卫视,http://lu.wqwqwq.sbs/itv/5000000004000025843.m3u8?cdn=bestzb
+辽宁卫视,http://lu.wqwqwq.sbs/itv/5000000004000011671.m3u8?cdn=bestzb
+吉林卫视,http://lu.wqwqwq.sbs/itv/5000000011000031117.m3u8?cdn=bestzb
+黑龙江卫视,http://lu.wqwqwq.sbs/itv/1000000005000265029.m3u8?cdn=ystenlive
+云南卫视,http://lu.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
+甘肃卫视,http://lu.wqwqwq.sbs/itv/5000000011000031121.m3u8?cdn=bestzb
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+
+
 湖南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265024/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=YanG-1989
 浙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=YanG-1989
 江苏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000005000265030/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=YanG-1989
