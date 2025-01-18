@@ -661,6 +661,33 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 New TV,#genre#
+黑莓电影,http://1972386346:35455/itv/1000000004000019624.m3u8?cdn=ystenlive&ace
+黑莓动画,http://1972386346:35455/itv/1000000004000021734.m3u8?cdn=ystenlive&ace
+哒啵电竞,http://1972386346:35455/itv/1000000006000032327.m3u8?cdn=ystenlive&ace
+哒啵赛事,http://1972386346:35455/itv/1000000001000003775.m3u8?cdn=ystenlive&ace
+精品综合,http://1972386346:35455/itv/1000000004000019008.m3u8?cdn=ystenlive&ace
+精品大剧,http://1972386346:35455/itv/1000000004000013968.m3u8?cdn=ystenlive&ace
+精品纪录,http://1972386346:35455/itv/1000000004000013730.m3u8?cdn=ystenlive&ace
+精品体育,http://1972386346:35455/itv/1000000004000014634.m3u8?cdn=ystenlive&ace
+精品萌宠,http://1972386346:35455/itv/1000000006000032328.m3u8?cdn=ystenlive&ace
+超级电视剧,http://1972386346:35455/itv/1000000006000268003.m3u8?cdn=ystenlive&ace
+超级电影,http://1972386346:35455/itv/1000000003000012426.m3u8?cdn=ystenlive&ace
+超级体育,http://1972386346:35455/itv/1000000001000009601.m3u8?cdn=ystenlive&ace
+超级综艺,http://1972386346:35455/itv/1000000006000268002.m3u8?cdn=ystenlive&ace
+东北热剧,http://1972386346:35455/itv/1000000005000266013.m3u8?cdn=ystenlive&ace
+动作电影,http://1972386346:35455/itv/1000000004000018653.m3u8?cdn=ystenlive&ace
+欢乐剧场,http://1972386346:35455/itv/1000000005000266012.m3u8?cdn=ystenlive&ace
+家庭剧场,http://1972386346:35455/itv/1000000004000008284.m3u8?cdn=ystenlive&ace
+金牌综艺,http://1972386346:35455/itv/1000000004000026167.m3u8?cdn=ystenlive&ace
+惊悚悬疑,http://1972386346:35455/itv/1000000004000024282.m3u8?cdn=ystenlive&ace
+魅力潇湘,http://1972386346:35455/itv/1000000001000006197.m3u8?cdn=ystenlive&ace
+明星大片,http://1972386346:35455/itv/2000000003000000016.m3u8?cdn=hnbblive&ace
+农业致富,http://1972386346:35455/itv/2000000003000000003.m3u8?cdn=hnbblive&ace
+武博世界,http://1972386346:35455/itv/2000000003000000007.m3u8?cdn=hnbblive&ace
+炫舞未来,http://1972386346:35455/itv/1000000001000000515.m3u8?cdn=ystenlive&ace
+怡伴健康,http://1972386346:35455/itv/1000000005000266011.m3u8?cdn=ystenlive&ace
+中国功夫,http://1972386346:35455/itv/2000000003000000009.m3u8?cdn=hnbblive&ace
+
 哒啵电竞,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=YanG-1989
 哒啵赛事,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=YanG-1989
 黑莓动画,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=YanG-1989
@@ -1409,6 +1436,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 
 4K,#genre#
+纯享4K,http://1972386346:35455/itv/1000000004000011651.m3u8?cdn=ystenlive&ace
 纯享4K,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
 华数4K,http://[2409:8087:5e20:24::d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
 
