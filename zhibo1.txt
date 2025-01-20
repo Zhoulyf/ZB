@@ -239,7 +239,6 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
-上海新闻综合,https://www.freetv.top/migu/651632657.m3u8?
 上海新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
 上海新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 上海新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-14.m3u8
