@@ -226,6 +226,32 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 动漫秀场,http://lu.wqwqwq.sbs/itv/5000000011000031113.m3u8?cdn=bestzb
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy#http://lu.wqwqwq.sbs/itv/5000000011000031114.m3u8?cdn=bestzb
 
+上海新闻综合,https://www.freetv.top/migu/651632657.m3u8?
+上海新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
+上海新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+上海新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-14.m3u8
+上海新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-9.m3u8
+上海新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-14.m3u8
+上海都市,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/5000000010000018926.m3u8%3Fcdn%3Dbestzb
+上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+五星体育,
+劲爆体育,
+东方影视,http://z.b.bkpcp.top/m.php?id=shys
+东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
+东方影视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dfys
+魅力足球,
+欢笑剧场,
+法治天地,
+乐游,
+动漫秀场,
+游戏风云,
+生活时尚,http://221.0.78.198:1681/hls/10275/index.m3u8
+都市剧场,
+金色学堂,
+第一财经,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dycj
+东方财经,http://wouu.net:9977/udp/239.93.1.165:5140
+东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
+
 上海新闻综合,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=YanG-1989
 上海都市,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=YanG-1989
 五星体育,http://[2409:8087:5e20:24::d]:6610/000000001000/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=YanG-1989
@@ -262,6 +288,7 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 游戏风云,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281
 
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0%24%E8%AE%A2%E9%98%85%E6%BA%90-1920x1080
+上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
 
 上海新闻综合,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031110/1.m3u8
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
