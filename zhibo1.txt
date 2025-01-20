@@ -234,12 +234,14 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 上海新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-14.m3u8
 上海都市,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/5000000010000018926.m3u8%3Fcdn%3Dbestzb
 上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
-五星体育,
-劲爆体育,
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF14%E3%80%8F
+劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
 东方影视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dfys
-魅力足球,
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+魅力足球,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=mlzq
 欢笑剧场,
 法治天地,
 乐游,
