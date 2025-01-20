@@ -664,7 +664,20 @@ CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 
 
 WanWan频道,#genre#
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://211.72.65.236:8574/.m3u8
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$『线路6』
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$『线路2』
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$『线路3』
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$『线路6』
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$『线路8』
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$『线路11
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
@@ -696,7 +709,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-
 
 
 New TV,#genre#
