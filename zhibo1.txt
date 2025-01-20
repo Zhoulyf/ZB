@@ -15,8 +15,27 @@ CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+
+CCTV-1 综合,http://219.135.180.210:18888/hls/1/index.m3u8
+CCTV-2 财经,http://219.135.180.210:18888/hls/2/index.m3u8
+CCTV-3 综艺,http://219.135.180.210:18888/hls/3/index.m3u8
+CCTV-4 中文国际,http://219.135.180.210:18888/hls/4/index.m3u8
+CCTV-5 体育,http://219.135.180.210:18888/hls/5/index.m3u8
+CCTV-5+ 体育赛事,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
+CCTV-6 电影,http://219.135.180.210:18888/hls/6/index.m3u8
+CCTV-7 国防军事,http://219.135.180.210:18888/hls/7/index.m3u8
+CCTV-8 电视剧,http://219.135.180.210:18888/hls/8/index.m3u8
+CCTV-9 纪录,http://219.135.180.210:18888/hls/9/index.m3u8
+CCTV-10 科教,http://219.135.180.210:18888/hls/10/index.m3u8
+CCTV-11 戏曲,http://219.135.180.210:18888/hls/11/index.m3u8
+CCTV-12 社会与法,http://219.135.180.210:18888/hls/12/index.m3u8
+CCTV-13 新闻,http://219.135.180.210:18888/hls/13/index.m3u8
+CCTV-14 少儿,http://219.135.180.210:18888/hls/14/index.m3u8
+CCTV-15 音乐,http://219.135.180.210:18888/hls/15/index.m3u8
+CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV-17 农业农村,http://219.135.180.210:18888/hls/24/index.m3u8
 
 CCTV-1 综合,http://221.2.148.205:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路82』
 CCTV-2 财经,http://221.2.148.205:8154/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『线路58』
