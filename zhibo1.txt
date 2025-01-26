@@ -1103,7 +1103,6 @@ YY直播,#genre#
 科幻大片合集,https://live.iill.top/yy/1382736851
 顶级动作电影,https://live.iill.top/yy/24923327
 速度与激情,https://live.iill.top/yy/1382736911
-科幻片,https://live.iill.top/yy/1354930897
 国外科幻大片,https://live.iill.top/yy/1382747628
 变形金刚,https://live.iill.top/yy/1382736803
 
@@ -1126,7 +1125,6 @@ YY直播,#genre#
 科幻大片合集,http://jiaojirentv.top/2020/yy.php?id=1382736851
 顶级动作电影,http://jiaojirentv.top/2020/yy.php?id=24923327
 速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382736911
-科幻片,http://jiaojirentv.top/2020/yy.php?id=1354930897
 国外科幻大片,http://jiaojirentv.top/2020/yy.php?id=1382747628
 变形金刚,http://jiaojirentv.top/2020/yy.php?id=1382736803
 
@@ -1241,8 +1239,5 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 
-4K,#genre#
-纯享4K,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
-华数4K,http://[2409:8087:5e20:24::d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
 
 测试,#genre#
