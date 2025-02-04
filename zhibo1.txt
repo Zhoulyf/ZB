@@ -104,6 +104,7 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 上海都市,http://61.173.54.75:4022/udp/239.45.3.236:5140
 五星体育,http://61.173.54.75:4022/udp/239.45.3.210:5140
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
+纪实人文,
 东方影视,http://61.173.54.75:4022/udp/239.45.3.237:5140#http://z.b.bkpcp.top/m.php?id=shys
 生活时尚,http://61.173.54.75:4022/udp/239.45.3.132:5140
 第一财经,http://61.173.54.75:4022/udp/239.45.3.211:5140
@@ -126,7 +127,6 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 上海都市,http://lu.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 五星体育,http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 劲爆体育,http://lu.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
-纪实人文,http://lu.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb#http://lu.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
 魅力足球,http://lu.wqwqwq.sbs/itv/5000000011000031207.m3u8?cdn=bestzb
 欢笑剧场,http://lu.wqwqwq.sbs/itv/5000000007000010001.m3u8?cdn=bestzb#http://lu.wqwqwq.sbs/itv/5000000002000009455.m3u8?cdn=bestzb
 法治天地,http://lu.wqwqwq.sbs/itv/9001547084732463424.m3u8?cdn=bestzb#http://lu.wqwqwq.sbs/itv/2000000002000000014.m3u8?cdn=hnbblive
@@ -137,10 +137,9 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 都市剧场,http://lu.wqwqwq.sbs/itv/5000000011000031111.m3u8?cdn=bestzb
 金色学堂,http://lu.wqwqwq.sbs/itv/5000000010000026105.m3u8?cdn=bestzb
 第一财经,http://lu.wqwqwq.sbs/itv/5000000010000027146.m3u8?cdn=bestzb
-东方财经,http://lu.wqwqwq.sbs/itv/5000000007000010003.m3u8?cdn=bestzb
 东方影视,http://lu.wqwqwq.sbs/itv/5000000010000032212.m3u8?cdn=bestzb
 哈哈炫动,http://lu.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
-七彩戏剧,http://lu.wqwqwq.sbs/itv/5000000011000031116.m3u8?cdn=bestzb
+纪实人文,http://lu.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb#http://lu.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
 
 
 
