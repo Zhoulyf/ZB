@@ -612,6 +612,8 @@ CHC影迷电影,http://dassby.qqff.top:99/live/CHC%E9%AB%98%E6%B8%85/index.m3u8
 
 
 斗鱼电影,#genre#
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+
 漫威主线,https://live.iill.top/douyu/6140589
 欧美大片1,https://live.iill.top/douyu/20415
 欧美大片2,https://live.iill.top/douyu/2793084
