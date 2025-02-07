@@ -18,6 +18,10 @@ CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
+
+CCTV-13 新闻,http://61.173.54.75:4022/udp/239.45.0.19:5140
+CCTV-13 新闻,http://222.68.34.110:9898/udp/239.45.0.19:5140
+
 CCTV-1 综合,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive 
 CCTV-2 财经,http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
 CCTV-3 综艺,http://dsm.huarunguoji.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive 
