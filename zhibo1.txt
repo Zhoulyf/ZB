@@ -148,8 +148,6 @@ CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 东方购物2,http://222.68.34.110:9898/udp/239.45.3.74:5140
 东方购物3,http://222.68.34.110:9898/udp/239.45.3.207:5140
 
-
-
 上海新闻综合,http://lu.wqwqwq.sbs/itv/5000000011000031110.m3u8?cdn=bestzb
 上海都市,http://lu.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 五星体育,http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -168,10 +166,9 @@ CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 哈哈炫动,http://lu.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
 纪实人文,http://lu.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb#http://lu.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
 
-
-
 东方购物1,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 东方购物2,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+
 
 
 卫视频道,#genre#
