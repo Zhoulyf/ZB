@@ -1,4 +1,23 @@
 央视频道,#genre#
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+
 CCTV-1 综合,http://61.173.54.75:4022/udp/239.45.3.51:5140
 CCTV-1 综合,http://61.173.54.75:4022/udp/239.45.3.88:5140
 CCTV-1 综合,http://61.173.54.75:4022/udp/239.45.3.145:5140
@@ -41,25 +60,6 @@ CCTV风云足球,http://61.173.54.75:4022/udp/239.45.1.75:5140
 CCTV风云音乐,http://61.173.54.75:4022/udp/239.45.0.52:5140
 CCTV高尔夫网球,http://61.173.54.75:4022/udp/239.45.0.48:5140
 CCTV高尔夫网球,http://61.173.54.75:4022/udp/239.45.1.72:5140
-
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1 综合,http://218.1.186.143:8888/udp/239.45.3.51:5140
 CCTV-1 综合,http://218.1.186.143:8888/udp/239.45.3.88:5140
@@ -284,6 +284,114 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 
 
 卫视频道,#genre#
+北京卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+湖南卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+江苏卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+东方卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+浙江卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+安徽卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+天津卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+四川卫视,http://dsm.huarunguoji.top:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+重庆卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+山东卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+深圳卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+广东卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+广西卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+江西卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+河北卫视,http://dsm.huarunguoji.top:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
+湖北卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+东南卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+贵州卫视,http://dsm.huarunguoji.top:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+辽宁卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+黑龙江卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
+山西卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+宁夏卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+陕西卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
+吉林卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+甘肃卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+云南卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+海南卫视,http://dsm.huarunguoji.top:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+三沙卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+青海卫视,http://dsm.huarunguoji.top:35455/itv/5000000006000040015.m3u8?cdn=bestzb
+新疆卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
+西藏卫视,http://dsm.huarunguoji.top:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
+农林卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
+兵团卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
+延边卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
+安多卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
+厦门卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
+康巴卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
+大湾区卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+
+北京卫视,http://www.terrykang.xyz:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+湖南卫视,http://www.terrykang.xyz:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+江苏卫视,http://www.terrykang.xyz:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+东方卫视,http://www.terrykang.xyz:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+浙江卫视,http://www.terrykang.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+安徽卫视,http://www.terrykang.xyz:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+天津卫视,http://www.terrykang.xyz:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+四川卫视,http://www.terrykang.xyz:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+重庆卫视,http://www.terrykang.xyz:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+山东卫视,http://www.terrykang.xyz:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+深圳卫视,http://www.terrykang.xyz:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+广东卫视,http://www.terrykang.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+广西卫视,http://www.terrykang.xyz:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+江西卫视,http://www.terrykang.xyz:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+河北卫视,http://www.terrykang.xyz:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://www.terrykang.xyz:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
+湖北卫视,http://www.terrykang.xyz:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+东南卫视,http://www.terrykang.xyz:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+贵州卫视,http://www.terrykang.xyz:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+辽宁卫视,http://www.terrykang.xyz:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+黑龙江卫视,http://www.terrykang.xyz:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
+山西卫视,http://www.terrykang.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+宁夏卫视,http://www.terrykang.xyz:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+陕西卫视,http://www.terrykang.xyz:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
+吉林卫视,http://www.terrykang.xyz:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+甘肃卫视,http://www.terrykang.xyz:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+云南卫视,http://www.terrykang.xyz:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+海南卫视,http://www.terrykang.xyz:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+三沙卫视,http://www.terrykang.xyz:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+青海卫视,http://www.terrykang.xyz:35455/itv/5000000006000040015.m3u8?cdn=bestzb
+新疆卫视,http://www.terrykang.xyz:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
+西藏卫视,http://www.terrykang.xyz:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
+农林卫视,http://www.terrykang.xyz:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
+兵团卫视,http://www.terrykang.xyz:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
+延边卫视,http://www.terrykang.xyz:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
+安多卫视,http://www.terrykang.xyz:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
+厦门卫视,http://www.terrykang.xyz:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
+康巴卫视,http://www.terrykang.xyz:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
+大湾区卫视,http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+
+湖南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006692.m3u8?cdn=bestzb
+浙江卫视,http://lu.wqwqwq.sbs/itv/5000000004000007275.m3u8?cdn=bestzb
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws#http://lu.wqwqwq.sbs/itv/1000000005000265030.m3u8?cdn=ystenlive
+东方卫视,http://lu.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
+北京卫视,http://lu.wqwqwq.sbs/itv/1000000005000265027.m3u8?cdn=ystenlive
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+深圳卫视,http://lu.wqwqwq.sbs/itv/5000000004000007410.m3u8?cdn=bestzb
+重庆卫视,http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
+安徽卫视,http://lu.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive
+四川卫视,http://lu.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
+广西卫视,http://lu.wqwqwq.sbs/itv/5000000011000031118.m3u8?cdn=bestzb
+天津卫视,http://lu.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
+山东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265019.m3u8?cdn=ystenlive
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws#http://lu.wqwqwq.sbs/itv/1000000005000265032.m3u8?cdn=ystenlive
+河北卫视,http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://lu.wqwqwq.sbs/itv/5000000011000031119.m3u8?cdn=bestzb
+海南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
+东南卫视,http://lu.wqwqwq.sbs/itv/5000000004000010584.m3u8?cdn=bestzb
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws#http://lu.wqwqwq.sbs/itv/1000000005000265023.m3u8?cdn=ystenlive
+贵州卫视,http://lu.wqwqwq.sbs/itv/5000000004000025843.m3u8?cdn=bestzb
+辽宁卫视,http://lu.wqwqwq.sbs/itv/5000000004000011671.m3u8?cdn=bestzb
+吉林卫视,http://lu.wqwqwq.sbs/itv/5000000011000031117.m3u8?cdn=bestzb
+黑龙江卫视,http://lu.wqwqwq.sbs/itv/1000000005000265029.m3u8?cdn=ystenlive
+云南卫视,http://lu.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
+甘肃卫视,http://lu.wqwqwq.sbs/itv/5000000011000031121.m3u8?cdn=bestzb
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+
 湖南卫视,http://61.173.54.75:4022/udp/239.45.3.228:5140
 江苏卫视,http://61.173.54.75:4022/udp/239.45.3.177:5140
 浙江卫视,http://61.173.54.75:4022/udp/239.45.3.178:5140
@@ -380,113 +488,6 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 黑龙江卫视,http://222.70.21.43:6666/udp/239.45.3.232:5140
 三沙卫视,http://222.70.21.43:6666/udp/239.45.0.56:5140
 
-湖南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006692.m3u8?cdn=bestzb
-浙江卫视,http://lu.wqwqwq.sbs/itv/5000000004000007275.m3u8?cdn=bestzb
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws#http://lu.wqwqwq.sbs/itv/1000000005000265030.m3u8?cdn=ystenlive
-东方卫视,http://lu.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
-北京卫视,http://lu.wqwqwq.sbs/itv/1000000005000265027.m3u8?cdn=ystenlive
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-深圳卫视,http://lu.wqwqwq.sbs/itv/5000000004000007410.m3u8?cdn=bestzb
-重庆卫视,http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
-安徽卫视,http://lu.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive
-四川卫视,http://lu.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
-广西卫视,http://lu.wqwqwq.sbs/itv/5000000011000031118.m3u8?cdn=bestzb
-天津卫视,http://lu.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
-山东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265019.m3u8?cdn=ystenlive
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws#http://lu.wqwqwq.sbs/itv/1000000005000265032.m3u8?cdn=ystenlive
-河北卫视,http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://lu.wqwqwq.sbs/itv/5000000011000031119.m3u8?cdn=bestzb
-海南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
-东南卫视,http://lu.wqwqwq.sbs/itv/5000000004000010584.m3u8?cdn=bestzb
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws#http://lu.wqwqwq.sbs/itv/1000000005000265023.m3u8?cdn=ystenlive
-贵州卫视,http://lu.wqwqwq.sbs/itv/5000000004000025843.m3u8?cdn=bestzb
-辽宁卫视,http://lu.wqwqwq.sbs/itv/5000000004000011671.m3u8?cdn=bestzb
-吉林卫视,http://lu.wqwqwq.sbs/itv/5000000011000031117.m3u8?cdn=bestzb
-黑龙江卫视,http://lu.wqwqwq.sbs/itv/1000000005000265029.m3u8?cdn=ystenlive
-云南卫视,http://lu.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
-甘肃卫视,http://lu.wqwqwq.sbs/itv/5000000011000031121.m3u8?cdn=bestzb
-青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-
-北京卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
-湖南卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
-江苏卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
-东方卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-浙江卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
-安徽卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
-天津卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
-四川卫视,http://dsm.huarunguoji.top:35455/itv/5000000004000006119.m3u8?cdn=bestzb
-重庆卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
-山东卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
-深圳卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
-广东卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
-广西卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031118.m3u8?cdn=bestzb
-江西卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
-河北卫视,http://dsm.huarunguoji.top:35455/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
-湖北卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
-东南卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
-贵州卫视,http://dsm.huarunguoji.top:35455/itv/5000000004000025843.m3u8?cdn=bestzb
-辽宁卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
-黑龙江卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
-山西卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-宁夏卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
-陕西卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
-吉林卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031117.m3u8?cdn=bestzb
-甘肃卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031121.m3u8?cdn=bestzb
-云南卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000031120.m3u8?cdn=bestzb
-海南卫视,http://dsm.huarunguoji.top:35455/itv/5000000004000006211.m3u8?cdn=bestzb
-三沙卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-青海卫视,http://dsm.huarunguoji.top:35455/itv/5000000006000040015.m3u8?cdn=bestzb
-新疆卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
-西藏卫视,http://dsm.huarunguoji.top:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
-农林卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
-兵团卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
-延边卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
-安多卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
-厦门卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
-康巴卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
-大湾区卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
-
-北京卫视,http://www.terrykang.xyz:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
-湖南卫视,http://www.terrykang.xyz:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
-江苏卫视,http://www.terrykang.xyz:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
-东方卫视,http://www.terrykang.xyz:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-浙江卫视,http://www.terrykang.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
-安徽卫视,http://www.terrykang.xyz:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
-天津卫视,http://www.terrykang.xyz:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
-四川卫视,http://www.terrykang.xyz:35455/itv/5000000004000006119.m3u8?cdn=bestzb
-重庆卫视,http://www.terrykang.xyz:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
-山东卫视,http://www.terrykang.xyz:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
-深圳卫视,http://www.terrykang.xyz:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
-广东卫视,http://www.terrykang.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
-广西卫视,http://www.terrykang.xyz:35455/itv/5000000011000031118.m3u8?cdn=bestzb
-江西卫视,http://www.terrykang.xyz:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
-河北卫视,http://www.terrykang.xyz:35455/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://www.terrykang.xyz:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
-湖北卫视,http://www.terrykang.xyz:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
-东南卫视,http://www.terrykang.xyz:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
-贵州卫视,http://www.terrykang.xyz:35455/itv/5000000004000025843.m3u8?cdn=bestzb
-辽宁卫视,http://www.terrykang.xyz:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
-黑龙江卫视,http://www.terrykang.xyz:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
-山西卫视,http://www.terrykang.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-宁夏卫视,http://www.terrykang.xyz:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
-陕西卫视,http://www.terrykang.xyz:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
-吉林卫视,http://www.terrykang.xyz:35455/itv/5000000011000031117.m3u8?cdn=bestzb
-甘肃卫视,http://www.terrykang.xyz:35455/itv/5000000011000031121.m3u8?cdn=bestzb
-云南卫视,http://www.terrykang.xyz:35455/itv/5000000011000031120.m3u8?cdn=bestzb
-海南卫视,http://www.terrykang.xyz:35455/itv/5000000004000006211.m3u8?cdn=bestzb
-三沙卫视,http://www.terrykang.xyz:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-青海卫视,http://www.terrykang.xyz:35455/itv/5000000006000040015.m3u8?cdn=bestzb
-新疆卫视,http://www.terrykang.xyz:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
-西藏卫视,http://www.terrykang.xyz:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
-农林卫视,http://www.terrykang.xyz:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
-兵团卫视,http://www.terrykang.xyz:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
-延边卫视,http://www.terrykang.xyz:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
-安多卫视,http://www.terrykang.xyz:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
-厦门卫视,http://www.terrykang.xyz:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
-康巴卫视,http://www.terrykang.xyz:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
-大湾区卫视,http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 
 湖南卫视,http://58.221.214.82:9901/tsfile/live/0128_1.m3u8#http://148.135.93.213:81/live.php?id=湖南卫视
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://58.221.214.82:9901/tsfile/live/0124_1.m3u8#http://148.135.93.213:81/live.php?id=浙江卫视
