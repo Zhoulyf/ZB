@@ -1,24 +1,4 @@
 央视频道,#genre#
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
-
-
 CCTV-1 综合,http://61.173.54.75:4022/udp/239.45.3.51:5140
 CCTV-1 综合,http://61.173.54.75:4022/udp/239.45.3.88:5140
 CCTV-1 综合,http://61.173.54.75:4022/udp/239.45.3.145:5140
@@ -61,6 +41,25 @@ CCTV风云足球,http://61.173.54.75:4022/udp/239.45.1.75:5140
 CCTV风云音乐,http://61.173.54.75:4022/udp/239.45.0.52:5140
 CCTV高尔夫网球,http://61.173.54.75:4022/udp/239.45.0.48:5140
 CCTV高尔夫网球,http://61.173.54.75:4022/udp/239.45.1.72:5140
+
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1 综合,http://218.1.186.143:8888/udp/239.45.3.51:5140
 CCTV-1 综合,http://218.1.186.143:8888/udp/239.45.3.88:5140
@@ -189,10 +188,6 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 
 
 上海本地,#genre#
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-东方卫视,http://www.terrykang.xyz:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-东方卫视,http://lu.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
-
 东方卫视,http://61.173.54.75:4022/udp/239.45.3.146:5140
 上海新闻综合,http://61.173.54.75:4022/udp/239.45.3.209:5140
 上海都市,http://61.173.54.75:4022/udp/239.45.3.236:5140
@@ -215,6 +210,8 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 东方购物1,http://61.173.54.75:4022/udp/239.45.3.75:5140
 东方购物2,http://61.173.54.75:4022/udp/239.45.3.74:5140
 东方购物3,http://61.173.54.75:4022/udp/239.45.3.207:5140
+
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 
 东方卫视,http://218.1.186.143:8888/udp/239.45.3.146:5140
 上海新闻综合,http://218.1.186.143:8888/udp/239.45.3.209:5140
