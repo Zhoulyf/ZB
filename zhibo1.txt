@@ -188,8 +188,24 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 
 
 上海本地,#genre#
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
+东方卫视,http://home.dzlove.top:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+上海新闻综合,http://home.dzlove.top:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+上海都市,http://home.dzlove.top:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+劲爆体育,http://home.dzlove.top:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+魅力足球,http://home.dzlove.top:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+欢笑剧场,http://home.dzlove.top:35455/itv/5000000007000010001.m3u8?cdn=bestzb#http://home.dzlove.top:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+法治天地,http://home.dzlove.top:35455/itv/9001547084732463424.m3u8?cdn=bestzb#http://home.dzlove.top:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+乐游,http://home.dzlove.top:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+动漫秀场,http://home.dzlove.top:35455/itv/5000000011000031113.m3u8?cdn=bestzb
+游戏风云,http://home.dzlove.top:35455/itv/5000000011000031114.m3u8?cdn=bestzb
+生活时尚,http://home.dzlove.top:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+都市剧场,http://home.dzlove.top:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+金色学堂,http://home.dzlove.top:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+第一财经,http://home.dzlove.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+东方影视,http://home.dzlove.top:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+哈哈炫动,http://home.dzlove.top:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+纪实人文,http://home.dzlove.top:35455/itv/5000000004000010282.m3u8?cdn=bestzb#http://home.dzlove.top:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 
 东方卫视,http://116.232.36.48:8888/udp/239.45.3.146:5140
 上海新闻综合,http://116.232.36.48:8888/udp/239.45.3.209:5140
