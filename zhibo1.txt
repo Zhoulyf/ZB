@@ -1,5 +1,6 @@
 央视频道,#genre#
-CCTV-1 综合,http://home.dzlove.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive 
+CCTV-1 综合,http://home.dzlove.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-1 综合,http://home.dzlove.top:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 CCTV-2 财经,http://home.dzlove.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
 CCTV-3 综艺,http://home.dzlove.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive 
 CCTV-4 中文国际,http://home.dzlove.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive 
@@ -186,6 +187,7 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 
 上海本地,#genre#
 东方卫视,http://home.dzlove.top:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+东方卫视,http://home.dzlove.top:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 上海新闻综合,http://home.dzlove.top:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 上海都市,http://home.dzlove.top:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -202,7 +204,6 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 第一财经,http://home.dzlove.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 东方影视,http://home.dzlove.top:35455/itv/5000000010000032212.m3u8?cdn=bestzb
 哈哈炫动,http://home.dzlove.top:35455/itv/5000000011000031123.m3u8?cdn=bestzb
-纪实人文,http://home.dzlove.top:35455/itv/5000000004000010282.m3u8?cdn=bestzb#http://home.dzlove.top:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 
 东方卫视,http://101.83.130.59:8888/udp/239.45.3.146:5140
 上海新闻综合,http://101.83.130.59:8888/udp/239.45.3.209:5140
@@ -290,7 +291,7 @@ CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txipt
 第一财经,http://lu.wqwqwq.sbs/itv/5000000010000027146.m3u8?cdn=bestzb
 东方影视,http://lu.wqwqwq.sbs/itv/5000000010000032212.m3u8?cdn=bestzb
 哈哈炫动,http://lu.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
-纪实人文,http://lu.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb#http://lu.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
+
 
 东方购物1,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 东方购物2,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
