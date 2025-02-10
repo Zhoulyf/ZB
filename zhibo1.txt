@@ -1,4 +1,23 @@
 央视频道,#genre#
+CCTV-1 综合,http://home.dzlove.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive 
+CCTV-2 财经,http://home.dzlove.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
+CCTV-3 综艺,http://home.dzlove.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive 
+CCTV-4 中文国际,http://home.dzlove.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive 
+CCTV-5 体育,http://home.dzlove.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive 
+CCTV-5+ 体育赛事,http://home.dzlove.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive 
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7 国防军事,http://home.dzlove.top:35455/itv/1000000005000265007.m3u8?cdn=ystenlive 
+CCTV-8 电视剧,http://home.dzlove.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive 
+CCTV-9 纪录,http://home.dzlove.top:35455/itv/1000000005000265009.m3u8?cdn=ystenlive 
+CCTV-10 科教,http://home.dzlove.top:35455/itv/1000000005000265010.m3u8?cdn=ystenlive 
+CCTV-11 戏曲,http://home.dzlove.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive 
+CCTV-12 社会与法,http://home.dzlove.top:35455/itv/1000000005000265012.m3u8?cdn=ystenlive 
+CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14 少儿,http://home.dzlove.top:35455/itv/1000000005000265013.m3u8?cdn=ystenlive 
+CCTV-15 音乐,http://home.dzlove.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive 
+CCTV-16 奥林匹克,http://home.dzlove.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
+CCTV-17 农业农村,http://home.dzlove.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -147,26 +166,6 @@ CCTV风云音乐,http://222.70.21.43:6666/udp/239.45.0.52:5140
 CCTV高尔夫网球,http://222.70.21.43:6666/udp/239.45.0.48:5140
 CCTV高尔夫网球,http://222.70.21.43:6666/udp/239.45.1.72:5140
 
-CCTV-1 综合,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive 
-CCTV-2 财经,http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
-CCTV-3 综艺,http://dsm.huarunguoji.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive 
-CCTV-4 中文国际,http://dsm.huarunguoji.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive 
-CCTV-5 体育,http://dsm.huarunguoji.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive 
-CCTV-5+ 体育赛事,http://dsm.huarunguoji.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive 
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://dsm.huarunguoji.top:35455/itv/1000000005000265007.m3u8?cdn=ystenlive 
-CCTV-8 电视剧,http://dsm.huarunguoji.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive 
-CCTV-9 纪录,http://dsm.huarunguoji.top:35455/itv/1000000005000265009.m3u8?cdn=ystenlive 
-CCTV-10 科教,http://dsm.huarunguoji.top:35455/itv/1000000005000265010.m3u8?cdn=ystenlive 
-CCTV-11 戏曲,http://dsm.huarunguoji.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive 
-CCTV-12 社会与法,http://dsm.huarunguoji.top:35455/itv/1000000005000265012.m3u8?cdn=ystenlive 
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://dsm.huarunguoji.top:35455/itv/1000000005000265013.m3u8?cdn=ystenlive 
-CCTV-15 音乐,http://dsm.huarunguoji.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive 
-CCTV-16 奥林匹克,http://dsm.huarunguoji.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
-CCTV-17 农业农村,http://dsm.huarunguoji.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
-
-
 CCTV-1 综合,http://221.2.148.205:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『线路82』
 CCTV-2 财经,http://221.2.148.205:8154/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『线路58』
 CCTV-3 综艺,http://221.2.148.205:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『线路61』
@@ -183,8 +182,6 @@ CCTV-13 新闻,http://221.2.148.205:8154/tsfile/live/0013_1.m3u8?key=txiptv&play
 CCTV-14 少儿,http://221.2.148.205:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『线路64』
 CCTV-15 音乐,http://221.2.148.205:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『线路57』
 CCTV-17 农业农村,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$『线路64』
-
-
 
 
 上海本地,#genre#
