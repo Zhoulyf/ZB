@@ -37,6 +37,25 @@ CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
+CCTV-1 综合,http://3501776.xyz:35455/gaoma/cctv1.m3u8
+CCTV-2 财经,http://3501776.xyz:35455/gaoma/cctv2.m3u8
+CCTV-3 综艺,http://3501776.xyz:35455/gaoma/cctv3.m3u8
+CCTV-4 中文国际,http://3501776.xyz:35455/gaoma/cctv4.m3u8
+CCTV-5 体育,http://3501776.xyz:35455/gaoma/cctv5.m3u8
+CCTV-5+ 体育赛事,http://3501776.xyz:35455/gaoma/cctv5p.m3u8
+CCTV-6 电影,http://3501776.xyz:35455/gaoma/cctv6.m3u8
+CCTV-7 国防军事,http://3501776.xyz:35455/gaoma/cctv7.m3u8
+CCTV-8 电视剧,http://3501776.xyz:35455/gaoma/cctv8.m3u8
+CCTV-9 纪录,http://3501776.xyz:35455/gaoma/cctv9.m3u8
+CCTV-10 科教,http://3501776.xyz:35455/gaoma/cctv10.m3u8
+CCTV-11 戏曲,http://3501776.xyz:35455/gaoma/cctv11.m3u8
+CCTV-12 社会与法,http://3501776.xyz:35455/gaoma/cctv12.m3u8
+CCTV-13 新闻,http://3501776.xyz:35455/gaoma/cctv13.m3u8
+CCTV-14 少儿,http://3501776.xyz:35455/gaoma/cctv14.m3u8
+CCTV-15 音乐,http://3501776.xyz:35455/gaoma/cctv15.m3u8
+CCTV-16 奥林匹克,http://3501776.xyz:35455/gaoma/cctv16.m3u8
+CCTV-17 农业农村,http://3501776.xyz:35455/gaoma/cctv17.m3u8
+
 CCTV-1 综合,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV-1 综合,http://dsm.huarunguoji.top:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 CCTV-2 财经,http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
