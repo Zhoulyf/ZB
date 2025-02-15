@@ -1,4 +1,42 @@
 央视频道,#genre#
+CCTV-1 综合,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
+CCTV-2 财经,http://tv.20191209.xyz:37377/migu/631780532.m3u8?migutoken=862217ff2cffee0a741039e700509cb8f9a8b1920fe6cee55afb89ef1551eba3ecc744e93cf8e52cd8b4bf1a27c7a074745b640058072bfa4ad145917cdeb959261218d7b78174684a74ae78
+CCTV-3 综艺,http://tv.20191209.xyz:37377/migu/624878271.m3u8?migutoken=6bf1444e1fd674ffdba5c57e719cecb87358abd9dfd0059ccfaceb24503ca14f393ec4b44fc2a4b2b5eded13d1f30a2052d85600414a1274345fcd95bd9848cf13bffeef1945f996928f0095
+CCTV-4 中文国际,http://tv.20191209.xyz:37377/migu/631780421.m3u8?migutoken=40b6a739d50c9611ac1bd3d6237cc8012f7bd8bd06945da894d03e393a3af480e950d8dc5e1a28cc2b74626afd48a747c2298114358e3f95be67743f3627ea5c2b12422eb6f434b52d57ce8c
+CCTV-5 体育,http://tv.20191209.xyz:37377/migu/641886683.m3u8?migutoken=81d12cec2983a402e950068a320720875c9b84d86ead50b7ee5cc3d407f55f3d85a8e298762710bc211027e047162ea27025e20dda4ac4921a6c1d8b950dbe297e15174889d5122c0e3462d0
+CCTV-5+ 体育赛事,http://tv.20191209.xyz:37377/migu/641886773.m3u8?migutoken=dfc218ce4c1ff00475c0aef03e0b883bf8a277b36671d5ca1eb7cc5f7ce7919d01ee050351170891d6e103aa7adea25827c13c901ccf6cdf4a8a370e7fd90c8b198dcb1e8814bbf2ed4fb0c8
+CCTV-6 电影,http://tv.20191209.xyz:37377/migu/624878396.m3u8?migutoken=14b6f481c50ac947cd74bf4b212c490bc99f4bebefd4ce18011c9eb269208a0ce9740af370135e855763df734bac8f57f36721ae54b6afc81829420e84f46c65a2de80938b057c6ec23459eb
+CCTV-7 国防军事,http://tv.20191209.xyz:37377/migu/673168121.m3u8?migutoken=76fbb50f9a12de455452a0b92fde921c6a9a596f2e4035246492270152653570a478746ff105876f101081cb38974e61faa26aebb018bef93a4d7b8a840fa3beb2b478fdb581d84460caa867
+CCTV-8 电视剧,http://tv.20191209.xyz:37377/migu/624878356.m3u8?migutoken=9d347588ab808559db972d3c94b0d970ec130153e4a6dde98c4466f1d3f85f58de23d16994f2f0ed903aa6727a7282cb17103e67b69c8e3f31d253bb78039a4df119e2cfeba6916d123a8003
+CCTV-9 纪录,http://tv.20191209.xyz:37377/migu/673168140.m3u8?migutoken=f031388105c748c586faaad9c60beb6810562043675d6edc5e20d12b433d4ca6cb365c3f3ae060a000a9d0dfcfe0e27fef16bfe073d28cb40758aaa79ab380a9015815cfe9bfc4e6413e284a
+CCTV-10 科教,http://tv.20191209.xyz:37377/migu/624878405.m3u8?migutoken=06cf776d6a6cbe5cb707174dfad937c2164030bf7ce5f589493870891966f9cdaa5f56bad6e7874d683d5b1e3d9a6e59d0f7c78276d5ec47d979ae42b67833e261a2dda0118f3edcabd6a85b
+CCTV-11 戏曲,http://tv.20191209.xyz:37377/migu/667987558.m3u8?migutoken=d3962834d5d359e6f7f25a8880b73dac381a999ef87ba6b7f0f985bb5308a73061bbf5a9abdf873debb3b83b31eb7eff72f410c853c86f404b3f3ef269aeb631982e338f1400adcaf902fff7
+CCTV-12 社会与法,http://tv.20191209.xyz:37377/migu/673168185.m3u8?migutoken=3d92babc7a67aec41de5c1dc227d2bd8fd9aa5b6b3edb965f88dd9646adaa606101488515fe666e97721c2225a097e6a0f713f1e60f7427247164488ed52f9ec583d71d650f5382f878e71aa
+CCTV-13 新闻,http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e776bcf238bb9088879a2b71a25a424b0d80d5e71375315cda109c5aab5c79693c4324d45ad012e70208234f659abbe606a595a03d29e06ce931ed56f129fbc95a505ab84f72c
+CCTV-14 少儿,http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be2b0a959b0c1af15c62e7f86732fa2306e3a92f447f5b841e0cc26645dc89e70e970812e2c07c2fe24ae5c02b854544ed8c99d6c6d668a402d58cf351e77b5311afd
+CCTV-15 音乐,http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
+CCTV-16 奥林匹克,http://iptv.0564.org:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
+CCTV-17 农业农村,http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
+
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+
 CCTV-1 综合,http://a.ioraw.com:9009/TVOD/6000000001000029752/wasusyt/index.m3u8?ace
 CCTV-1 综合,http://a.ioraw.com:9009/TVOD/1000000001000018602/ystenlive/index.m3u8?ace
 CCTV-1 综合,http://a.ioraw.com:9009/TVOD/5000000004000002226/bestzb/index.m3u8?ace
@@ -89,44 +127,6 @@ CCTV-16 奥林匹克,http://a.ioraw.com:9009/TVOD/1000000006000233001/ystenlive/
 CCTV-17 农业农村,http://a.ioraw.com:9009/TVOD/1000000006000268004/ystenlive/index.m3u8?ace 
 CCTV-17 农业农村,http://a.ioraw.com:9009/TVOD/1000000005000265015/ystenlive/index.m3u8?ace
 CCTV-17 农业农村,http://a.ioraw.com:9009/TVOD/1000000005000056836/ystenlive/index.m3u8?ace
-
-CCTV-1 综合,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
-CCTV-2 财经,http://tv.20191209.xyz:37377/migu/631780532.m3u8?migutoken=862217ff2cffee0a741039e700509cb8f9a8b1920fe6cee55afb89ef1551eba3ecc744e93cf8e52cd8b4bf1a27c7a074745b640058072bfa4ad145917cdeb959261218d7b78174684a74ae78
-CCTV-3 综艺,http://tv.20191209.xyz:37377/migu/624878271.m3u8?migutoken=6bf1444e1fd674ffdba5c57e719cecb87358abd9dfd0059ccfaceb24503ca14f393ec4b44fc2a4b2b5eded13d1f30a2052d85600414a1274345fcd95bd9848cf13bffeef1945f996928f0095
-CCTV-4 中文国际,http://tv.20191209.xyz:37377/migu/631780421.m3u8?migutoken=40b6a739d50c9611ac1bd3d6237cc8012f7bd8bd06945da894d03e393a3af480e950d8dc5e1a28cc2b74626afd48a747c2298114358e3f95be67743f3627ea5c2b12422eb6f434b52d57ce8c
-CCTV-5 体育,http://tv.20191209.xyz:37377/migu/641886683.m3u8?migutoken=81d12cec2983a402e950068a320720875c9b84d86ead50b7ee5cc3d407f55f3d85a8e298762710bc211027e047162ea27025e20dda4ac4921a6c1d8b950dbe297e15174889d5122c0e3462d0
-CCTV-5+ 体育赛事,http://tv.20191209.xyz:37377/migu/641886773.m3u8?migutoken=dfc218ce4c1ff00475c0aef03e0b883bf8a277b36671d5ca1eb7cc5f7ce7919d01ee050351170891d6e103aa7adea25827c13c901ccf6cdf4a8a370e7fd90c8b198dcb1e8814bbf2ed4fb0c8
-CCTV-6 电影,http://tv.20191209.xyz:37377/migu/624878396.m3u8?migutoken=14b6f481c50ac947cd74bf4b212c490bc99f4bebefd4ce18011c9eb269208a0ce9740af370135e855763df734bac8f57f36721ae54b6afc81829420e84f46c65a2de80938b057c6ec23459eb
-CCTV-7 国防军事,http://tv.20191209.xyz:37377/migu/673168121.m3u8?migutoken=76fbb50f9a12de455452a0b92fde921c6a9a596f2e4035246492270152653570a478746ff105876f101081cb38974e61faa26aebb018bef93a4d7b8a840fa3beb2b478fdb581d84460caa867
-CCTV-8 电视剧,http://tv.20191209.xyz:37377/migu/624878356.m3u8?migutoken=9d347588ab808559db972d3c94b0d970ec130153e4a6dde98c4466f1d3f85f58de23d16994f2f0ed903aa6727a7282cb17103e67b69c8e3f31d253bb78039a4df119e2cfeba6916d123a8003
-CCTV-9 纪录,http://tv.20191209.xyz:37377/migu/673168140.m3u8?migutoken=f031388105c748c586faaad9c60beb6810562043675d6edc5e20d12b433d4ca6cb365c3f3ae060a000a9d0dfcfe0e27fef16bfe073d28cb40758aaa79ab380a9015815cfe9bfc4e6413e284a
-CCTV-10 科教,http://tv.20191209.xyz:37377/migu/624878405.m3u8?migutoken=06cf776d6a6cbe5cb707174dfad937c2164030bf7ce5f589493870891966f9cdaa5f56bad6e7874d683d5b1e3d9a6e59d0f7c78276d5ec47d979ae42b67833e261a2dda0118f3edcabd6a85b
-CCTV-11 戏曲,http://tv.20191209.xyz:37377/migu/667987558.m3u8?migutoken=d3962834d5d359e6f7f25a8880b73dac381a999ef87ba6b7f0f985bb5308a73061bbf5a9abdf873debb3b83b31eb7eff72f410c853c86f404b3f3ef269aeb631982e338f1400adcaf902fff7
-CCTV-12 社会与法,http://tv.20191209.xyz:37377/migu/673168185.m3u8?migutoken=3d92babc7a67aec41de5c1dc227d2bd8fd9aa5b6b3edb965f88dd9646adaa606101488515fe666e97721c2225a097e6a0f713f1e60f7427247164488ed52f9ec583d71d650f5382f878e71aa
-CCTV-13 新闻,http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e776bcf238bb9088879a2b71a25a424b0d80d5e71375315cda109c5aab5c79693c4324d45ad012e70208234f659abbe606a595a03d29e06ce931ed56f129fbc95a505ab84f72c
-CCTV-14 少儿,http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be2b0a959b0c1af15c62e7f86732fa2306e3a92f447f5b841e0cc26645dc89e70e970812e2c07c2fe24ae5c02b854544ed8c99d6c6d668a402d58cf351e77b5311afd
-CCTV-15 音乐,http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
-CCTV-16 奥林匹克,http://iptv.0564.org:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
-CCTV-17 农业农村,http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
-
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1 综合,http://3501776.xyz:35455/gaoma/cctv1.m3u8
 CCTV-2 财经,http://3501776.xyz:35455/gaoma/cctv2.m3u8
@@ -325,6 +325,51 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
+
+东方卫视,http://61.172.7.76:3333/udp/239.45.3.146:5140
+上海新闻综合,http://61.172.7.76:3333/udp/239.45.3.209:5140
+上海都市,http://61.172.7.76:3333/udp/239.45.3.236:5140
+五星体育,http://61.172.7.76:3333/udp/239.45.3.210:5140
+劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
+东方影视,http://61.172.7.76:3333/udp/239.45.3.237:5140#http://z.b.bkpcp.top/m.php?id=shys
+生活时尚,http://61.172.7.76:3333/udp/239.45.3.132:5140
+第一财经,http://61.172.7.76:3333/udp/239.45.3.211:5140
+上海教育,http://61.172.7.76:3333/udp/239.45.0.13:5140
+欢笑剧场 4K,http://61.172.7.76:3333/udp/239.45.1.4:5140
+欢笑剧场,http://61.172.7.76:3333/udp/239.45.3.196:5140#http://z.b.bkpcp.top/m.php?id=hxjc
+法治天地,http://61.172.7.76:3333/udp/239.45.1.46:5140
+都市剧场,http://61.172.7.76:3333/udp/239.45.3.136:5140
+乐游,http://61.172.7.76:3333/udp/239.45.3.135:5140
+金色学堂,http://61.172.7.76:3333/udp/239.45.1.118:5140
+动漫秀场,http://61.172.7.76:3333/udp/239.45.3.134:5140
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+哈哈炫动,http://61.172.7.76:3333/udp/239.45.1.55:5140
+游戏风云,http://61.172.7.76:3333/udp/239.45.3.131:5140#http://z.b.bkpcp.top/m.php?id=yxfy
+东方购物1,http://61.172.7.76:3333/udp/239.45.3.75:5140
+东方购物2,http://61.172.7.76:3333/udp/239.45.3.74:5140
+东方购物3,http://61.172.7.76:3333/udp/239.45.3.207:5140
+
+东方卫视,http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+东方卫视,http://iptv.0564.org:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+上海新闻综合,http://iptv.0564.org:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+上海都市,http://iptv.0564.org:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+五星体育,http://iptv.0564.org:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+劲爆体育,http://iptv.0564.org:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+魅力足球,http://iptv.0564.org:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+欢笑剧场,http://iptv.0564.org:35455/itv/5000000007000010001.m3u8?cdn=bestzb#http://iptv.0564.org:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+法治天地,http://iptv.0564.org:35455/itv/9001547084732463424.m3u8?cdn=bestzb#http://iptv.0564.org:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+乐游,http://iptv.0564.org:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+动漫秀场,http://iptv.0564.org:35455/itv/5000000011000031113.m3u8?cdn=bestzb
+游戏风云,http://iptv.0564.org:35455/itv/5000000011000031114.m3u8?cdn=bestzb
+生活时尚,http://iptv.0564.org:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+都市剧场,http://iptv.0564.org:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+金色学堂,http://iptv.0564.org:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+第一财经,http://iptv.0564.org:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+东方影视,http://iptv.0564.org:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+哈哈炫动,http://iptv.0564.org:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+
 东方卫视,http://a.ioraw.com:9009/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东方卫视,http://a.ioraw.com:9009/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
 东方卫视,http://a.ioraw.com:9009/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
@@ -374,51 +419,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 游戏风云,http://a.ioraw.com:9009/TVOD/5000000011000031114/bestzb/index.m3u8?ace
 游戏风云,http://a.ioraw.com:9009/TVOD/5000000002000027005/bestzb/index.m3u8?ace
 游戏风云,http://a.ioraw.com:9009/TVOD/2000000002000000011/hnbblive/index.m3u8?ace
-
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
-
-东方卫视,http://61.172.7.76:3333/udp/239.45.3.146:5140
-上海新闻综合,http://61.172.7.76:3333/udp/239.45.3.209:5140
-上海都市,http://61.172.7.76:3333/udp/239.45.3.236:5140
-五星体育,http://61.172.7.76:3333/udp/239.45.3.210:5140
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
-东方影视,http://61.172.7.76:3333/udp/239.45.3.237:5140#http://z.b.bkpcp.top/m.php?id=shys
-生活时尚,http://61.172.7.76:3333/udp/239.45.3.132:5140
-第一财经,http://61.172.7.76:3333/udp/239.45.3.211:5140
-上海教育,http://61.172.7.76:3333/udp/239.45.0.13:5140
-欢笑剧场 4K,http://61.172.7.76:3333/udp/239.45.1.4:5140
-欢笑剧场,http://61.172.7.76:3333/udp/239.45.3.196:5140#http://z.b.bkpcp.top/m.php?id=hxjc
-法治天地,http://61.172.7.76:3333/udp/239.45.1.46:5140
-都市剧场,http://61.172.7.76:3333/udp/239.45.3.136:5140
-乐游,http://61.172.7.76:3333/udp/239.45.3.135:5140
-金色学堂,http://61.172.7.76:3333/udp/239.45.1.118:5140
-动漫秀场,http://61.172.7.76:3333/udp/239.45.3.134:5140
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-哈哈炫动,http://61.172.7.76:3333/udp/239.45.1.55:5140
-游戏风云,http://61.172.7.76:3333/udp/239.45.3.131:5140#http://z.b.bkpcp.top/m.php?id=yxfy
-东方购物1,http://61.172.7.76:3333/udp/239.45.3.75:5140
-东方购物2,http://61.172.7.76:3333/udp/239.45.3.74:5140
-东方购物3,http://61.172.7.76:3333/udp/239.45.3.207:5140
-
-东方卫视,http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-东方卫视,http://iptv.0564.org:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
-上海新闻综合,http://iptv.0564.org:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-上海都市,http://iptv.0564.org:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-五星体育,http://iptv.0564.org:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-劲爆体育,http://iptv.0564.org:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-魅力足球,http://iptv.0564.org:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-欢笑剧场,http://iptv.0564.org:35455/itv/5000000007000010001.m3u8?cdn=bestzb#http://iptv.0564.org:35455/itv/5000000002000009455.m3u8?cdn=bestzb
-法治天地,http://iptv.0564.org:35455/itv/9001547084732463424.m3u8?cdn=bestzb#http://iptv.0564.org:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
-乐游,http://iptv.0564.org:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-动漫秀场,http://iptv.0564.org:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-游戏风云,http://iptv.0564.org:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-生活时尚,http://iptv.0564.org:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-都市剧场,http://iptv.0564.org:35455/itv/5000000011000031111.m3u8?cdn=bestzb
-金色学堂,http://iptv.0564.org:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-第一财经,http://iptv.0564.org:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-东方影视,http://iptv.0564.org:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-哈哈炫动,http://iptv.0564.org:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 
 东方卫视,http://gf.you123.fun:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 东方卫视,http://gf.you123.fun:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
@@ -509,6 +509,46 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 卫视频道,#genre#
+北京卫视,http://iptv.0564.org:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+湖南卫视,http://iptv.0564.org:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+江苏卫视,http://iptv.0564.org:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+东方卫视,http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+浙江卫视,http://iptv.0564.org:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+安徽卫视,http://iptv.0564.org:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+天津卫视,http://iptv.0564.org:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+四川卫视,http://iptv.0564.org:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+山东卫视,http://iptv.0564.org:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+深圳卫视,http://iptv.0564.org:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+广东卫视,http://iptv.0564.org:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+广西卫视,http://iptv.0564.org:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+江西卫视,http://iptv.0564.org:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+河北卫视,http://iptv.0564.org:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://iptv.0564.org:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
+湖北卫视,http://iptv.0564.org:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+东南卫视,http://iptv.0564.org:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+贵州卫视,http://iptv.0564.org:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+辽宁卫视,http://iptv.0564.org:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+黑龙江卫视,http://iptv.0564.org:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
+山西卫视,http://iptv.0564.org:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+宁夏卫视,http://iptv.0564.org:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+陕西卫视,http://iptv.0564.org:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
+吉林卫视,http://iptv.0564.org:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+甘肃卫视,http://iptv.0564.org:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+云南卫视,http://iptv.0564.org:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+海南卫视,http://iptv.0564.org:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+三沙卫视,http://iptv.0564.org:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+青海卫视,http://iptv.0564.org:35455/itv/5000000006000040015.m3u8?cdn=bestzb
+新疆卫视,http://iptv.0564.org:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
+西藏卫视,http://iptv.0564.org:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
+农林卫视,http://iptv.0564.org:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
+兵团卫视,http://iptv.0564.org:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
+延边卫视,http://iptv.0564.org:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
+安多卫视,http://iptv.0564.org:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
+厦门卫视,http://iptv.0564.org:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
+康巴卫视,http://iptv.0564.org:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
+大湾区卫视,http://iptv.0564.org:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+
 东方卫视,http://a.ioraw.com:9009/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东方卫视,http://a.ioraw.com:9009/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
 东方卫视,http://a.ioraw.com:9009/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
@@ -642,46 +682,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://a.ioraw.com:9009/TVOD/5000000004000025797/bestzb/index.m3u8?ace
 重庆卫视,http://a.ioraw.com:9009/TVOD/1000000005000265017/ystenlive/index.m3u8?ace
 重庆卫视,http://a.ioraw.com:9009/TVOD/1000000002000018937/ystenlive/index.m3u8?ace
-
-北京卫视,http://iptv.0564.org:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
-湖南卫视,http://iptv.0564.org:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
-江苏卫视,http://iptv.0564.org:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
-东方卫视,http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-浙江卫视,http://iptv.0564.org:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
-安徽卫视,http://iptv.0564.org:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
-天津卫视,http://iptv.0564.org:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
-四川卫视,http://iptv.0564.org:35455/itv/5000000004000006119.m3u8?cdn=bestzb
-重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
-山东卫视,http://iptv.0564.org:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
-深圳卫视,http://iptv.0564.org:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
-广东卫视,http://iptv.0564.org:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
-广西卫视,http://iptv.0564.org:35455/itv/5000000011000031118.m3u8?cdn=bestzb
-江西卫视,http://iptv.0564.org:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
-河北卫视,http://iptv.0564.org:35455/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://iptv.0564.org:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
-湖北卫视,http://iptv.0564.org:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
-东南卫视,http://iptv.0564.org:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
-贵州卫视,http://iptv.0564.org:35455/itv/5000000004000025843.m3u8?cdn=bestzb
-辽宁卫视,http://iptv.0564.org:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
-黑龙江卫视,http://iptv.0564.org:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
-山西卫视,http://iptv.0564.org:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-宁夏卫视,http://iptv.0564.org:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
-陕西卫视,http://iptv.0564.org:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
-吉林卫视,http://iptv.0564.org:35455/itv/5000000011000031117.m3u8?cdn=bestzb
-甘肃卫视,http://iptv.0564.org:35455/itv/5000000011000031121.m3u8?cdn=bestzb
-云南卫视,http://iptv.0564.org:35455/itv/5000000011000031120.m3u8?cdn=bestzb
-海南卫视,http://iptv.0564.org:35455/itv/5000000004000006211.m3u8?cdn=bestzb
-三沙卫视,http://iptv.0564.org:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-青海卫视,http://iptv.0564.org:35455/itv/5000000006000040015.m3u8?cdn=bestzb
-新疆卫视,http://iptv.0564.org:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
-西藏卫视,http://iptv.0564.org:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
-农林卫视,http://iptv.0564.org:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
-兵团卫视,http://iptv.0564.org:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
-延边卫视,http://iptv.0564.org:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
-安多卫视,http://iptv.0564.org:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
-厦门卫视,http://iptv.0564.org:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
-康巴卫视,http://iptv.0564.org:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
-大湾区卫视,http://iptv.0564.org:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 
 湖南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006692.m3u8?cdn=bestzb
 浙江卫视,http://lu.wqwqwq.sbs/itv/5000000004000007275.m3u8?cdn=bestzb
@@ -1008,6 +1008,28 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 New TV,#genre#
+超级电视剧,http://iptv.0564.org:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+动作电影,http://iptv.0564.org:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+惊悚悬疑,http://iptv.0564.org:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+哒啵电竞,http://iptv.0564.org:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+精品体育,http://iptv.0564.org:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+精品综合,http://iptv.0564.org:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+哒啵赛事,http://iptv.0564.org:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+黑莓动画,http://iptv.0564.org:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+黑莓电影,http://iptv.0564.org:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+怡伴健康,http://iptv.0564.org:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
+炫舞未来,http://iptv.0564.org:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
+魅力潇湘,http://iptv.0564.org:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
+金牌综艺,http://iptv.0564.org:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
+家庭剧场,http://iptv.0564.org:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
+欢乐剧场,http://iptv.0564.org:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
+东北热剧,http://iptv.0564.org:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
+超级综艺,http://iptv.0564.org:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
+超级体育,http://iptv.0564.org:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+超级电影,http://iptv.0564.org:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+精品萌宠,http://iptv.0564.org:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+精品纪录,http://iptv.0564.org:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+
 爱情喜剧,http://a.ioraw.com:9009/TVOD/2000000003000000010/hnbblive/index.m3u8?ace
 超级电视剧,http://a.ioraw.com:9009/TVOD/1000000006000268003/ystenlive/index.m3u8?ace
 超级电视剧,http://a.ioraw.com:9009/TVOD/2000000003000000032/hnbblive/index.m3u8?ace
@@ -1077,28 +1099,6 @@ New TV,#genre#
 黑莓电影,http://a.ioraw.com:9009/TVOD/1000000004000019624/ystenlive/index.m3u8?ace
 黑莓动画,http://a.ioraw.com:9009/TVOD/2000000003000000002/hnbblive/index.m3u8?ace
 黑莓动画,http://a.ioraw.com:9009/TVOD/1000000004000021734/ystenlive/index.m3u8?ace
-
-超级电视剧,http://iptv.0564.org:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
-动作电影,http://iptv.0564.org:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
-惊悚悬疑,http://iptv.0564.org:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
-哒啵电竞,http://iptv.0564.org:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-精品体育,http://iptv.0564.org:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
-精品综合,http://iptv.0564.org:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
-哒啵赛事,http://iptv.0564.org:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-黑莓动画,http://iptv.0564.org:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-黑莓电影,http://iptv.0564.org:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-怡伴健康,http://iptv.0564.org:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
-炫舞未来,http://iptv.0564.org:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
-魅力潇湘,http://iptv.0564.org:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
-金牌综艺,http://iptv.0564.org:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
-家庭剧场,http://iptv.0564.org:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-欢乐剧场,http://iptv.0564.org:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
-东北热剧,http://iptv.0564.org:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
-超级综艺,http://iptv.0564.org:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
-超级体育,http://iptv.0564.org:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-超级电影,http://iptv.0564.org:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-精品萌宠,http://iptv.0564.org:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
-精品纪录,http://iptv.0564.org:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 
 超级电视剧,http://gf.you123.fun:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 动作电影,http://gf.you123.fun:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
@@ -1191,6 +1191,22 @@ New TV,#genre#
 
 
 iHOT频道,#genre#
+iHOT爱院线,http://iptv.0564.org:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+iHOT爱幼教,http://iptv.0564.org:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
+iHOT爱悬疑,http://iptv.0564.org:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+iHOT爱喜剧,http://iptv.0564.org:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+iHOT爱玩具,http://iptv.0564.org:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
+iHOT爱体育,http://iptv.0564.org:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+iHOT爱赛车,http://iptv.0564.org:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+iHOT爱奇谈,http://iptv.0564.org:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
+iHOT爱旅行,http://iptv.0564.org:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+iHOT爱历史,http://iptv.0564.org:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+iHOT爱浪漫,http://iptv.0564.org:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
+iHOT爱科学,http://iptv.0564.org:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+iHOT爱科幻,http://iptv.0564.org:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+iHOT爱动漫,http://iptv.0564.org:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+iHOT爱谍战,http://iptv.0564.org:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+
 iHOT爱谍战,http://a.ioraw.com:9009/TVOD/6000000006000070630/wasusyt/index.m3u8?ace
 iHOT爱谍战,http://a.ioraw.com:9009/TVOD/2000000004000000038/hnbblive/index.m3u8?ace
 iHOT爱动漫,http://a.ioraw.com:9009/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
@@ -1233,22 +1249,6 @@ Hot欧美影院,http://a.ioraw.com:9009/TVOD/2000000004000000005/hnbblive/index.
 Hot欧美影院,http://a.ioraw.com:9009/TVOD/7185203501769528108/wasusyt/index.m3u8?ace
 Hot亚洲影院,http://a.ioraw.com:9009/TVOD/2000000004000000006/hnbblive/index.m3u8?ace
 Hot亚洲影院,http://a.ioraw.com:9009/TVOD/5841816227539527643/wasusyt/index.m3u8?ace
-
-iHOT爱院线,http://iptv.0564.org:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-iHOT爱幼教,http://iptv.0564.org:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-iHOT爱悬疑,http://iptv.0564.org:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-iHOT爱喜剧,http://iptv.0564.org:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-iHOT爱玩具,http://iptv.0564.org:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
-iHOT爱体育,http://iptv.0564.org:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-iHOT爱赛车,http://iptv.0564.org:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-iHOT爱奇谈,http://iptv.0564.org:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-iHOT爱旅行,http://iptv.0564.org:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-iHOT爱历史,http://iptv.0564.org:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-iHOT爱浪漫,http://iptv.0564.org:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
-iHOT爱科学,http://iptv.0564.org:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-iHOT爱科幻,http://iptv.0564.org:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-iHOT爱动漫,http://iptv.0564.org:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-iHOT爱谍战,http://iptv.0564.org:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 
 iHOT爱院线,http://gf.you123.fun:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 iHOT爱幼教,http://gf.you123.fun:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
