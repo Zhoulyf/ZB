@@ -444,9 +444,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 游戏风云,http://38.207.172.44:50002/TVOD/5000000002000027005/bestzb/index.m3u8?ace
 游戏风云,http://38.207.172.44:50002/TVOD/2000000002000000011/hnbblive/index.m3u8?ace
 
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
-
 东方卫视,http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 东方卫视,http://iptv.0564.org:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 上海新闻综合,http://iptv.0564.org:35455/itv/5000000011000031110.m3u8?cdn=bestzb
