@@ -2227,11 +2227,12 @@ BesTV-6 4K,http://222.70.21.43:6666/udp/239.45.1.108:5140
 
 4K频道,#genre#
 纯享4K,http://itv.mininas.cc/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
+CCTV-4K,http://hk.666230.xyz/公众号睡眼迷离的猫/bb.php?id=cctv4k/15000000.m3u8
 CCTV-16 奥林匹克4K,http://itv.mininas.cc/TVOD/5000000008000023254/bestzb/index.m3u8?ace
 CCTV-16 奥林匹克4K,http://hk.666230.xyz/公众号睡眼迷离的猫/bb.php?id=cctv16hd4k/15000000.m3u8 
 欢笑剧场4K,http://itv.mininas.cc/TVOD/5000000007000010001/bestzb/index.m3u8?ace
 华数4K,http://itv.mininas.cc/TVOD/6000000003000004748/wasusyt/index.m3u8?ace
 华数4K,http://itv.mininas.cc/TVOD/2000000004000000014/hnbblive/index.m3u8?ace
-CCTV-4K,http://hk.666230.xyz/公众号睡眼迷离的猫/bb.php?id=cctv4k/15000000.m3u8
+
 
 测试,#genre#
