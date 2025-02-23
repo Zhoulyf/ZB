@@ -998,7 +998,7 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
 
-WanWan频道,#genre#
+台湾频道,#genre#
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
