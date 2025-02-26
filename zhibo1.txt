@@ -1209,12 +1209,13 @@ iHOT爱谍战,http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 
 
 电影频道,#genre#
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+
 CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
 CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
 CHC动作电影,http://116.227.37.51:8888/udp/239.45.0.41:5140
 CHC家庭影院,http://116.227.37.51:8888/udp/239.45.0.40:5140
@@ -2043,50 +2044,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 
 
-纪实频道,#genre#
-亚洲美食,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=afc_twn
-美食星球,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=tlc_twn
-Discovery HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=discoveryhd_twn
-Discovery_Science,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=discoverysc_twn
-Discovery Asia,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=discoverytwn_twn
-Discovery Turbo,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=discoveryturbo_twn
-AFC 亚洲旅游台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=asiatravel_twn
-Natgeo_HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=natgeohd_twn
-NatGeo_Wild HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=natgeowild_twn
-Animal_Planet,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=animalplanet_twn
-CI,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ci_twn
-Asia Travel,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=asiatravel_twn
-NatGeo HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Natgeo
-Fashion TV,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=fashiontv_twn
-History,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=History
-BBC Earth HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bbclifestyle_twn
-MTV Live,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=mtvhd_twn
-NatGeo Wild HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Natgeowild
-Animal Planet (Eng),http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=AnimalPlanet
-TLC,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Tlc
-Foodnetwork Hd,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Foodnetwork_mega
-HGTV,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=HGTV
-
-
-
 百视通,#genre#
-华数服务,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=huashufuwu
-漫游世界,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=manyoushijie
-华语影院,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=huayuyingyuan
-星光影院,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=xingguangyingyuan
-全球大片,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=quanqiudapian
-热门剧场,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=remenjuchang
-谍战剧场,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=diezhanjuchang
-青春动漫,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=qingchundongman
-宝宝动画,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=baobaodonghua
-戏曲精选,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=xiqujingxuan
-热门综艺,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=remenzongyi
-健康养生,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=jiankangyangsheng
-百变课堂,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=baibianketang
-天下精选,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=kantianxia
-
 华语影院,http://itv.mininas.cc/TVOD/5000000011000288005/bestzb/index.m3u8
 星光影院,http://itv.mininas.cc/TVOD/5000000011000288013/bestzb/index.m3u8
 全球大片,http://itv.mininas.cc/TVOD/5000000011000288009/bestzb/index.m3u8
@@ -2137,30 +2095,6 @@ BesTV-4,http://222.70.21.43:6666/udp/239.45.1.28:5140
 BesTV-5,http://222.70.21.43:6666/udp/239.45.1.29:5140
 BesTV-6 4K,http://222.70.21.43:6666/udp/239.45.1.108:5140
 
-
-韩国,#genre#
-KBS 1,http://dqy12.org/hls/1/index.m3u8
-KBS 2,http://dqy12.org/hls/2/index.m3u8
-SBS,http://dqy12.org/hls/3/index.m3u8
-MBC,http://dqy12.org/hls/4/index.m3u8
-OBS,http://dqy12.org/hls/6/index.m3u8
-Channel A,http://dqy12.org/hls/7/index.m3u8
-JTBC,http://dqy12.org/hls/8/index.m3u8
-MBN,http://dqy12.org/hls/9/index.m3u8
-TV CHOSUN,http://dqy12.org/hls/10/index.m3u8
-tvN,http://dqy12.org/hls/11/index.m3u8
-tvN STORY,http://dqy12.org/hls/12/index.m3u8
-연합뉴스TV,http://dqy12.org/hls/13/index.m3u8
-YTN,http://dqy12.org/hls/14/index.m3u8
-KBS Joy,http://dqy12.org/hls/15/index.m3u8
-SBS Plus,http://dqy12.org/hls/16/index.m3u8
-KBS Drama,http://dqy12.org/hls/17/index.m3u8
-M net,http://dqy12.org/hls/18/index.m3u8
-MBC Drama,http://dqy12.org/hls/19/index.m3u8
-CNTV,http://dqy12.org/hls/20/index.m3u8
-OLIFE,http://dqy12.org/hls/21/index.m3u8
-OCN,http://dqy12.org/hls/22/index.m3u8
-OCN Movies,http://dqy12.org/hls/23/index.m3u8
 
 
 历年春晚,#genre#
