@@ -1212,11 +1212,6 @@ iHOT爱谍战,http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
-CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
-CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
-CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
-
-
 CHC动作电影,http://116.227.37.51:8888/udp/239.45.0.41:5140
 CHC家庭影院,http://116.227.37.51:8888/udp/239.45.0.40:5140
 CHC影迷电影,http://116.227.37.51:8888/udp/239.45.0.42:5140
@@ -1225,10 +1220,9 @@ CHC动作电影,http://101.229.189.25:4022/udp/239.45.0.41:5140
 CHC家庭影院,http://101.229.189.25:4022/udp/239.45.0.40:5140
 CHC影迷电影,http://101.229.189.25:4022/udp/239.45.0.42:5140
 
-CHC动作电影,http://222.70.21.43:6666/udp/239.45.0.41:5140
-CHC家庭影院,http://222.70.21.43:6666/udp/239.45.0.40:5140
-CHC影迷电影,http://222.70.21.43:6666/udp/239.45.0.42:5140
-
+CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
+CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 
 CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$67『线路12』
