@@ -370,9 +370,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海本地,#genre#
 东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 
 东方卫视,http://itv.mininas.cc/TVOD/5000000004000014098/bestzb/index.m3u8?ace
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 东方卫视,http://itv.mininas.cc/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/1000000005000265018/ystenlive/index.m3u8?ace
@@ -380,7 +381,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方卫视,http://itv.mininas.cc/TVOD/1000000001000030202/ystenlive/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/2000000002000000056/hnbblive/index.m3u8?ace
 上海新闻综合,http://itv.mininas.cc/TVOD/5000000011000031110/bestzb/index.m3u8?ace
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 上海新闻综合,http://itv.mininas.cc/TVOD/2000000002000000005/hnbblive/index.m3u8?ace
 上海都市,http://itv.mininas.cc/TVOD/5000000010000018926/bestzb/index.m3u8?ace
 上海都市,http://itv.mininas.cc/TVOD/2000000002000000012/hnbblive/index.m3u8?ace
