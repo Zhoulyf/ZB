@@ -869,7 +869,7 @@ TVBJ2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 
-凤凰资讯,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=phoenixinfo_hd
+
 凤凰香港,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=hkphoenix_twn
 TVBJ1,http://hk.666230.xyz/公众号睡眼迷离的猫/tvbj1.php
 翡翠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=jade_twn
@@ -891,7 +891,7 @@ RHK 32,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=rhk32_twn
 凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
-凤凰资讯,http://114.105.187.147:9901/tsfile/live/1064_1.m3u8
+
 
 
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
