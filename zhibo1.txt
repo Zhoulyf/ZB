@@ -130,26 +130,6 @@ CCTV-17 农业农村,http://itv.mininas.cc/TVOD/1000000006000268004/ystenlive/in
 CCTV-17 农业农村,http://itv.mininas.cc/TVOD/1000000005000265015/ystenlive/index.m3u8?ace
 CCTV-17 农业农村,http://itv.mininas.cc/TVOD/1000000005000056836/ystenlive/index.m3u8?ace
 
-CCTV-1 综合,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV1
-CCTV-2 财经,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV2
-CCTV-3 综艺,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV3
-CCTV-4 中文国际,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV4
-CCTV-5 体育,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV5
-CCTV-5+ 体育赛事,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV5P
-CCTV-6 电影,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV6
-CCTV-7 国防军事,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV7
-CCTV-8 电视剧,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV8
-CCTV-9 纪录,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV9
-CCTV-10 科教,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV10
-CCTV-11 戏曲,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV11
-CCTV-12 社会与法,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV12
-CCTV-13 新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV13
-CCTV-14 少儿,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV14
-CCTV-15 音乐,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV15
-CCTV-16 奥林匹克,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV16
-CCTV-17 农业农村,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=CCTV17
-
-
 CCTV-1 综合,http://www.xzbn.site:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV-2 财经,http://www.xzbn.site:35455/itv/1000000005000265002.m3u8?cdn=ystenlive
 CCTV-3 综艺,http://www.xzbn.site:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
@@ -390,10 +370,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海本地,#genre#
 东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 
 东方卫视,http://itv.mininas.cc/TVOD/5000000004000014098/bestzb/index.m3u8?ace
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 东方卫视,http://itv.mininas.cc/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/1000000005000265018/ystenlive/index.m3u8?ace
@@ -401,6 +380,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方卫视,http://itv.mininas.cc/TVOD/1000000001000030202/ystenlive/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/2000000002000000056/hnbblive/index.m3u8?ace
 上海新闻综合,http://itv.mininas.cc/TVOD/5000000011000031110/bestzb/index.m3u8?ace
+上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 上海新闻综合,http://itv.mininas.cc/TVOD/2000000002000000005/hnbblive/index.m3u8?ace
 上海都市,http://itv.mininas.cc/TVOD/5000000010000018926/bestzb/index.m3u8?ace
 上海都市,http://itv.mininas.cc/TVOD/2000000002000000012/hnbblive/index.m3u8?ace
@@ -500,6 +480,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 哈哈炫动,http://116.227.37.51:8888/udp/239.45.1.55:5140
 游戏风云,http://116.227.37.51:8888/udp/239.45.3.131:5140#http://z.b.bkpcp.top/m.php?id=yxfy
+东方购物1,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+东方购物2,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 东方购物1,http://116.227.37.51:8888/udp/239.45.3.75:5140
 东方购物2,http://116.227.37.51:8888/udp/239.45.3.74:5140
 东方购物3,http://116.227.37.51:8888/udp/239.45.3.207:5140
@@ -546,8 +528,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://101.229.189.25:4022/udp/239.45.3.74:5140
 东方购物3,http://101.229.189.25:4022/udp/239.45.3.207:5140
 
-东方购物1,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-东方购物2,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 
 
 
@@ -564,13 +544,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
 深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
 湖北卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
-
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 
 东方卫视,http://itv.mininas.cc/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
@@ -688,6 +661,13 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://itv.mininas.cc/TVOD/5000000004000025797/bestzb/index.m3u8?ace
 重庆卫视,http://itv.mininas.cc/TVOD/1000000005000265017/ystenlive/index.m3u8?ace
 重庆卫视,http://itv.mininas.cc/TVOD/1000000002000018937/ystenlive/index.m3u8?ace
+
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 
 北京卫视,http://www.xzbn.site:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 湖南卫视,http://www.xzbn.site:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
@@ -879,20 +859,30 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 港澳频道,#genre#
-凤凰中文,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=phoenixtv_hd
-凤凰资讯,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=phoenixinfo_hd
-凤凰香港,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=hkphoenix_twn
-翡翠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=jade_twn
-无线新闻台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=inews_twn
-J2,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=j2_twn
-明珠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=pearl_twn
-华丽翡翠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Tvbjade
-TVB星河,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Xinhe
-千禧经典台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=Tvbclassic
-ViuTV,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=viu1_twn
-ViuTV6,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=viusix_twn
-RHK 31,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=rhk31_twn
-RHK 32,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=rhk32_twn
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+TVBJ2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
+TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
+凤凰中文,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=phoenixtv_hd
+凤凰资讯,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=phoenixinfo_hd
+凤凰香港,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=hkphoenix_twn
+TVBJ1,http://hk.666230.xyz/公众号睡眼迷离的猫/tvbj1.php
+翡翠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=jade_twn
+无线新闻台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=inews_twn
+J2,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=j2_twn
+明珠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=pearl_twn
+华丽翡翠台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=Tvbjade
+TVB星河,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=Xinhe
+千禧经典台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=Tvbclassic
+ViuTV,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=viu1_twn
+ViuTV6,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=viusix_twn
+RHK 31,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=rhk31_twn
+RHK 32,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=rhk32_twn
 
 凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
 凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
@@ -932,73 +922,87 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
 台湾频道,#genre#
-TVBS,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=tvbs
-TVBS新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=tvbs_n
-TVBS欢乐台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=tvbshuanle_twn
-中天新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ctinews
+纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+龙华电影台,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+HBO频道台,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
+AXN频道台,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
+CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
+AMC电影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
+纬来戏剧,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
+龙华戏剧台,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
+八大戏剧,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
+东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
+龙华卡通台,http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
+美亚电影台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=meiyamovie_twn
+东森电影,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.phpettvmovie
+HBO_HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=hbohd_twn
+HBO强档,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=hbohits_twn
+HBO原创,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=hbosignature_twn
+HBO家庭,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=fyi_twn
+Hollywood Movies,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=hollywoodmovies_twn
+CINEMAX,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=cinemax_twn
+AXN,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=axn_twn
+CATCHPLAY,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=catchplay_twn
+Warner TV,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.phpWarnerTV
+Thrill,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.phpThrill
+TVN,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=TVN
+TVNMOVIE,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=Tvnmovie
+TVBS,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=tvbs
+TVBS新闻台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=tvbs_n
+TVBS欢乐台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=tvbshuanle_twn
+中天新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ctinews
 中天娱乐,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ctient
-中天综合,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ctizhonghe
+中天综合,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ctizhonghe
 中天亚洲,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ctiasia_twn
-HBO_HD,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=hbohd_twn
-HBO强档,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=hbohits_twn
-HBO原创,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=hbosignature_twn
-HBO家庭,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=fyi_twn
-Hollywood Movies,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=hollywoodmovies_twn
-CINEMAX,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=cinemax_twn
-AXN,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=axn_twn
-CATCHPLAY,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=catchplay_twn
-Warner TV,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=WarnerTV
-Thrill,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=Thrill
-美亚电影台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=meiyamovie_twn
-東森电影,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ettvmovie
-台视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ttv_taiwan
-台视新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ttvnews_twn
-中视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=zhongshihd_twn
+台视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ttv_taiwan
+台视新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ttvnews_twn
+中视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=zhongshihd_twn
 中视新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=zhongshinews_twn
-民视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ftvhd_taiwan
-民视新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ftvnew_taiwan
-民视台湾,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ftvtaiwan_twn
-华视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ctshd_twn
-公视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ctv_taiwan
-八大综合,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=badazhonghe
-三立台湾,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=sanlitaiwan
-三立戏剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=sanlixiju_twn
-三立综合,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=sanlizhonghe
-东森新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ettvnews
-东森戏剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ettvdrama
-东森财经新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=ettvcaijing_twn
-非凡新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=feifannews_twn
-年代新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=niandainews_twn
-龙华戏剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=lunghuaxiju_twn
-龙华电影,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=xingwei_movie
-龙华洋片,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=lunghuajingdian_twn
-龙华洋片,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=lunghuawestern_twn
-龙华偶像,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=lunghuaidol_twn
-纬来电影,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=videolandmovie
-纬来体育,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=videolandsport
-纬来日本,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=videolandjapan
-靖天国际,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=jingtianintl_twn
-靖天卡通,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=jingtiancartoon_twn
-大爱1台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=daai_twn
-亚洲美食,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=afc_twn
-美食星球,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=foodplanet_twn
-TLC旅游,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=tlc_twn
-Arirang,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=arirang_twn
-博斯运动1,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bosisport1_twn
-博斯运动2,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bosisport2_twn
-博斯高球2,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bosigolf2_twn
-博斯网球,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bositennis_twn
-博斯无限,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=bosiunlimited_twn
-MTV Live,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=mtvhd_twn
-龙祥時代,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=lungxiangtime_twn
-EYETV旅游,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=eyetvtravel_twn
-华艺中文台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=weishichinese_twn
-東森YoYo,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=yoyo_twn
-ELTA影剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=eltayingju_twn
-ELTA体育1台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=eltasport_twn
-ELTA体育2台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=eltasport2_twn
-ELTA体育3台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=eltasport3_twn
-亚洲旅游台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv.php?id=asiatravel_twn
+民视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ftvhd_taiwan
+民视新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ftvnew_taiwan
+民视台湾,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ftvtaiwan_twn
+华视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ctshd_twn
+公视,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ctv_taiwan
+八大综合,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=badazhonghe
+三立台湾,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=sanlitaiwan
+三立戏剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=sanlixiju_twn
+三立综合,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=sanlizhonghe
+东森新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ettvnews
+东森戏剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.phpettvdrama
+东森财经新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=ettvcaijing_twn
+非凡新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=feifannews_twn
+年代新闻,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=niandainews_twn
+龙华戏剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=lunghuaxiju_twn
+龙华电影,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=xingwei_movie
+龙华洋片,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=lunghuajingdian_twn
+龙华洋片,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=lunghuawestern_twn
+龙华偶像,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=lunghuaidol_twn
+纬来电影,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=videolandmovie
+纬来体育,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=videolandsport
+纬来日本,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=videolandjapan
+靖天国际,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=jingtianintl_twn
+靖天卡通,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=jingtiancartoon_twn
+大爱1台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=daai_twn
+亚洲美食,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=afc_twn
+美食星球,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=foodplanet_twn
+TLC旅游,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=tlc_twn
+Arirang,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=arirang_twn
+博斯运动1,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=bosisport1_twn
+博斯运动2,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=bosisport2_twn
+博斯高球2,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=bosigolf2_twn
+博斯网球,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=bositennis_twn
+博斯无限,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=bosiunlimited_twn
+MTV Live,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=mtvhd_twn
+龙祥時代,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=lungxiangtime_twn
+EYETV旅游,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=eyetvtravel_twn
+华艺中文台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=weishichinese_twn
+东森YoYo,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=yoyo_twn
+ELTA影剧,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=eltayingju_twn
+ELTA体育1台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=eltasport_twn
+ELTA体育2台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=eltasport2_twn
+ELTA体育3台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=eltasport3_twn
+亚洲旅游台,http://hk.666230.xyz/公众号睡眼迷离的猫/Smartv1.php?id=asiatravel_twn
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -2170,6 +2174,31 @@ BesTV-3 4K,http://222.70.21.43:6666/udp/239.45.1.10:5140
 BesTV-4,http://222.70.21.43:6666/udp/239.45.1.28:5140
 BesTV-5,http://222.70.21.43:6666/udp/239.45.1.29:5140
 BesTV-6 4K,http://222.70.21.43:6666/udp/239.45.1.108:5140
+
+
+韩国,#genre#
+KBS 1,http://dqy12.org/hls/1/index.m3u8
+KBS 2,http://dqy12.org/hls/2/index.m3u8
+SBS,http://dqy12.org/hls/3/index.m3u8
+MBC,http://dqy12.org/hls/4/index.m3u8
+OBS,http://dqy12.org/hls/6/index.m3u8
+Channel A,http://dqy12.org/hls/7/index.m3u8
+JTBC,http://dqy12.org/hls/8/index.m3u8
+MBN,http://dqy12.org/hls/9/index.m3u8
+TV CHOSUN,http://dqy12.org/hls/10/index.m3u8
+tvN,http://dqy12.org/hls/11/index.m3u8
+tvN STORY,http://dqy12.org/hls/12/index.m3u8
+연합뉴스TV,http://dqy12.org/hls/13/index.m3u8
+YTN,http://dqy12.org/hls/14/index.m3u8
+KBS Joy,http://dqy12.org/hls/15/index.m3u8
+SBS Plus,http://dqy12.org/hls/16/index.m3u8
+KBS Drama,http://dqy12.org/hls/17/index.m3u8
+M net,http://dqy12.org/hls/18/index.m3u8
+MBC Drama,http://dqy12.org/hls/19/index.m3u8
+CNTV,http://dqy12.org/hls/20/index.m3u8
+OLIFE,http://dqy12.org/hls/21/index.m3u8
+OCN,http://dqy12.org/hls/22/index.m3u8
+OCN Movies,http://dqy12.org/hls/23/index.m3u8
 
 
 历年春晚,#genre#
