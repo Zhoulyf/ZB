@@ -39,6 +39,27 @@ CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16 奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
+CCTV-1 综合,http://yc.myds.me:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-1 综合,http://yc.myds.me:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+CCTV-2 财经,http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
+CCTV-3 综艺,http://yc.myds.me:35455/itv/1000000005000265003.m3u8?cdn=ystenlive 
+CCTV-4 中文国际,http://yc.myds.me:35455/itv/1000000005000265004.m3u8?cdn=ystenlive 
+CCTV-5 体育,http://yc.myds.me:35455/itv/1000000005000265005.m3u8?cdn=ystenlive 
+CCTV-5+ 体育赛事,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive 
+CCTV-6 电影,http://yc.myds.me:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
+CCTV-6 电影,http://yc.myds.me:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV-7 国防军事,http://yc.myds.me:35455/itv/1000000005000265007.m3u8?cdn=ystenlive 
+CCTV-8 电视剧,http://yc.myds.me:35455/itv/1000000005000265008.m3u8?cdn=ystenlive 
+CCTV-9 纪录,http://yc.myds.me:35455/itv/1000000005000265009.m3u8?cdn=ystenlive 
+CCTV-10 科教,http://yc.myds.me:35455/itv/1000000005000265010.m3u8?cdn=ystenlive 
+CCTV-11 戏曲,http://yc.myds.me:35455/itv/1000000005000265011.m3u8?cdn=ystenlive 
+CCTV-12 社会与法,http://yc.myds.me:35455/itv/1000000005000265012.m3u8?cdn=ystenlive 
+CCTV-13 新闻,http://yc.myds.me:35455/itv/5000000011000031108.m3u8?cdn=bestzb
+CCTV-14 少儿,http://yc.myds.me:35455/itv/1000000005000265013.m3u8?cdn=ystenlive 
+CCTV-15 音乐,http://yc.myds.me:35455/itv/1000000005000265014.m3u8?cdn=ystenlive 
+CCTV-16 奥林匹克,http://yc.myds.me:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
+CCTV-17 农业农村,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+
 CCTV-1 综合,http://itv.mininas.cc/TVOD/6000000001000029752/wasusyt/index.m3u8?ace
 CCTV-1 综合,http://itv.mininas.cc/TVOD/1000000001000018602/ystenlive/index.m3u8?ace
 CCTV-1 综合,http://itv.mininas.cc/TVOD/5000000004000002226/bestzb/index.m3u8?ace
@@ -192,27 +213,6 @@ CCTV风云足球,http://180.158.36.65:4022/udp/239.45.1.75:5140
 CCTV风云音乐,http://180.158.36.65:4022/udp/239.45.0.52:5140
 CCTV高尔夫网球,http://180.158.36.65:4022/udp/239.45.0.48:5140
 CCTV高尔夫网球,http://180.158.36.65:4022/udp/239.45.1.72:5140
-
-CCTV-1 综合,http://yc.myds.me:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
-CCTV-1 综合,http://yc.myds.me:35455/itv/5000000004000010282.m3u8?cdn=bestzb
-CCTV-2 财经,http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive 
-CCTV-3 综艺,http://yc.myds.me:35455/itv/1000000005000265003.m3u8?cdn=ystenlive 
-CCTV-4 中文国际,http://yc.myds.me:35455/itv/1000000005000265004.m3u8?cdn=ystenlive 
-CCTV-5 体育,http://yc.myds.me:35455/itv/1000000005000265005.m3u8?cdn=ystenlive 
-CCTV-5+ 体育赛事,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive 
-CCTV-6 电影,http://yc.myds.me:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
-CCTV-6 电影,http://yc.myds.me:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
-CCTV-7 国防军事,http://yc.myds.me:35455/itv/1000000005000265007.m3u8?cdn=ystenlive 
-CCTV-8 电视剧,http://yc.myds.me:35455/itv/1000000005000265008.m3u8?cdn=ystenlive 
-CCTV-9 纪录,http://yc.myds.me:35455/itv/1000000005000265009.m3u8?cdn=ystenlive 
-CCTV-10 科教,http://yc.myds.me:35455/itv/1000000005000265010.m3u8?cdn=ystenlive 
-CCTV-11 戏曲,http://yc.myds.me:35455/itv/1000000005000265011.m3u8?cdn=ystenlive 
-CCTV-12 社会与法,http://yc.myds.me:35455/itv/1000000005000265012.m3u8?cdn=ystenlive 
-CCTV-13 新闻,http://yc.myds.me:35455/itv/5000000011000031108.m3u8?cdn=bestzb
-CCTV-14 少儿,http://yc.myds.me:35455/itv/1000000005000265013.m3u8?cdn=ystenlive 
-CCTV-15 音乐,http://yc.myds.me:35455/itv/1000000005000265014.m3u8?cdn=ystenlive 
-CCTV-16 奥林匹克,http://yc.myds.me:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
-CCTV-17 农业农村,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 CCTV兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CCTV世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
@@ -371,7 +371,26 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 上海本地,#genre#
 东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+
+东方卫视,http://yc.myds.me:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+东方卫视,http://yc.myds.me:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+上海新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
+上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+劲爆体育,http://yc.myds.me:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+魅力足球,http://yc.myds.me:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+欢笑剧场,http://yc.myds.me:35455/itv/5000000007000010001.m3u8?cdn=bestzb#http://yc.myds.me:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+法治天地,http://yc.myds.me:35455/itv/9001547084732463424.m3u8?cdn=bestzb#http://yc.myds.me:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+乐游,http://yc.myds.me:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+动漫秀场,http://yc.myds.me:35455/itv/5000000011000031113.m3u8?cdn=bestzb
+游戏风云,http://yc.myds.me:35455/itv/5000000011000031114.m3u8?cdn=bestzb
+生活时尚,http://yc.myds.me:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+都市剧场,http://yc.myds.me:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+金色学堂,http://yc.myds.me:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+东方影视,http://yc.myds.me:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+哈哈炫动,http://yc.myds.me:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 
 东方卫视,http://itv.mininas.cc/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
@@ -486,25 +505,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://180.158.36.65:4022/udp/239.45.3.74:5140
 东方购物3,http://180.158.36.65:4022/udp/239.45.3.207:5140
 
-东方卫视,http://yc.myds.me:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-东方卫视,http://yc.myds.me:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
-上海新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-劲爆体育,http://yc.myds.me:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-魅力足球,http://yc.myds.me:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-欢笑剧场,http://yc.myds.me:35455/itv/5000000007000010001.m3u8?cdn=bestzb#http://yc.myds.me:35455/itv/5000000002000009455.m3u8?cdn=bestzb
-法治天地,http://yc.myds.me:35455/itv/9001547084732463424.m3u8?cdn=bestzb#http://yc.myds.me:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
-乐游,http://yc.myds.me:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-动漫秀场,http://yc.myds.me:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-游戏风云,http://yc.myds.me:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-生活时尚,http://yc.myds.me:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-都市剧场,http://yc.myds.me:35455/itv/5000000011000031111.m3u8?cdn=bestzb
-金色学堂,http://yc.myds.me:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-东方影视,http://yc.myds.me:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-哈哈炫动,http://yc.myds.me:35455/itv/5000000011000031123.m3u8?cdn=bestzb
-
 东方卫视,http://101.229.189.25:4022/udp/239.45.3.146:5140
 上海新闻综合,http://101.229.189.25:4022/udp/239.45.3.209:5140
 上海都市,http://101.229.189.25:4022/udp/239.45.3.236:5140
@@ -544,6 +544,47 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
 深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
 湖北卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
+
+北京卫视,http://yc.myds.me:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+湖南卫视,http://yc.myds.me:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+江苏卫视,http://yc.myds.me:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+东方卫视,http://yc.myds.me:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+浙江卫视,http://yc.myds.me:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+安徽卫视,http://yc.myds.me:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+天津卫视,http://yc.myds.me:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+四川卫视,http://yc.myds.me:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+重庆卫视,http://yc.myds.me:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+山东卫视,http://yc.myds.me:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+深圳卫视,http://yc.myds.me:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+广东卫视,http://yc.myds.me:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+广西卫视,http://yc.myds.me:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+江西卫视,http://yc.myds.me:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+河北卫视,http://yc.myds.me:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://yc.myds.me:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
+湖北卫视,http://yc.myds.me:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+东南卫视,http://yc.myds.me:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+贵州卫视,http://yc.myds.me:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+辽宁卫视,http://yc.myds.me:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+黑龙江卫视,http://yc.myds.me:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+山西卫视,http://yc.myds.me:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+宁夏卫视,http://yc.myds.me:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+陕西卫视,http://yc.myds.me:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
+吉林卫视,http://yc.myds.me:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+甘肃卫视,http://yc.myds.me:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+云南卫视,http://yc.myds.me:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+海南卫视,http://yc.myds.me:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+三沙卫视,http://yc.myds.me:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+青海卫视,http://yc.myds.me:35455/itv/5000000006000040015.m3u8?cdn=bestzb
+新疆卫视,http://yc.myds.me:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
+西藏卫视,http://yc.myds.me:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
+农林卫视,http://yc.myds.me:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
+兵团卫视,http://yc.myds.me:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
+延边卫视,http://yc.myds.me:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
+安多卫视,http://yc.myds.me:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
+厦门卫视,http://yc.myds.me:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
+康巴卫视,http://yc.myds.me:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
+大湾区卫视,http://yc.myds.me:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 
 东方卫视,http://itv.mininas.cc/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东方卫视,http://itv.mininas.cc/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
@@ -749,47 +790,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 天津卫视,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=TJWS
 西藏卫视,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=XZWS
 新疆卫视,http://hk.666230.xyz/公众号睡眼迷离的猫/yd.php?channel=XJWS
-
-北京卫视,http://yc.myds.me:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
-湖南卫视,http://yc.myds.me:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
-江苏卫视,http://yc.myds.me:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
-东方卫视,http://yc.myds.me:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
-浙江卫视,http://yc.myds.me:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
-安徽卫视,http://yc.myds.me:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
-天津卫视,http://yc.myds.me:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
-四川卫视,http://yc.myds.me:35455/itv/5000000004000006119.m3u8?cdn=bestzb
-重庆卫视,http://yc.myds.me:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
-山东卫视,http://yc.myds.me:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
-深圳卫视,http://yc.myds.me:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
-广东卫视,http://yc.myds.me:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
-广西卫视,http://yc.myds.me:35455/itv/5000000011000031118.m3u8?cdn=bestzb
-江西卫视,http://yc.myds.me:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
-河北卫视,http://yc.myds.me:35455/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://yc.myds.me:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
-湖北卫视,http://yc.myds.me:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
-东南卫视,http://yc.myds.me:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
-贵州卫视,http://yc.myds.me:35455/itv/5000000004000025843.m3u8?cdn=bestzb
-辽宁卫视,http://yc.myds.me:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
-黑龙江卫视,http://yc.myds.me:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-山西卫视,http://yc.myds.me:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-宁夏卫视,http://yc.myds.me:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
-陕西卫视,http://yc.myds.me:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
-吉林卫视,http://yc.myds.me:35455/itv/5000000011000031117.m3u8?cdn=bestzb
-甘肃卫视,http://yc.myds.me:35455/itv/5000000011000031121.m3u8?cdn=bestzb
-云南卫视,http://yc.myds.me:35455/itv/5000000011000031120.m3u8?cdn=bestzb
-海南卫视,http://yc.myds.me:35455/itv/5000000004000006211.m3u8?cdn=bestzb
-三沙卫视,http://yc.myds.me:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-青海卫视,http://yc.myds.me:35455/itv/5000000006000040015.m3u8?cdn=bestzb
-新疆卫视,http://yc.myds.me:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
-西藏卫视,http://yc.myds.me:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
-农林卫视,http://yc.myds.me:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
-兵团卫视,http://yc.myds.me:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
-延边卫视,http://yc.myds.me:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
-安多卫视,http://yc.myds.me:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
-厦门卫视,http://yc.myds.me:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
-康巴卫视,http://yc.myds.me:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
-大湾区卫视,http://yc.myds.me:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 
 湖南卫视,http://180.158.36.65:4022/udp/239.45.3.228:5140
 江苏卫视,http://180.158.36.65:4022/udp/239.45.3.177:5140
@@ -1014,6 +1014,28 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 New TV,#genre#
+超级电视剧,http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+哒啵电竞,http://yc.myds.me:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+精品体育,http://yc.myds.me:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+精品综合,http://yc.myds.me:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+哒啵赛事,http://yc.myds.me:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+黑莓动画,http://yc.myds.me:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+黑莓电影,http://yc.myds.me:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+怡伴健康,http://yc.myds.me:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
+炫舞未来,http://yc.myds.me:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
+魅力潇湘,http://yc.myds.me:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
+金牌综艺,http://yc.myds.me:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
+家庭剧场,http://yc.myds.me:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
+欢乐剧场,http://yc.myds.me:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
+东北热剧,http://yc.myds.me:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
+超级综艺,http://yc.myds.me:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
+超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+超级电影,http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+精品萌宠,http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+精品纪录,http://yc.myds.me:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+
 爱情喜剧,http://itv.mininas.cc/TVOD/2000000003000000010/hnbblive/index.m3u8?ace
 超级电视剧,http://itv.mininas.cc/TVOD/1000000006000268003/ystenlive/index.m3u8?ace
 超级电视剧,http://itv.mininas.cc/TVOD/2000000003000000032/hnbblive/index.m3u8?ace
@@ -1106,30 +1128,24 @@ New TV,#genre#
 精品萌宠,http://www.xzbn.site:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 精品纪录,http://www.xzbn.site:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 
-超级电视剧,http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
-动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
-惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
-哒啵电竞,http://yc.myds.me:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-精品体育,http://yc.myds.me:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
-精品综合,http://yc.myds.me:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
-哒啵赛事,http://yc.myds.me:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-黑莓动画,http://yc.myds.me:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-黑莓电影,http://yc.myds.me:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-怡伴健康,http://yc.myds.me:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
-炫舞未来,http://yc.myds.me:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
-魅力潇湘,http://yc.myds.me:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
-金牌综艺,http://yc.myds.me:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
-家庭剧场,http://yc.myds.me:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-欢乐剧场,http://yc.myds.me:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
-东北热剧,http://yc.myds.me:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
-超级综艺,http://yc.myds.me:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
-超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-超级电影,http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-精品萌宠,http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
-精品纪录,http://yc.myds.me:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
-
 
 iHOT频道,#genre#
+iHOT爱院线,http://yc.myds.me:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+iHOT爱幼教,http://yc.myds.me:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
+iHOT爱悬疑,http://yc.myds.me:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+iHOT爱喜剧,http://yc.myds.me:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+iHOT爱玩具,http://yc.myds.me:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
+iHOT爱体育,http://yc.myds.me:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+iHOT爱赛车,http://yc.myds.me:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+iHOT爱奇谈,http://yc.myds.me:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
+iHOT爱旅行,http://yc.myds.me:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+iHOT爱历史,http://yc.myds.me:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+iHOT爱浪漫,http://yc.myds.me:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
+iHOT爱科学,http://yc.myds.me:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+iHOT爱科幻,http://yc.myds.me:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+iHOT爱动漫,http://yc.myds.me:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+iHOT爱谍战,http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+
 iHOT爱谍战,http://itv.mininas.cc/TVOD/6000000006000070630/wasusyt/index.m3u8?ace
 iHOT爱谍战,http://itv.mininas.cc/TVOD/2000000004000000038/hnbblive/index.m3u8?ace
 iHOT爱动漫,http://itv.mininas.cc/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
@@ -1188,22 +1204,6 @@ iHOT爱科学,http://www.xzbn.site:35455/itv/6000000006000160630.m3u8?cdn=wasusy
 iHOT爱科幻,http://www.xzbn.site:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
 iHOT爱动漫,http://www.xzbn.site:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 iHOT爱谍战,http://www.xzbn.site:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-
-iHOT爱院线,http://yc.myds.me:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-iHOT爱幼教,http://yc.myds.me:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-iHOT爱悬疑,http://yc.myds.me:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-iHOT爱喜剧,http://yc.myds.me:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-iHOT爱玩具,http://yc.myds.me:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
-iHOT爱体育,http://yc.myds.me:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-iHOT爱赛车,http://yc.myds.me:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-iHOT爱奇谈,http://yc.myds.me:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-iHOT爱旅行,http://yc.myds.me:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-iHOT爱历史,http://yc.myds.me:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-iHOT爱浪漫,http://yc.myds.me:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
-iHOT爱科学,http://yc.myds.me:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-iHOT爱科幻,http://yc.myds.me:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-iHOT爱动漫,http://yc.myds.me:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-iHOT爱谍战,http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 
 
 
