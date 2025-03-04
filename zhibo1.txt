@@ -15,7 +15,7 @@ CCTV-12 社会与法,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/8888889
 CCTV-13 新闻,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8 
 CCTV-14 少儿,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8 
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16 奥林匹克,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17 农业农村,http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
 
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -34,8 +34,7 @@ CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克,http://yc.myds.me:35455/itv/1000000006000233002.m3u8?cdn=ystenlive 
-CCTV-16 奥林匹克 4K,http://www.xzbn.site:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+CCTV-16 奥林匹克,
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1 综合,http://www.xzbn.site:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
