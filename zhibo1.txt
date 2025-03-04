@@ -1210,6 +1210,10 @@ iHOT爱谍战,http://www.xzbn.site:35455/itv/6000000006000070630.m3u8?cdn=wasusy
 
 
 电影频道,#genre#
+CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
