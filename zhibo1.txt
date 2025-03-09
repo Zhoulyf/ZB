@@ -681,6 +681,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 民视,rtmp://f13h.mine.nu/sat/tv051
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
