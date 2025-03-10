@@ -657,17 +657,19 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://211.72.65.236:8574/.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$『线路6』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$『线路2』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$『线路3』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$『线路6』
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$『线路8』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$『线路11
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
@@ -677,11 +679,6 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
@@ -690,11 +687,6 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 DAZN 体育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN 体育2台,rtmp://f13h.mine.nu/sat/tv741
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
