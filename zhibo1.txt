@@ -676,6 +676,12 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 TVBJ2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 
 
+Discovery,http://211.67.191.23/hls/discovery/index.m3u8
+国家地理,http://211.67.191.23/hls/natlgeo/index.m3u8
+Channel V,http://211.67.191.23/hls/channelv/index.m3u8
+星空卫视,http://211.67.191.23/hls/startv/index.m3u8
+Star Sports,http://211.67.191.23/hls/starsports/index.m3u8
+
 
 台湾频道,#genre#
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
