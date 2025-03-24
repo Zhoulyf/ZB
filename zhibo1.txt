@@ -455,6 +455,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://goo.bkpcp.top/mg/qhws
 黑龙江卫视,http://goo.bkpcp.top/mg/hljws
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+海峡卫视,http://goo.bkpcp.top/mg/hxws
+宁夏卫视,http://goo.bkpcp.top/mg/nxws
+新疆卫视,http://goo.bkpcp.top/mg/xjws
+
 
 北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
