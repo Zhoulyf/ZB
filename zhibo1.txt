@@ -1,4 +1,23 @@
 央视频道,#genre#
+CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
+CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
+CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
+CCTV-4 中文国际,http://goo.bkpcp.top/mg/cctv4 
+CCTV-5 体育,http://goo.bkpcp.top/mg/cctv5 
+CCTV-5+ 体育赛事,http://goo.bkpcp.top/mg/cctv5p 
+CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6 
+CCTV-7 国防军事,http://goo.bkpcp.top/mg/cctv7 
+CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8 
+CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9 
+CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10 
+CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11 
+CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12 
+CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13 
+CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14 
+CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15 
+CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
+CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
+
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
