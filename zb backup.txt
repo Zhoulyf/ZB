@@ -2037,7 +2037,7 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
 百视通,#genre#
 华语影院,http://itv.mininas.cc/TVOD/5000000011000288005/bestzb/index.m3u8
