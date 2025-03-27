@@ -762,6 +762,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 凤凰中文 720P,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯 720P,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港 720P,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
+
+凤凰中文 480P,http://ttkx.cc:1658/公开源454/fh.php?id=fhzw
+凤凰香港 480P,http://ttkx.cc:1658/公开源454/fh.php?id=fhhk
+凤凰资讯 480P,http://ttkx.cc:1658/公开源454/fh.php?id=fhzx
 凤凰中文 480P,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw
 凤凰资讯 480P,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx
 凤凰香港 480P,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk
@@ -791,6 +795,15 @@ HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 TVBJ2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 
+无线星河频道,http://go1.bkpcp.top/tl/null-7 
+无线综合频道,http://go1.bkpcp.top/tl/null-3
+无线粤片频道,http://go1.bkpcp.top/tl/null-10
+无线华剧频道,http://go1.bkpcp.top/tl/null-4 
+黄金翡翠频道,http://go1.bkpcp.top/tl/null-2 
+黄金华剧频道,http://go1.bkpcp.top/tl/null-9
+天映经典频道,http://go1.bkpcp.top/tl/null-1  
+美亚电影频道,http://go1.bkpcp.top/tl/null-5
+中国电影频道,http://go1.bkpcp.top/tl/null-6
 
 Discovery,http://211.67.191.23/hls/discovery/index.m3u8
 国家地理,http://211.67.191.23/hls/natlgeo/index.m3u8
@@ -1072,7 +1085,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8$33『线�
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-13.ctv$33『线路12』
 CHC影迷电影,http://dassby.qqff.top:99/live/CHC%E9%AB%98%E6%B8%85/index.m3u8
 
-
+pₒₚc电影,http://go1.bkpcp.top/tl/popc
 
 斗鱼电影,#genre#
 琅琊榜http://zby.xjqxz.top/lyb/live.m3u8
