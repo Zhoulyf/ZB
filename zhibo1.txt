@@ -287,7 +287,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 
-
+五星体育,https://stream1.freetv.fun/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
 
 东方卫视,http://38.207.133.60:50001/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东方卫视,http://38.207.133.60:50001/TVOD/5000000010000032246/bestzb/index.m3u8?ace
