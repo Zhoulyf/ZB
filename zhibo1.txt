@@ -504,6 +504,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
 东方卫视,http://38.207.133.60:50001/TVOD/5000000004000014098/bestzb/index.m3u8?ace
@@ -625,7 +627,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+
 浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
 江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
 广东卫视,http://my.tmos.cn:15181/chs006.m3u8
