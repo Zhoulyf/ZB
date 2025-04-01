@@ -504,6 +504,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
@@ -625,15 +626,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://38.207.133.60:50001/TVOD/1000000005000265017/ystenlive/index.m3u8?ace
 重庆卫视,http://38.207.133.60:50001/TVOD/1000000002000018937/ystenlive/index.m3u8?ace
 
-
-
-
-
-浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
-江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
-广东卫视,http://my.tmos.cn:15181/chs006.m3u8
-黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
-
 湖南卫视,http://222.70.218.148:8888/udp/239.45.3.228:5140
 江苏卫视,http://222.70.218.148:8888/udp/239.45.3.177:5140
 浙江卫视,http://222.70.218.148:8888/udp/239.45.3.178:5140
@@ -698,12 +690,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://222.68.112.182:8686/udp/239.45.3.232:5140
 三沙卫视,http://222.68.112.182:8686/udp/239.45.0.56:5140
 
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
+
 
 北京卫视,http://www.xzbn.site:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 湖南卫视,http://www.xzbn.site:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
