@@ -524,7 +524,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 
 
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
