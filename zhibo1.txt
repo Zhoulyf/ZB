@@ -321,6 +321,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 
+上海新闻综合,http://live.nctv.top/KLJHDS/migu.php?id=shxwzh
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 
@@ -331,7 +332,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 五星体育,http://38.207.133.60:50001/TVOD/5000000010000017540/bestzb/index.m3u8?ace
 劲爆体育,http://38.207.133.60:50001/TVOD/5000000002000029972/bestzb/index.m3u8?ace
 生活时尚,http://38.207.133.60:50001/TVOD/5000000002000019634/bestzb/index.m3u8?ace
+东方影视,http://live.nctv.top/KLJHDS/migu.php?id=dfys
 东方影视,http://38.207.133.60:50001/TVOD/5000000010000032212/bestzb/index.m3u8?ace
+第一财经,http://live.nctv.top/KLJHDS/migu.php?id=dycj
 第一财经,http://38.207.133.60:50001/TVOD/5000000010000027146/bestzb/index.m3u8?ace
 东方财经,http://38.207.133.60:50001/TVOD/5000000007000010003/bestzb/index.m3u8?ace
 哈哈炫动,http://38.207.133.60:50001/TVOD/5000000011000031123/bestzb/index.m3u8?ace
