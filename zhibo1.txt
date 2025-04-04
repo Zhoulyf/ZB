@@ -874,6 +874,77 @@ Star Sports,http://211.67.191.23/hls/starsports/index.m3u8
 
 
 台湾频道,#genre#
+HBO 1,http://108.181.20.197/livehttpplay?channel_id=20314 
+HBO 2,http://108.181.20.197/livehttpplay?channel_id=20093 
+HBO FAMILY,http://108.181.20.197/livehttpplay?channel_id=20092 
+HBO HITS,http://108.181.20.197/livehttpplay?channel_id=20091 
+中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079 
+中天综合,http://108.181.20.197/livehttpplay?channel_id=20064 
+BBC地球,http://108.181.20.197/livehttpplay?channel_id=20044 
+CatchPlay,http://108.181.20.197/livehttpplay?channel_id=10127
+CHANNEL8,http://108.181.20.197/livehttpplay?channel_id=10132 
+CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048 
+ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104 
+ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105 
+ELTA体育,http://108.181.20.197/livehttpplay?channel_id=20043 
+ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107 
+FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123 
+NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041 
+HOY78,http://108.181.20.197/livehttpplay?channel_id=20191 
+TVBS HD,http://108.181.20.197/livehttpplay?channel_id=20085
+TVBS欢乐,http://108.181.20.197/livehttpplay?channel_id=20105 
+TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136 
+爱尔体育1,http://108.181.20.197/livehttpplay?channel_id=20129 
+八大第一,http://108.181.20.197/livehttpplay?channel_id=20073 
+八大精彩,http://108.181.20.197/livehttpplay?channel_id=20052 
+八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071 
+八大综合,http://108.181.20.197/livehttpplay?channel_id=20068 
+采昌,http://108.181.20.197/livehttpplay?channel_id=20141 
+东森财经,http://108.181.20.197/livehttpplay?channel_id=20078 
+东森电影,http://108.181.20.197/livehttpplay?channel_id=20077 
+东森戏剧,http://108.181.20.197/livehttpplay?channel_id=20072 
+东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082 
+东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080 
+东森综合,http://108.181.20.197/livehttpplay?channel_id=20104 
+动物星球,http://108.181.20.197/livehttpplay?channel_id=20106 
+非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034 
+公视,http://108.181.20.197/livehttpplay?channel_id=20087 
+国家地理,http://108.181.20.197/livehttpplay?channel_id=20037 
+国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164 
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062 
+华纳W北京,http://108.181.20.197/livehttpplay?channel_id=20112 
+华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086 
+龙华电影,http://108.181.20.197/livehttpplay?channel_id=10129 
+龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023 
+龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
+龙华洋片,http://108.181.20.197/livehttpplay?channel_id=20090 
+龙祥电影,http://108.181.20.197/livehttpplay?channel_id=20114 
+美国中文电视,http://108.181.20.197/livehttpplay?channel_id=10128 
+美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197 
+民视,http://108.181.20.197/livehttpplay?channel_id=20074 
+民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097 
+尼克动画,http://108.181.20.197/livehttpplay?channel_id=20089 
+年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033 
+三立都会,http://108.181.20.197/livehttpplay?channel_id=20100 
+三立戏剧,http://108.181.20.197/livehttpplay?channel_id=10125 
+三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126 
+台视,http://108.181.20.197/livehttpplay?channel_id=20076 
+探索世界,http://108.181.20.197/livehttpplay?channel_id=20110 
+探索亚洲,http://108.181.20.197/livehttpplay?channel_id=20113 
+天映电影,http://108.181.20.197/livehttpplay?channel_id=10130 
+天映经典,http://108.181.20.197/livehttpplay?channel_id=20063 
+纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199 
+纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303 
+纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120 
+纬来戏剧,http://108.181.20.197/livehttpplay?channel_id=20200 
+纬来娱乐,http://108.181.20.197/livehttpplay?channel_id=20202 
+纬来综合,http://108.181.20.197/livehttpplay?channel_id=20201 
+壹电影,http://108.181.20.197/livehttpplay?channel_id=20108
+壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028 
+中视,http://108.181.20.197/livehttpplay?channel_id=20088 
+
+
+
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,http://211.72.65.236:8574/.m3u8
