@@ -817,10 +817,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 
-
 凤凰中文 720P,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯 720P,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港 720P,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
+凤凰中文 720P,http://108.181.20.197/livehttpplay?channel_id=20065 
+凤凰资讯 720P,http://108.181.20.197/livehttpplay?channel_id=20066 
+凤凰香港 720P,http://108.181.20.197/livehttpplay?channel_id=20067 
 
 凤凰中文 480P,http://ttkx.cc:1658/公开源454/fh.php?id=fhzw
 凤凰香港 480P,http://ttkx.cc:1658/公开源454/fh.php?id=fhhk
