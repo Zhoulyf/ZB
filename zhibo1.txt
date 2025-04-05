@@ -334,7 +334,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://180.165.2.144:9898/udp/239.45.3.74:5140
 东方购物3,http://180.165.2.144:9898/udp/239.45.3.207:5140
 
+东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
+东方卫视,http://live.nctv.top/KLJHDS/migu.php?id=dfws
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 
