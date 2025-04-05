@@ -500,6 +500,18 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 卫视频道,#genre#
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南卫视,http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://my.tmos.cn:15181/chs002.m3u8
+浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
+江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
+广东卫视,http://my.tmos.cn:15181/chs006.m3u8
+黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
+安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+
+
 湖南卫视,http://180.165.2.144:9898/udp/239.45.3.228:5140
 江苏卫视,http://180.165.2.144:9898/udp/239.45.3.177:5140
 浙江卫视,http://180.165.2.144:9898/udp/239.45.3.178:5140
@@ -576,9 +588,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+
+
 
 北京卫视,http://120.238.94.82:9901/tsfile/live/1068_1.m3u8
 湖南卫视,http://120.238.94.82:9901/tsfile/live/1072_1.m3u8
