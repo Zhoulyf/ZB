@@ -1,22 +1,22 @@
 央视频道,#genre#
-CCTV-1 综合,http://115.159.35.169:35455/gaoma/cctv1.m3u8
-CCTV-2 财经,http://115.159.35.169:35455/gaoma/cctv2.m3u8
-CCTV-3 综艺,http://115.159.35.169:35455/gaoma/cctv3.m3u8
-CCTV-4 中文国际,http://115.159.35.169:35455/gaoma/cctv4.m3u8
-CCTV-5 体育,http://115.159.35.169:35455/gaoma/cctv5.m3u8
-CCTV-5+ 体育赛事,http://115.159.35.169:35455/gaoma/cctv5p.m3u8
-CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6
-CCTV-7 国防军事,http://115.159.35.169:35455/gaoma/cctv7.m3u8
-CCTV-8 电视剧,http://115.159.35.169:35455/gaoma/cctv8.m3u8
-CCTV-9 纪录,http://115.159.35.169:35455/gaoma/cctv9.m3u8
-CCTV-10 科教,http://115.159.35.169:35455/gaoma/cctv10.m3u8
-CCTV-11 戏曲,http://115.159.35.169:35455/gaoma/cctv11.m3u8
-CCTV-12 社会与法,http://115.159.35.169:35455/gaoma/cctv12.m3u8
-CCTV-13 新闻,http://115.159.35.169:35455/gaoma/cctv13.m3u8
-CCTV-14 少儿,http://115.159.35.169:35455/gaoma/cctv14.m3u8
-CCTV-15 音乐,http://115.159.35.169:35455/gaoma/cctv15.m3u8
-CCTV-16 奥林匹克,http://115.159.35.169:35455/gaoma/cctv16.m3u8
-CCTV-17 农业农村,http://115.159.35.169:35455/gaoma/cctv17.m3u8
+CCTV-1 综合,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 中文国际,http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://222.134.245.16:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://222.134.245.16:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15 音乐,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16 奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
+CCTV-17 农业农村,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV-1 综合,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND 
 CCTV-1 综合,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
@@ -40,6 +40,25 @@ CCTV-15 音乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/8888
 CCTV-16 奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
+CCTV-1 综合,http://115.159.35.169:35455/gaoma/cctv1.m3u8
+CCTV-2 财经,http://115.159.35.169:35455/gaoma/cctv2.m3u8
+CCTV-3 综艺,http://115.159.35.169:35455/gaoma/cctv3.m3u8
+CCTV-4 中文国际,http://115.159.35.169:35455/gaoma/cctv4.m3u8
+CCTV-5 体育,http://115.159.35.169:35455/gaoma/cctv5.m3u8
+CCTV-5+ 体育赛事,http://115.159.35.169:35455/gaoma/cctv5p.m3u8
+CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6
+CCTV-7 国防军事,http://115.159.35.169:35455/gaoma/cctv7.m3u8
+CCTV-8 电视剧,http://115.159.35.169:35455/gaoma/cctv8.m3u8
+CCTV-9 纪录,http://115.159.35.169:35455/gaoma/cctv9.m3u8
+CCTV-10 科教,http://115.159.35.169:35455/gaoma/cctv10.m3u8
+CCTV-11 戏曲,http://115.159.35.169:35455/gaoma/cctv11.m3u8
+CCTV-12 社会与法,http://115.159.35.169:35455/gaoma/cctv12.m3u8
+CCTV-13 新闻,http://115.159.35.169:35455/gaoma/cctv13.m3u8
+CCTV-14 少儿,http://115.159.35.169:35455/gaoma/cctv14.m3u8
+CCTV-15 音乐,http://115.159.35.169:35455/gaoma/cctv15.m3u8
+CCTV-16 奥林匹克,http://115.159.35.169:35455/gaoma/cctv16.m3u8
+CCTV-17 农业农村,http://115.159.35.169:35455/gaoma/cctv17.m3u8
+
 CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
 CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
 CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
@@ -58,26 +77,6 @@ CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14
 CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15 
 CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
-
-CCTV-1 综合,http://222.134.245.16:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1 综合,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2 财经,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3 综艺,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4 中文国际,http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+ 体育赛事,http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6 电影,http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7 国防军事,http://222.134.245.16:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8 电视剧,http://222.134.245.16:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9 纪录,http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10 科教,http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11 戏曲,http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12 社会与法,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13 新闻,http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14 少儿,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15 音乐,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17 农业农村,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-
 
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
@@ -245,7 +244,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 都市剧场,http://218.78.182.69:9901/tsfile/live/1004_1.m3u8
 上海教育,http://218.78.182.69:9901/tsfile/live/1007_1.m3u8
 法制天地,http://218.78.182.69:9901/tsfile/live/1006_1.m3u8
-
 
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
