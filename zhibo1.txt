@@ -1,4 +1,23 @@
 央视频道,#genre#
+CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
+CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
+CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
+CCTV-4 中文国际,http://goo.bkpcp.top/mg/cctv4 
+CCTV-5 体育,http://goo.bkpcp.top/mg/cctv5 
+CCTV-5+ 体育赛事,http://goo.bkpcp.top/mg/cctv5p 
+CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6 
+CCTV-7 国防军事,http://goo.bkpcp.top/mg/cctv7 
+CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8 
+CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9 
+CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10 
+CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11 
+CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12 
+CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13 
+CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14 
+CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15 
+CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
+CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
+
 CCTV-1 综合,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND 
 CCTV-1 综合,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
@@ -39,25 +58,6 @@ CCTV-14 少儿,http://115.159.35.169:35455/gaoma/cctv14.m3u8
 CCTV-15 音乐,http://115.159.35.169:35455/gaoma/cctv15.m3u8
 CCTV-16 奥林匹克,http://115.159.35.169:35455/gaoma/cctv16.m3u8
 CCTV-17 农业农村,http://115.159.35.169:35455/gaoma/cctv17.m3u8
-
-CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
-CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
-CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
-CCTV-4 中文国际,http://goo.bkpcp.top/mg/cctv4 
-CCTV-5 体育,http://goo.bkpcp.top/mg/cctv5 
-CCTV-5+ 体育赛事,http://goo.bkpcp.top/mg/cctv5p 
-CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6 
-CCTV-7 国防军事,http://goo.bkpcp.top/mg/cctv7 
-CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8 
-CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9 
-CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10 
-CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11 
-CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12 
-CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13 
-CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14 
-CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15 
-CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
-CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
 
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
@@ -284,13 +284,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-北京卫视,http://my.tmos.cn:15181/chs002.m3u8
-浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
-江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
-广东卫视,http://my.tmos.cn:15181/chs006.m3u8
-黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
-安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 湖南卫视,http://goo.bkpcp.top/mg/hunws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
@@ -322,6 +315,14 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 海峡卫视,http://goo.bkpcp.top/mg/hxws
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
+
+北京卫视,http://my.tmos.cn:15181/chs002.m3u8
+浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
+江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
+广东卫视,http://my.tmos.cn:15181/chs006.m3u8
+黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
+安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
