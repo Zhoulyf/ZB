@@ -885,7 +885,7 @@ pₒₚc电影,http://go1.bkpcp.top/tl/popc
 pₒₚc电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 
 斗鱼电影,#genre#
-琅琊榜http://zby.xjqxz.top/lyb/live.m3u8
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 
 科学黑历史,http://zzy789.xyz/douyu1.php?id=9317739
 欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
@@ -908,25 +908,6 @@ PDD影院,http://zzy789.xyz/douyu1.php?id=1274132
 怡宝电影,http://zzy789.xyz/douyu1.php?id=434971
 科幻FANS,http://zzy789.xyz/douyu1.php?id=3508304
 
-科学黑历史,http://1.94.31.214:35455/douyu/9317739
-欧美大片,http://1.94.31.214:35455/douyu/2793084
-PDD影院,http://1.94.31.214:35455/douyu/1274132
-4K影视剧,http://1.94.31.214:35455/douyu/12191214
-4K电影院,http://1.94.31.214:35455/douyu/12192607
-奶虫电影,http://1.94.31.214:35455/douyu/263824
-人气港剧,http://1.94.31.214:35455/douyu/4549169
-贝贝电影,http://1.94.31.214:35455/douyu/431460
-经典影视剧,http://1.94.31.214:35455/douyu/6091425
-经典港剧天地,http://1.94.31.214:35455/douyu/4290711
-网神影厅,http://1.94.31.214:35455/douyu/508118
-庆余年1,http://1.94.31.214:35455/douyu/7812810
-香港赌片,http://1.94.31.214:35455/douyu/315457
-粤语电影2,http://1.94.31.214:35455/douyu/1226741
-动漫超燃怀旧经典,http://1.94.31.214:35455/douyu/1174353
-女团演唱会,http://1.94.31.214:35455/douyu/11327316
-开心麻花,http://1.94.31.214:35455/douyu/10153463
-音乐MV,http://1.94.31.214:35455/douyu/3870925
-
 科学黑历史,https://www.goodiptv.club/douyu/9317739
 欧美大片,https://www.goodiptv.club/douyu/2793084
 PDD影院,https://www.goodiptv.club/douyu/1274132
@@ -947,7 +928,6 @@ PDD影院,https://www.goodiptv.club/douyu/1274132
 音乐MV,https://www.goodiptv.club/douyu/3870925
 怡宝电影,https://www.goodiptv.club/douyu/434971
 科幻FANS,https://www.goodiptv.club/douyu/3508304
-
 
 科学黑历史,https://live.iill.top/douyu/9317739
 欧美大片,https://live.iill.top/douyu/2793084
@@ -970,7 +950,6 @@ PDD影院,https://live.iill.top/douyu/1274132
 怡宝电影,https://live.iill.top/douyu/434971
 科幻FANS,https://live.iill.top/douyu/3508304
 
-
 科学黑历史,http://huanqiuzhibo.cn/manifest/douyu.php?id=9317739
 欧美大片,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
 PDD影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132
@@ -991,7 +970,6 @@ PDD影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132
 音乐MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
 怡宝电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
 科幻FANS,http://huanqiuzhibo.cn/manifest/douyu.php?id=3508304
-
 
 科学黑历史,https://live.metshop.top/douyu/9317739
 欧美大片,https://live.metshop.top/douyu/2793084
