@@ -885,8 +885,6 @@ pₒₚc电影,http://go1.bkpcp.top/tl/popc
 pₒₚc电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 
 斗鱼电影,#genre#
-琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
-
 科学黑历史,http://zzy789.xyz/douyu1.php?id=9317739
 欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
 PDD影院,http://zzy789.xyz/douyu1.php?id=1274132
