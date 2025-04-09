@@ -1,4 +1,23 @@
 央视频道,#genre#
+CCTV-1 综合,http://106.46.147.164:10443/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://106.46.147.164:10443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://106.46.147.164:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 中文国际,http://106.46.147.164:10443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://106.46.147.164:10443/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://106.46.147.164:10443/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://106.46.147.164:10443/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://106.46.147.164:10443/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://106.46.147.164:10443/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://106.46.147.164:10443/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://106.46.147.164:10443/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://106.46.147.164:10443/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://106.46.147.164:10443/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://106.46.147.164:10443/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://106.46.147.164:10443/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15 音乐,http://106.46.147.164:10443/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
+CCTV-17 农业农村,http://106.46.147.164:10443/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
 CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
 CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
@@ -211,6 +230,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://106.46.147.164:10443/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
@@ -303,6 +323,39 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+北京卫视,http://106.46.147.164:10443/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://106.46.147.164:10443/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://106.46.147.164:10443/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://106.46.147.164:10443/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://106.46.147.164:10443/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://106.46.147.164:10443/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://106.46.147.164:10443/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://106.46.147.164:10443/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://106.46.147.164:10443/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://106.46.147.164:10443/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://106.46.147.164:10443/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://106.46.147.164:10443/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://106.46.147.164:10443/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://106.46.147.164:10443/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://106.46.147.164:10443/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://106.46.147.164:10443/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://106.46.147.164:10443/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://106.46.147.164:10443/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://106.46.147.164:10443/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://106.46.147.164:10443/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://106.46.147.164:10443/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://106.46.147.164:10443/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://106.46.147.164:10443/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://106.46.147.164:10443/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://106.46.147.164:10443/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://106.46.147.164:10443/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://106.46.147.164:10443/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://106.46.147.164:10443/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://106.46.147.164:10443/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://106.46.147.164:10443/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://106.46.147.164:10443/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://106.46.147.164:10443/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南卫视,http://goo.bkpcp.top/mg/hunws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
