@@ -18,27 +18,23 @@ CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
 
-CCTV-1 综合,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND 
-CCTV-1 综合,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND 
-CCTV-4 中文国际,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND 
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND 
-CCTV-5+ 体育赛事,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND 
-CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6
-CCTV-7 国防军事,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND 
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND 
-CCTV-12 社会与法,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND 
-CCTV-13 新闻,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND 
-CCTV-14 少儿,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND 
-CCTV-15 音乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND 
-CCTV-16 奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV-1 综合,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://39.164.180.36:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 中文国际,http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://39.164.180.36:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://39.164.180.36:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://39.164.180.36:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15 音乐,http://39.164.180.36:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17 农业农村,http://39.164.180.36:19901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
@@ -155,17 +151,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海本地,#genre#
 东方卫视,http://goo.bkpcp.top/mg/dfws
-东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
 东方卫视,http://183.156.124.54:4022/udp/233.50.200.146:5140$浙江电信
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 
-上海新闻综合,http://218.78.182.69:9901/tsfile/live/1000_1.m3u8
-上海都市,http://218.78.182.69:9901/tsfile/live/1001_1.m3u8
-五星体育,http://218.78.182.69:9901/tsfile/live/1010_1.m3u8
-东方影视,http://218.78.182.69:9901/tsfile/live/1013_1.m3u8
-都市剧场,http://218.78.182.69:9901/tsfile/live/1004_1.m3u8
-上海教育,http://218.78.182.69:9901/tsfile/live/1007_1.m3u8
-法制天地,http://218.78.182.69:9901/tsfile/live/1006_1.m3u8
+
+上海都市,http://101.228.217.41:9091/hls/18/index.m3u8
+
 
 东方卫视,http://222.70.245.178:19999/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://222.70.245.178:19999/udp/239.45.3.209:5140$上海电信
@@ -286,6 +277,35 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 
+东方卫视,http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://39.164.180.36:19901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://39.164.180.36:19901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://39.164.180.36:19901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://39.164.180.36:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://39.164.180.36:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://39.164.180.36:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://39.164.180.36:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://39.164.180.36:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://39.164.180.36:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://39.164.180.36:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://39.164.180.36:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://39.164.180.36:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://39.164.180.36:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://39.164.180.36:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://39.164.180.36:19901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://39.164.180.36:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://39.164.180.36:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://39.164.180.36:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://39.164.180.36:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://39.164.180.36:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://39.164.180.36:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://39.164.180.36:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://39.164.180.36:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+
 北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
 江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
@@ -293,19 +313,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
 安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-
-北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
-湖南卫视,http://goo.bkpcp.top/mg/hunws
-浙江卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND
-江苏卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND
-东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
-山东卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
-黑龙江卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND
-东南卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND
-江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
-深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
-湖北卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
 
 北京卫视,http://183.156.124.54:4022/udp/233.50.200.179:5140$浙江电信
 浙江卫视,http://183.156.124.54:4022/udp/233.50.200.145:5140$浙江电信
