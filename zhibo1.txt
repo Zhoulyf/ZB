@@ -1,23 +1,4 @@
 央视频道,#genre#
-CCTV-1 综合,http://180.165.27.13:7777/tsfile/live/0001_1.m3u8
-CCTV-2 财经,http://180.165.27.13:7777/tsfile/live/0002_1.m3u8
-CCTV-3 综艺,http://180.165.27.13:7777/tsfile/live/0003_1.m3u8
-CCTV-4 中文国际,http://180.165.27.13:7777/tsfile/live/0004_1.m3u8
-CCTV-5 体育,http://180.165.27.13:7777/tsfile/live/0005_1.m3u8
-CCTV-5+ 体育赛事,http://180.165.27.13:7777/tsfile/live/0016_1.m3u8
-CCTV-6 电影,http://180.165.27.13:7777/tsfile/live/0006_1.m3u8
-CCTV-7 国防军事,http://180.165.27.13:7777/tsfile/live/0007_1.m3u8
-CCTV-8 电视剧,http://180.165.27.13:7777/tsfile/live/0008_1.m3u8
-CCTV-9 纪录,http://180.165.27.13:7777/tsfile/live/0009_1.m3u8
-CCTV-10 科教,http://180.165.27.13:7777/tsfile/live/0010_1.m3u8
-CCTV-11 戏曲,http://180.165.27.13:7777/tsfile/live/0011_1.m3u8
-CCTV-12 社会与法,http://180.165.27.13:7777/tsfile/live/0012_1.m3u8
-CCTV-13 新闻,http://180.165.27.13:7777/tsfile/live/0013_1.m3u8
-CCTV-14 少儿,http://180.165.27.13:7777/tsfile/live/0014_1.m3u8
-CCTV-15 音乐,http://180.165.27.13:7777/tsfile/live/0015_1.m3u8
-CCTV-16 奥林匹克,http://180.165.27.13:7777/tsfile/live/1038_1.m3u8
-CCTV-17 农业农村,http://180.165.27.13:7777/tsfile/live/1039_1.m3u8
-
 CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
 CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
 CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
@@ -36,6 +17,25 @@ CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14
 CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15 
 CCTV-16 奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
+
+CCTV-1 综合,http://180.165.27.13:7777/tsfile/live/0001_1.m3u8
+CCTV-2 财经,http://180.165.27.13:7777/tsfile/live/0002_1.m3u8
+CCTV-3 综艺,http://180.165.27.13:7777/tsfile/live/0003_1.m3u8
+CCTV-4 中文国际,http://180.165.27.13:7777/tsfile/live/0004_1.m3u8
+CCTV-5 体育,http://180.165.27.13:7777/tsfile/live/0005_1.m3u8
+CCTV-5+ 体育赛事,http://180.165.27.13:7777/tsfile/live/0016_1.m3u8
+CCTV-6 电影,http://180.165.27.13:7777/tsfile/live/0006_1.m3u8
+CCTV-7 国防军事,http://180.165.27.13:7777/tsfile/live/0007_1.m3u8
+CCTV-8 电视剧,http://180.165.27.13:7777/tsfile/live/0008_1.m3u8
+CCTV-9 纪录,http://180.165.27.13:7777/tsfile/live/0009_1.m3u8
+CCTV-10 科教,http://180.165.27.13:7777/tsfile/live/0010_1.m3u8
+CCTV-11 戏曲,http://180.165.27.13:7777/tsfile/live/0011_1.m3u8
+CCTV-12 社会与法,http://180.165.27.13:7777/tsfile/live/0012_1.m3u8
+CCTV-13 新闻,http://180.165.27.13:7777/tsfile/live/0013_1.m3u8
+CCTV-14 少儿,http://180.165.27.13:7777/tsfile/live/0014_1.m3u8
+CCTV-15 音乐,http://180.165.27.13:7777/tsfile/live/0015_1.m3u8
+CCTV-16 奥林匹克,http://180.165.27.13:7777/tsfile/live/1038_1.m3u8
+CCTV-17 农业农村,http://180.165.27.13:7777/tsfile/live/1039_1.m3u8
 
 CCTV-1 综合,http://60.209.125.254:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://60.209.125.254:352/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -169,9 +169,17 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://101.228.217.41:9091/hls/17/index.m3u8
+上海都市,http://101.228.217.41:9091/hls/18/index.m3u8
+
+东方卫视,http://goo.bkpcp.top/mg/dfws
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+上海新闻综合,http://goo.bkpcp.top/mg/shxw
+上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
+
 东方卫视,http://180.165.27.13:7777/tsfile/live/0107_1.m3u8
 上海新闻综合,http://180.165.27.13:7777/tsfile/live/1025_1.m3u8
-都市频道,http://180.165.27.13:7777/tsfile/live/1026_1.m3u8
+上海都市,http://180.165.27.13:7777/tsfile/live/1026_1.m3u8
 五星体育,http://180.165.27.13:7777/tsfile/live/1030_1.m3u8
 东方影视,http://180.165.27.13:7777/tsfile/live/1028_1.m3u8
 生活时尚,http://180.165.27.13:7777/tsfile/live/1051_1.m3u8
@@ -184,14 +192,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 金色学堂,http://180.165.27.13:7777/tsfile/live/1036_1.m3u8
 动漫秀场,http://180.165.27.13:7777/tsfile/live/1052_1.m3u8
 游戏风云,http://180.165.27.13:7777/tsfile/live/1050_1.m3u8
-
-东方卫视,http://101.228.217.41:9091/hls/17/index.m3u8
-上海都市,http://101.228.217.41:9091/hls/18/index.m3u8
-
-东方卫视,http://goo.bkpcp.top/mg/dfws
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-上海新闻综合,http://goo.bkpcp.top/mg/shxw
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 
 东方卫视,http://183.156.124.54:4022/udp/233.50.200.146:5140$浙江电信
 
@@ -255,7 +255,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物3,http://116.231.104.177:4022/udp/239.45.3.207:5140$上海电信
 
 
-
 上海都市,
 五星体育,
 劲爆体育,http://goo.bkpcp.top/mg/jbty
@@ -281,6 +280,37 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+湖南卫视,http://goo.bkpcp.top/mg/hunws
+江苏卫视,http://goo.bkpcp.top/mg/jsws
+浙江卫视,http://goo.bkpcp.top/mg/zjws
+北京卫视,http://goo.bkpcp.top/mg/bjws
+东方卫视,http://goo.bkpcp.top/mg/dfws
+东南卫视,http://goo.bkpcp.top/mg/dnws
+云南卫视,http://goo.bkpcp.top/mg/ynws
+吉林卫视,http://goo.bkpcp.top/mg/jlws
+四川卫视,http://goo.bkpcp.top/mg/scws
+安徽卫视,http://goo.bkpcp.top/mg/ahws
+山东卫视,http://goo.bkpcp.top/mg/sdws
+广东卫视,http://goo.bkpcp.top/mg/gdws
+广西卫视,http://goo.bkpcp.top/mg/gxws
+江西卫视,http://goo.bkpcp.top/mg/jxws
+河北卫视,http://goo.bkpcp.top/mg/hbws
+河南卫视,http://goo.bkpcp.top/mg/hnws
+海南卫视,http://goo.bkpcp.top/mg/hinws
+深圳卫视,http://goo.bkpcp.top/mg/szws
+湖北卫视,http://goo.bkpcp.top/mg/hubws
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+辽宁卫视,http://goo.bkpcp.top/mg/lnws
+重庆卫视,http://goo.bkpcp.top/mg/cqws
+青海卫视,http://goo.bkpcp.top/mg/qhws
+黑龙江卫视,http://goo.bkpcp.top/mg/hljws
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+海峡卫视,http://goo.bkpcp.top/mg/hxws
+宁夏卫视,http://goo.bkpcp.top/mg/nxws
+新疆卫视,http://goo.bkpcp.top/mg/xjws
 
 浙江卫视,http://180.165.27.13:7777/tsfile/live/0124_1.m3u8
 湖南卫视,http://180.165.27.13:7777/tsfile/live/0128_1.m3u8
@@ -316,37 +346,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 吉林卫视,http://180.165.27.13:7777/tsfile/live/0116_1.m3u8
 三沙卫视,http://180.165.27.13:7777/tsfile/live/1056_1.m3u8
 兵团卫视,http://180.165.27.13:7777/tsfile/live/0115_1.m3u8
-
-湖南卫视,http://goo.bkpcp.top/mg/hunws
-江苏卫视,http://goo.bkpcp.top/mg/jsws
-浙江卫视,http://goo.bkpcp.top/mg/zjws
-北京卫视,http://goo.bkpcp.top/mg/bjws
-东方卫视,http://goo.bkpcp.top/mg/dfws
-东南卫视,http://goo.bkpcp.top/mg/dnws
-云南卫视,http://goo.bkpcp.top/mg/ynws
-吉林卫视,http://goo.bkpcp.top/mg/jlws
-四川卫视,http://goo.bkpcp.top/mg/scws
-安徽卫视,http://goo.bkpcp.top/mg/ahws
-山东卫视,http://goo.bkpcp.top/mg/sdws
-广东卫视,http://goo.bkpcp.top/mg/gdws
-广西卫视,http://goo.bkpcp.top/mg/gxws
-江西卫视,http://goo.bkpcp.top/mg/jxws
-河北卫视,http://goo.bkpcp.top/mg/hbws
-河南卫视,http://goo.bkpcp.top/mg/hnws
-海南卫视,http://goo.bkpcp.top/mg/hinws
-深圳卫视,http://goo.bkpcp.top/mg/szws
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-甘肃卫视,http://goo.bkpcp.top/mg/gsws
-辽宁卫视,http://goo.bkpcp.top/mg/lnws
-重庆卫视,http://goo.bkpcp.top/mg/cqws
-青海卫视,http://goo.bkpcp.top/mg/qhws
-黑龙江卫视,http://goo.bkpcp.top/mg/hljws
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-西藏卫视,http://goo.bkpcp.top/mg/xzws
-海峡卫视,http://goo.bkpcp.top/mg/hxws
-宁夏卫视,http://goo.bkpcp.top/mg/nxws
-新疆卫视,http://goo.bkpcp.top/mg/xjws
 
 东方卫视,http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://39.164.180.36:19901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
