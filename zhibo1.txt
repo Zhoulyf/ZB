@@ -254,8 +254,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://116.231.104.177:4022/udp/239.45.3.74:5140$上海电信
 东方购物3,http://116.231.104.177:4022/udp/239.45.3.207:5140$上海电信
 
-上海新闻综合,http://goo.bkpcp.top/mg/shxw
-上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
+
 
 上海都市,
 五星体育,
