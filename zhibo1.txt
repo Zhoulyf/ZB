@@ -150,12 +150,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://101.228.217.41:9091/hls/17/index.m3u8
+上海都市,http://101.228.217.41:9091/hls/18/index.m3u8
+
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://183.156.124.54:4022/udp/233.50.200.146:5140$浙江电信
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-
-
-上海都市,http://101.228.217.41:9091/hls/18/index.m3u8
 
 
 东方卫视,http://222.70.245.178:19999/udp/239.45.3.146:5140$上海电信
