@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV-1 综合,http://8.138.7.223/tv/ptbtv.php?id=27$『线路2』
 CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1 
 CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2 
 CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3 
@@ -11,7 +12,8 @@ CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8
 CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9 
 CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10 
 CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11 
-CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12 
+CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12
+CCTV-13 新闻,http://8.138.7.223/tv/ptbtv.php?id=28$『线路2』
 CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13 
 CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14 
 CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15 
