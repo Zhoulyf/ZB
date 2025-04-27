@@ -245,7 +245,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海本地,#genre#
 东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
-
+东方卫视,http://39.165.196.149:9003//hls/39/index.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
