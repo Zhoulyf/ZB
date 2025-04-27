@@ -252,8 +252,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 
 东方卫视,http://180.165.3.71:7777/tsfile/live/0107_1.m3u8
-新闻综合,http://180.165.3.71:7777/tsfile/live/1025_1.m3u8
-都市频道,http://180.165.3.71:7777/tsfile/live/1026_1.m3u8
+上海新闻综合,http://180.165.3.71:7777/tsfile/live/1025_1.m3u8
+上海都市,http://180.165.3.71:7777/tsfile/live/1026_1.m3u8
 五星体育,http://180.165.3.71:7777/tsfile/live/1030_1.m3u8
 生活时尚,http://180.165.3.71:7777/tsfile/live/1051_1.m3u8
 东方影视,http://180.165.3.71:7777/tsfile/live/1028_1.m3u8
