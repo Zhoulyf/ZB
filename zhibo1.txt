@@ -230,6 +230,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 上海本地,#genre#
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1746334807-ddb61092a75249868c8bd1834313f437-0-8a760296d281d86bc4612f5fc4f85247
 东方卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873462.m3u8
+东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
 上海新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d43b97&tk=8bf286184513
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
