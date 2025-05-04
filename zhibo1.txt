@@ -40,25 +40,6 @@ CCTV15音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
-CCTV1综合,http://180.165.3.71:7777/tsfile/live/0001_1.m3u8
-CCTV2财经,http://180.165.3.71:7777/tsfile/live/0002_1.m3u8
-CCTV3综艺,http://180.165.3.71:7777/tsfile/live/0003_1.m3u8
-CCTV4中文国际,http://180.165.3.71:7777/tsfile/live/0004_1.m3u8
-CCTV5体育,http://180.165.3.71:7777/tsfile/live/0005_1.m3u8
-CCTV5+体育赛事,http://180.165.3.71:7777/tsfile/live/0016_1.m3u8
-CCTV6电影,http://180.165.3.71:7777/tsfile/live/0006_1.m3u8
-CCTV7国防军事,http://180.165.3.71:7777/tsfile/live/0007_1.m3u8
-CCTV8电视剧,http://180.165.3.71:7777/tsfile/live/0008_1.m3u8
-CCTV9纪录,http://180.165.3.71:7777/tsfile/live/0009_1.m3u8
-CCTV10科教,http://180.165.3.71:7777/tsfile/live/0010_1.m3u8
-CCTV11戏曲,http://180.165.3.71:7777/tsfile/live/0011_1.m3u8
-CCTV12社会与法,http://180.165.3.71:7777/tsfile/live/0012_1.m3u8
-CCTV13新闻,http://180.165.3.71:7777/tsfile/live/0013_1.m3u8
-CCTV14少儿,http://180.165.3.71:7777/tsfile/live/0014_1.m3u8
-CCTV15音乐,http://180.165.3.71:7777/tsfile/live/0015_1.m3u8
-CCTV16奥林匹克,http://180.165.3.71:7777/tsfile/live/1038_1.m3u8
-CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
-
 CCTV1综合,http://124.90.164.34:8888/udp/233.50.200.99:5140$浙江电信
 CCTV2财经,http://124.90.164.34:8888/udp/233.50.200.25:5140$浙江电信
 CCTV3综艺,http://124.90.164.34:8888/udp/233.50.200.107:5140$浙江电信
@@ -151,6 +132,25 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
+CCTV1综合,http://180.165.3.71:7777/tsfile/live/0001_1.m3u8
+CCTV2财经,http://180.165.3.71:7777/tsfile/live/0002_1.m3u8
+CCTV3综艺,http://180.165.3.71:7777/tsfile/live/0003_1.m3u8
+CCTV4中文国际,http://180.165.3.71:7777/tsfile/live/0004_1.m3u8
+CCTV5体育,http://180.165.3.71:7777/tsfile/live/0005_1.m3u8
+CCTV5+体育赛事,http://180.165.3.71:7777/tsfile/live/0016_1.m3u8
+CCTV6电影,http://180.165.3.71:7777/tsfile/live/0006_1.m3u8
+CCTV7国防军事,http://180.165.3.71:7777/tsfile/live/0007_1.m3u8
+CCTV8电视剧,http://180.165.3.71:7777/tsfile/live/0008_1.m3u8
+CCTV9纪录,http://180.165.3.71:7777/tsfile/live/0009_1.m3u8
+CCTV10科教,http://180.165.3.71:7777/tsfile/live/0010_1.m3u8
+CCTV11戏曲,http://180.165.3.71:7777/tsfile/live/0011_1.m3u8
+CCTV12社会与法,http://180.165.3.71:7777/tsfile/live/0012_1.m3u8
+CCTV13新闻,http://180.165.3.71:7777/tsfile/live/0013_1.m3u8
+CCTV14少儿,http://180.165.3.71:7777/tsfile/live/0014_1.m3u8
+CCTV15音乐,http://180.165.3.71:7777/tsfile/live/0015_1.m3u8
+CCTV16奥林匹克,http://180.165.3.71:7777/tsfile/live/1038_1.m3u8
+CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
 
 
 上海本地,#genre#
