@@ -228,6 +228,14 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.146:5140
+东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
+上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
+上海新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d43b97&tk=8bf286184513
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
+东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
+
 东方卫视,http://180.165.3.71:7777/tsfile/live/0107_1.m3u8
 上海新闻综合,http://180.165.3.71:7777/tsfile/live/1025_1.m3u8
 上海都市,http://180.165.3.71:7777/tsfile/live/1026_1.m3u8
