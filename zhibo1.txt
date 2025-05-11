@@ -180,6 +180,7 @@ CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873462.m3u8
 
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
@@ -306,6 +307,37 @@ CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+湖南卫视,http://goo.bkpcp.top/mg/hunws
+江苏卫视,http://goo.bkpcp.top/mg/jsws
+浙江卫视,http://goo.bkpcp.top/mg/zjws
+北京卫视,http://goo.bkpcp.top/mg/bjws
+东方卫视,http://goo.bkpcp.top/mg/dfws
+东南卫视,http://goo.bkpcp.top/mg/dnws
+云南卫视,http://goo.bkpcp.top/mg/ynws
+吉林卫视,http://goo.bkpcp.top/mg/jlws
+四川卫视,http://goo.bkpcp.top/mg/scws
+安徽卫视,http://goo.bkpcp.top/mg/ahws
+山东卫视,http://goo.bkpcp.top/mg/sdws
+广东卫视,http://goo.bkpcp.top/mg/gdws
+广西卫视,http://goo.bkpcp.top/mg/gxws
+江西卫视,http://goo.bkpcp.top/mg/jxws
+河北卫视,http://goo.bkpcp.top/mg/hbws
+河南卫视,http://goo.bkpcp.top/mg/hnws
+海南卫视,http://goo.bkpcp.top/mg/hinws
+深圳卫视,http://goo.bkpcp.top/mg/szws
+湖北卫视,http://goo.bkpcp.top/mg/hubws
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+辽宁卫视,http://goo.bkpcp.top/mg/lnws
+重庆卫视,http://goo.bkpcp.top/mg/cqws
+青海卫视,http://goo.bkpcp.top/mg/qhws
+黑龙江卫视,http://goo.bkpcp.top/mg/hljws
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+海峡卫视,http://goo.bkpcp.top/mg/hxws
+宁夏卫视,http://goo.bkpcp.top/mg/nxws
+新疆卫视,http://goo.bkpcp.top/mg/xjws
 
 湖南卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.190:5140
 浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.145:5140
@@ -449,37 +481,6 @@ CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
 青海卫视,http://180.158.2.131:4022/udp/239.45.0.37:5140$上海电信
 黑龙江卫视,http://180.158.2.131:4022/udp/239.45.3.232:5140$上海电信
 三沙卫视,http://180.158.2.131:4022/udp/239.45.0.56:5140$上海电信
-
-湖南卫视,http://goo.bkpcp.top/mg/hunws
-江苏卫视,http://goo.bkpcp.top/mg/jsws
-浙江卫视,http://goo.bkpcp.top/mg/zjws
-北京卫视,http://goo.bkpcp.top/mg/bjws
-东方卫视,http://goo.bkpcp.top/mg/dfws
-东南卫视,http://goo.bkpcp.top/mg/dnws
-云南卫视,http://goo.bkpcp.top/mg/ynws
-吉林卫视,http://goo.bkpcp.top/mg/jlws
-四川卫视,http://goo.bkpcp.top/mg/scws
-安徽卫视,http://goo.bkpcp.top/mg/ahws
-山东卫视,http://goo.bkpcp.top/mg/sdws
-广东卫视,http://goo.bkpcp.top/mg/gdws
-广西卫视,http://goo.bkpcp.top/mg/gxws
-江西卫视,http://goo.bkpcp.top/mg/jxws
-河北卫视,http://goo.bkpcp.top/mg/hbws
-河南卫视,http://goo.bkpcp.top/mg/hnws
-海南卫视,http://goo.bkpcp.top/mg/hinws
-深圳卫视,http://goo.bkpcp.top/mg/szws
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-甘肃卫视,http://goo.bkpcp.top/mg/gsws
-辽宁卫视,http://goo.bkpcp.top/mg/lnws
-重庆卫视,http://goo.bkpcp.top/mg/cqws
-青海卫视,http://goo.bkpcp.top/mg/qhws
-黑龙江卫视,http://goo.bkpcp.top/mg/hljws
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-西藏卫视,http://goo.bkpcp.top/mg/xzws
-海峡卫视,http://goo.bkpcp.top/mg/hxws
-宁夏卫视,http://goo.bkpcp.top/mg/nxws
-新疆卫视,http://goo.bkpcp.top/mg/xjws
 
 东方卫视,http://180.165.3.71:7777/tsfile/live/0107_1.m3u8
 北京卫视,http://180.165.3.71:7777/tsfile/live/0122_1.m3u8
