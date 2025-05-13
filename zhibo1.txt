@@ -799,6 +799,11 @@ New TV,#genre#
 
 
 电影频道,#genre#
+CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA#http://z.b.bkpcp.top/m.php?id=dzdy#http://148.135.93.213/live.php?id=CHC动作电影#http://148.135.93.213:81/live.php?id=CHC动作电影
+CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA#http://148.135.93.213/live.php?id=CHC家庭影院#http://z.b.bkpcp.top/m.php?id=jtyy#http://148.135.93.213:81/live.php?id=CHC家庭影院
+CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA#http://148.135.93.213/live.php?id=CHC影迷电影
+
+
 CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
 CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
 CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
