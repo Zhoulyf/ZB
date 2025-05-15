@@ -890,6 +890,27 @@ pₒₚc电影,http://go1.bkpcp.top/tl/popc
 pₒₚc电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 
 斗鱼电影,#genre#
+科学黑历史,http://huanqiuzhibo.cn/manifest/douyu.php?id=9317739
+欧美大片,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
+PDD影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132
+4K影视剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=12191214
+4K电影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=12192607
+奶虫电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+人气港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
+贝贝电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
+经典影视剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
+经典港剧天地,http://huanqiuzhibo.cn/manifest/douyu.php?id=4290711
+网神影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=508118
+庆余年1,http://huanqiuzhibo.cn/manifest/douyu.php?id=7812810
+香港赌片,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
+粤语电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+动漫超燃怀旧经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=1174353
+女团演唱会,http://huanqiuzhibo.cn/manifest/douyu.php?id=11327316
+开心麻花,http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
+音乐MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
+怡宝电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
+科幻FANS,http://huanqiuzhibo.cn/manifest/douyu.php?id=3508304
+
 科学黑历史,http://zzy789.xyz/douyu1.php?id=9317739
 欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
 PDD影院,http://zzy789.xyz/douyu1.php?id=1274132
