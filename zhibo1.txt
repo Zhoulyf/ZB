@@ -21,25 +21,24 @@ CCTV15音乐,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8J
 CCTV16奥林匹克,
 CCTV17农业农村,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
-CCTV1综合,http://120.76.248.139/live/bfgd/4200000201.m3u8
-CCTV1综合,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV2财经,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV3综艺,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV4中文国际,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV5体育,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV5+体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV6电影,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV7国防军事,http://120.76.248.139/live/bfgd/4200000127.m3u8
-CCTV8电视剧,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV9纪录,http://120.76.248.139/live/bfgd/4200000128.m3u8
-CCTV10科教,http://120.76.248.139/live/bfgd/4200000129.m3u8
-CCTV11戏曲,http://120.76.248.139/live/bfgd/4200000130.m3u8
-CCTV12社会与法,http://120.76.248.139/live/bfgd/4200000131.m3u8
-CCTV13新闻,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV14少儿,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV15音乐,http://120.76.248.139/live/bfgd/4200000133.m3u8
-CCTV16奥林匹克,
-CCTV17农业农村,http://120.76.248.139/live/bfgd/4200000204.m3u8
+CCTV1综合,http://goo.bkpcp.top/mg/cctv1 
+CCTV2财经,http://goo.bkpcp.top/mg/cctv2 
+CCTV3综艺,http://goo.bkpcp.top/mg/cctv3 
+CCTV4中文国际,http://goo.bkpcp.top/mg/cctv4 
+CCTV5体育,http://goo.bkpcp.top/mg/cctv5 
+CCTV5+体育赛事,http://goo.bkpcp.top/mg/cctv5p 
+CCTV6电影,http://goo.bkpcp.top/mg/cctv6 
+CCTV7国防军事,http://goo.bkpcp.top/mg/cctv7 
+CCTV8电视剧,http://goo.bkpcp.top/mg/cctv8 
+CCTV9纪录,http://goo.bkpcp.top/mg/cctv9 
+CCTV10科教,http://goo.bkpcp.top/mg/cctv10 
+CCTV11戏曲,http://goo.bkpcp.top/mg/cctv11 
+CCTV12社会与法,http://goo.bkpcp.top/mg/cctv12
+CCTV13新闻,http://goo.bkpcp.top/mg/cctv13 
+CCTV14少儿,http://goo.bkpcp.top/mg/cctv14 
+CCTV15音乐,http://goo.bkpcp.top/mg/cctv15 
+CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
+CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
 CCTV1综合,http://124.90.164.34:8888/udp/233.50.200.99:5140$浙江电信
 CCTV2财经,http://124.90.164.34:8888/udp/233.50.200.25:5140$浙江电信
@@ -59,25 +58,6 @@ CCTV14少儿,http://124.90.164.34:8888/udp/233.50.200.103:5140$浙江电信
 CCTV15音乐,http://124.90.164.34:8888/udp/233.50.201.15:5140$浙江电信
 CCTV16奥林匹克,http://124.90.164.34:8888/udp/233.50.200.112:5140$浙江电信
 CCTV17农业农村,http://124.90.164.34:8888/udp/233.50.200.113:5140$浙江电信
-
-CCTV1综合,http://goo.bkpcp.top/mg/cctv1 
-CCTV2财经,http://goo.bkpcp.top/mg/cctv2 
-CCTV3综艺,http://goo.bkpcp.top/mg/cctv3 
-CCTV4中文国际,http://goo.bkpcp.top/mg/cctv4 
-CCTV5体育,http://goo.bkpcp.top/mg/cctv5 
-CCTV5+体育赛事,http://goo.bkpcp.top/mg/cctv5p 
-CCTV6电影,http://goo.bkpcp.top/mg/cctv6 
-CCTV7国防军事,http://goo.bkpcp.top/mg/cctv7 
-CCTV8电视剧,http://goo.bkpcp.top/mg/cctv8 
-CCTV9纪录,http://goo.bkpcp.top/mg/cctv9 
-CCTV10科教,http://goo.bkpcp.top/mg/cctv10 
-CCTV11戏曲,http://goo.bkpcp.top/mg/cctv11 
-CCTV12社会与法,http://goo.bkpcp.top/mg/cctv12
-CCTV13新闻,http://goo.bkpcp.top/mg/cctv13 
-CCTV14少儿,http://goo.bkpcp.top/mg/cctv14 
-CCTV15音乐,http://goo.bkpcp.top/mg/cctv15 
-CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
-CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
 CCTV1综合,http://ycsj.aguihome.com:4022/udp/233.50.200.99:5140
 CCTV2财经,http://ycsj.aguihome.com:4022/udp/233.50.200.25:5140
@@ -191,31 +171,12 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
-CCTV1综合,http://180.165.3.71:7777/tsfile/live/0001_1.m3u8
-CCTV2财经,http://180.165.3.71:7777/tsfile/live/0002_1.m3u8
-CCTV3综艺,http://180.165.3.71:7777/tsfile/live/0003_1.m3u8
-CCTV4中文国际,http://180.165.3.71:7777/tsfile/live/0004_1.m3u8
-CCTV5体育,http://180.165.3.71:7777/tsfile/live/0005_1.m3u8
-CCTV5+体育赛事,http://180.165.3.71:7777/tsfile/live/0016_1.m3u8
-CCTV6电影,http://180.165.3.71:7777/tsfile/live/0006_1.m3u8
-CCTV7国防军事,http://180.165.3.71:7777/tsfile/live/0007_1.m3u8
-CCTV8电视剧,http://180.165.3.71:7777/tsfile/live/0008_1.m3u8
-CCTV9纪录,http://180.165.3.71:7777/tsfile/live/0009_1.m3u8
-CCTV10科教,http://180.165.3.71:7777/tsfile/live/0010_1.m3u8
-CCTV11戏曲,http://180.165.3.71:7777/tsfile/live/0011_1.m3u8
-CCTV12社会与法,http://180.165.3.71:7777/tsfile/live/0012_1.m3u8
-CCTV13新闻,http://180.165.3.71:7777/tsfile/live/0013_1.m3u8
-CCTV14少儿,http://180.165.3.71:7777/tsfile/live/0014_1.m3u8
-CCTV15音乐,http://180.165.3.71:7777/tsfile/live/0015_1.m3u8
-CCTV16奥林匹克,http://180.165.3.71:7777/tsfile/live/1038_1.m3u8
-CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
-
 
 
 
 
 上海本地,#genre#
-东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
+
 东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
@@ -298,27 +259,9 @@ CCTV17农业农村,http://180.165.3.71:7777/tsfile/live/1039_1.m3u8
 东方购物2,http://116.234.74.191:10000/udp/239.45.3.74:5140$上海电信
 东方购物3,http://116.234.74.191:10000/udp/239.45.3.207:5140$上海电信
 
-东方卫视,http://180.165.3.71:7777/tsfile/live/0107_1.m3u8
-上海新闻综合,http://180.165.3.71:7777/tsfile/live/1025_1.m3u8
-上海都市,http://180.165.3.71:7777/tsfile/live/1026_1.m3u8
-五星体育,http://180.165.3.71:7777/tsfile/live/1030_1.m3u8
-生活时尚,http://180.165.3.71:7777/tsfile/live/1051_1.m3u8
-东方影视,http://180.165.3.71:7777/tsfile/live/1028_1.m3u8
-第一财经,http://180.165.3.71:7777/tsfile/live/1029_1.m3u8
-东方财经,http://180.165.3.71:7777/tsfile/live/1031_1.m3u8
-上海教育台,http://180.165.3.71:7777/tsfile/live/1033_1.m3u8
-法治天地,http://180.165.3.71:7777/tsfile/live/1035_1.m3u8
-金色学堂,http://180.165.3.71:7777/tsfile/live/1036_1.m3u8
-游戏风云,http://180.165.3.71:7777/tsfile/live/1050_1.m3u8
-动漫秀场,http://180.165.3.71:7777/tsfile/live/1052_1.m3u8
-都市剧场,http://180.165.3.71:7777/tsfile/live/1053_1.m3u8
-欢笑剧场,http://180.165.3.71:7777/tsfile/live/1054_1.m3u8
-
 东方卫视,http://goo.bkpcp.top/mg/dfws
+
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
-
-东方卫视,http://39.165.196.149:9003//hls/39/index.m3u8
-
 上海都市,
 五星体育,
 劲爆体育,http://goo.bkpcp.top/mg/jbty
