@@ -195,7 +195,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海本地,#genre#
 东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+东方卫视,http://182.37.169.94:352/tsfile/live/0107_1.m3u8
+
 
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
@@ -225,8 +226,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 法治天地,http://ycsj.aguihome.com:4022/udp/233.50.200.120:5140
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
 乐游,http://ycsj.aguihome.com:4022/udp/233.50.200.148:5140
-
-东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
 
 东方卫视,http://116.235.57.19:4022/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://116.235.57.19:4022/udp/239.45.3.209:5140$上海电信
@@ -277,8 +276,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://116.234.74.191:10000/udp/239.45.3.74:5140$上海电信
 东方购物3,http://116.234.74.191:10000/udp/239.45.3.207:5140$上海电信
 
-东方卫视,http://goo.bkpcp.top/mg/dfws
 
+东方卫视,http://goo.bkpcp.top/mg/dfws
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
 上海都市,
 五星体育,
