@@ -18,7 +18,7 @@ CCTV12社会与法,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0
 CCTV13新闻,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
 CCTV14少儿,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
 CCTV15音乐,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV16奥林匹克,
+CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV17农业农村,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 CCTV1综合,http://goo.bkpcp.top/mg/cctv1 
@@ -194,8 +194,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
-东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
+东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 东方卫视,http://goo.bkpcp.top/mg/dfws
+东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
 东方卫视,http://182.37.169.94:352/tsfile/live/0107_1.m3u8
 
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
@@ -304,25 +305,17 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
-湖南卫视,http://61.184.46.85:9901/tsfile/live/1002_1.m3u8
-浙江卫视,http://61.184.46.85:9901/tsfile/live/1007_1.m3u8
-江苏卫视,http://61.184.46.85:9901/tsfile/live/1005_1.m3u8
-北京卫视,http://61.184.46.85:9901/tsfile/live/1010_1.m3u8
-湖北卫视,http://61.184.46.85:9901/tsfile/live/0018_1.m3u8
-广东卫视,http://61.184.46.85:9901/tsfile/live/1003_1.m3u8
-深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8
-安徽卫视,http://61.184.46.85:9901/tsfile/live/1006_1.m3u8
-山东卫视,http://61.184.46.85:9901/tsfile/live/1009_1.m3u8
-天津卫视,http://61.184.46.85:9901/tsfile/live/1011_1.m3u8
-河南卫视,http://61.184.46.85:9901/tsfile/live/1012_1.m3u8
-河北卫视,http://61.184.46.85:9901/tsfile/live/1013_1.m3u8
-黑龙江卫视,http://61.184.46.85:9901/tsfile/live/1014_1.m3u8
-重庆卫视,http://61.184.46.85:9901/tsfile/live/1015_1.m3u8
-四川卫视,http://61.184.46.85:9901/tsfile/live/1016_1.m3u8
-辽宁卫视,http://61.184.46.85:9901/tsfile/live/1017_1.m3u8
-海南卫视,http://61.184.46.85:9901/tsfile/live/1018_1.m3u8
-东南卫视,http://61.184.46.85:9901/tsfile/live/1019_1.m3u8
+东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 湖南卫视,http://goo.bkpcp.top/mg/hunws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
@@ -355,6 +348,26 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 
+东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
+湖南卫视,http://61.184.46.85:9901/tsfile/live/1002_1.m3u8
+浙江卫视,http://61.184.46.85:9901/tsfile/live/1007_1.m3u8
+江苏卫视,http://61.184.46.85:9901/tsfile/live/1005_1.m3u8
+北京卫视,http://61.184.46.85:9901/tsfile/live/1010_1.m3u8
+湖北卫视,http://61.184.46.85:9901/tsfile/live/0018_1.m3u8
+广东卫视,http://61.184.46.85:9901/tsfile/live/1003_1.m3u8
+深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8
+安徽卫视,http://61.184.46.85:9901/tsfile/live/1006_1.m3u8
+山东卫视,http://61.184.46.85:9901/tsfile/live/1009_1.m3u8
+天津卫视,http://61.184.46.85:9901/tsfile/live/1011_1.m3u8
+河南卫视,http://61.184.46.85:9901/tsfile/live/1012_1.m3u8
+河北卫视,http://61.184.46.85:9901/tsfile/live/1013_1.m3u8
+黑龙江卫视,http://61.184.46.85:9901/tsfile/live/1014_1.m3u8
+重庆卫视,http://61.184.46.85:9901/tsfile/live/1015_1.m3u8
+四川卫视,http://61.184.46.85:9901/tsfile/live/1016_1.m3u8
+辽宁卫视,http://61.184.46.85:9901/tsfile/live/1017_1.m3u8
+海南卫视,http://61.184.46.85:9901/tsfile/live/1018_1.m3u8
+东南卫视,http://61.184.46.85:9901/tsfile/live/1019_1.m3u8
+
 东方卫视,http://182.37.169.94:352/tsfile/live/0107_1.m3u8
 浙江卫视,http://182.37.169.94:352/tsfile/live/0124_1.m3u8
 湖南卫视,http://182.37.169.94:352/tsfile/live/0128_1.m3u8
@@ -384,18 +397,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 陕西卫视,http://182.37.169.94:352/tsfile/live/0136_1.m3u8
 青海卫视,http://182.37.169.94:352/tsfile/live/0140_1.m3u8
 黑龙江卫视,http://182.37.169.94:352/tsfile/live/0143_1.m3u8
-
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 北京卫视,http://124.90.164.34:8888/udp/233.50.200.179:5140$浙江电信
 浙江卫视,http://124.90.164.34:8888/udp/233.50.200.145:5140$浙江电信
