@@ -60,6 +60,25 @@ CCTV15音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
+CCTV1综合,http://112.46.105.20:8009/hls/501/index.m3u8
+CCTV2财经,http://112.46.105.20:8009/hls/502/index.m3u8
+CCTV3综艺,http://112.46.105.20:8009/hls/3/index.m3u8
+CCTV4中文国际,http://112.46.105.20:8009/hls/4/index.m3u8
+CCTV5体育,http://112.46.105.20:8009/hls/503/index.m3u8
+CCTV5+体育赛事,
+CCTV6电影,http://112.46.105.20:8009/hls/6/index.m3u8
+CCTV7国防军事,http://112.46.105.20:8009/hls/504/index.m3u8
+CCTV8电视剧,http://112.46.105.20:8009/hls/8/index.m3u8
+CCTV9纪录,http://112.46.105.20:8009/hls/509/index.m3u8
+CCTV10科教,http://112.46.105.20:8009/hls/506/index.m3u8
+CCTV11戏曲,http://112.46.105.20:8009/hls/11/index.m3u8$标清
+CCTV12社会与法,http://112.46.105.20:8009/hls/507/index.m3u8
+CCTV13新闻,http://112.46.105.20:8009/hls/13/index.m3u8$标清
+CCTV14少儿,http://112.46.105.20:8009/hls/14/index.m3u8$标清
+CCTV15音乐,http://112.46.105.20:8009/hls/15/index.m3u8$标清
+CCTV16奥林匹克,
+CCTV17农业农村,
+
 CCTV1综合,http://124.90.164.34:8888/udp/233.50.200.99:5140$浙江电信
 CCTV2财经,http://124.90.164.34:8888/udp/233.50.200.25:5140$浙江电信
 CCTV3综艺,http://124.90.164.34:8888/udp/233.50.200.107:5140$浙江电信
