@@ -2,6 +2,24 @@
 CCTV1综合,http://8.138.7.223/tv/ptbtv.php?id=27$『线路1』
 CCTV13新闻,http://8.138.7.223/tv/ptbtv.php?id=28$『线路1』
 
+CCTV1综合,http://goo.bkpcp.top/mg/cctv1 
+CCTV2财经,http://goo.bkpcp.top/mg/cctv2 
+CCTV3综艺,http://goo.bkpcp.top/mg/cctv3 
+CCTV4中文国际,http://goo.bkpcp.top/mg/cctv4 
+CCTV5体育,http://goo.bkpcp.top/mg/cctv5 
+CCTV5+体育赛事,http://goo.bkpcp.top/mg/cctv5p 
+CCTV6电影,http://goo.bkpcp.top/mg/cctv6 
+CCTV7国防军事,http://goo.bkpcp.top/mg/cctv7 
+CCTV8电视剧,http://goo.bkpcp.top/mg/cctv8 
+CCTV9纪录,http://goo.bkpcp.top/mg/cctv9 
+CCTV10科教,http://goo.bkpcp.top/mg/cctv10 
+CCTV11戏曲,http://goo.bkpcp.top/mg/cctv11 
+CCTV12社会与法,http://goo.bkpcp.top/mg/cctv12
+CCTV13新闻,http://goo.bkpcp.top/mg/cctv13 
+CCTV14少儿,http://goo.bkpcp.top/mg/cctv14 
+CCTV15音乐,http://goo.bkpcp.top/mg/cctv15 
+CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
+CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
 CCTV1综合,http://182.254.225.1/zm/akmg.php?id=cctv1
 CCTV2财经,http://182.254.225.1/zm/akmg.php?id=cctv2
@@ -59,24 +77,6 @@ CCTV15音乐,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8J
 CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
 CCTV17农业农村,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
-CCTV1综合,http://goo.bkpcp.top/mg/cctv1 
-CCTV2财经,http://goo.bkpcp.top/mg/cctv2 
-CCTV3综艺,http://goo.bkpcp.top/mg/cctv3 
-CCTV4中文国际,http://goo.bkpcp.top/mg/cctv4 
-CCTV5体育,http://goo.bkpcp.top/mg/cctv5 
-CCTV5+体育赛事,http://goo.bkpcp.top/mg/cctv5p 
-CCTV6电影,http://goo.bkpcp.top/mg/cctv6 
-CCTV7国防军事,http://goo.bkpcp.top/mg/cctv7 
-CCTV8电视剧,http://goo.bkpcp.top/mg/cctv8 
-CCTV9纪录,http://goo.bkpcp.top/mg/cctv9 
-CCTV10科教,http://goo.bkpcp.top/mg/cctv10 
-CCTV11戏曲,http://goo.bkpcp.top/mg/cctv11 
-CCTV12社会与法,http://goo.bkpcp.top/mg/cctv12
-CCTV13新闻,http://goo.bkpcp.top/mg/cctv13 
-CCTV14少儿,http://goo.bkpcp.top/mg/cctv14 
-CCTV15音乐,http://goo.bkpcp.top/mg/cctv15 
-CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
-CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
 CCTV1综合,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV2财经,http://112.46.105.20:8009/hls/502/index.m3u8
