@@ -233,6 +233,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 上海本地,#genre#
+东方卫视,http://182.254.225.1/zm/akmg.php?id=dfws
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
 东方卫视,http://182.37.169.94:352/tsfile/live/0107_1.m3u8
