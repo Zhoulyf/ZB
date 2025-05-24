@@ -221,20 +221,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://182.254.225.1/zm/akmg.php?id=dfws
 
-
-上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
-上海新闻综合,http://goo.bkpcp.top/mg/shxw
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
-五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
-五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
-
 东方卫视,http://raytitor.cn:8888/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://raytitor.cn:8888/udp/239.45.3.209:5140$上海电信
 上海都市,http://raytitor.cn:8888/udp/239.45.3.236:5140$上海电信
 五星体育,http://raytitor.cn:8888/udp/239.45.3.210:5140$上海电信
-五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
 劲爆体育,
 东方影视,http://raytitor.cn:8888/udp/239.45.3.237:5140$上海电信
 生活时尚,http://raytitor.cn:8888/udp/239.45.3.132:5140$上海电信
@@ -256,16 +246,13 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://raytitor.cn:8888/udp/239.45.3.74:5140$上海电信
 东方购物3,http://raytitor.cn:8888/udp/239.45.3.207:5140$上海电信
 
-东方卫视,http://124.90.164.34:8888/udp/233.50.200.146:5140$浙江电信
-生活时尚,http://124.90.164.34:8888/udp/233.50.200.15:5140$浙江电信
-第一财经,http://124.90.164.34:8888/udp/233.50.200.125:5140$浙江电信
-欢笑剧场,http://124.90.164.34:8888/udp/233.50.200.229:5140$浙江电信
-法治天地,http://124.90.164.34:8888/udp/233.50.200.120:5140$浙江电信
-都市剧场,http://124.90.164.34:8888/udp/233.50.200.11:5140$浙江电信
-乐游,http://124.90.164.34:8888/udp/233.50.200.148:5140$浙江电信
-金色学堂,http://124.90.164.34:8888/udp/233.50.200.122:5140$浙江电信
-动漫秀场,http://124.90.164.34:8888/udp/233.50.200.12:5140$浙江电信
-游戏风云,http://124.90.164.34:8888/udp/233.50.200.14:5140$浙江电信
+上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
+上海新闻综合,http://goo.bkpcp.top/mg/shxw
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
+五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
+东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
 
 东方卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://cloud.sunrisecom.wang:8888/udp/239.45.3.209:5140$上海电信
@@ -290,6 +277,16 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.74:5140$上海电信
 东方购物3,http://cloud.sunrisecom.wang:8888/udp/239.45.3.207:5140$上海电信
 
+东方卫视,http://124.90.164.34:8888/udp/233.50.200.146:5140$浙江电信
+生活时尚,http://124.90.164.34:8888/udp/233.50.200.15:5140$浙江电信
+第一财经,http://124.90.164.34:8888/udp/233.50.200.125:5140$浙江电信
+欢笑剧场,http://124.90.164.34:8888/udp/233.50.200.229:5140$浙江电信
+法治天地,http://124.90.164.34:8888/udp/233.50.200.120:5140$浙江电信
+都市剧场,http://124.90.164.34:8888/udp/233.50.200.11:5140$浙江电信
+乐游,http://124.90.164.34:8888/udp/233.50.200.148:5140$浙江电信
+金色学堂,http://124.90.164.34:8888/udp/233.50.200.122:5140$浙江电信
+动漫秀场,http://124.90.164.34:8888/udp/233.50.200.12:5140$浙江电信
+游戏风云,http://124.90.164.34:8888/udp/233.50.200.14:5140$浙江电信
 
 上海都市,
 五星体育,
@@ -308,8 +305,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 哈哈炫动,
 游戏风云,http://goo.bkpcp.top/mg/yxfy
 
-
-
+五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
 
 
 卫视频道,#genre#
