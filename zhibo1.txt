@@ -519,57 +519,54 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 
-
-凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://cdn5.1678520.xyz/live/?id=fhzx
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
-
-凤凰中文,http://124.90.164.34:8888/udp/233.50.200.42:5140$浙江电信
-凤凰资讯,http://124.90.164.34:8888/udp/233.50.200.192:5140$浙江电信
-
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻台,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
-TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
-TVBJ2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+TVB明珠,http://php.jdshipin.com:8880/iptv.php?id=mzt
+TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+TVB无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+VIU,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIU,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+VIU,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
+无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 
-无线星河频道,http://go1.bkpcp.top/tl/null-7 
-无线综合频道,http://go1.bkpcp.top/tl/null-3
-无线粤片频道,http://go1.bkpcp.top/tl/null-10
-无线华剧频道,http://go1.bkpcp.top/tl/null-4 
-黄金翡翠频道,http://go1.bkpcp.top/tl/null-2 
-黄金华剧频道,http://go1.bkpcp.top/tl/null-9
-天映经典频道,http://go1.bkpcp.top/tl/null-1  
-美亚电影频道,http://go1.bkpcp.top/tl/null-5
-中国电影频道,http://go1.bkpcp.top/tl/null-6
-
-Discovery,http://211.67.191.23/hls/discovery/index.m3u8
-国家地理,http://211.67.191.23/hls/natlgeo/index.m3u8
-Channel V,http://211.67.191.23/hls/channelv/index.m3u8
-星空卫视,http://211.67.191.23/hls/startv/index.m3u8
-Star Sports,http://211.67.191.23/hls/starsports/index.m3u8
 
 
 
