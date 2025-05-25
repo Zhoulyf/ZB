@@ -508,15 +508,20 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 港澳频道,#genre#
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
+
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
-凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.42:5140
-凤凰资讯,http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140
 
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
@@ -526,7 +531,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 凤凰中文,http://124.90.164.34:8888/udp/233.50.200.42:5140$浙江电信
 凤凰资讯,http://124.90.164.34:8888/udp/233.50.200.192:5140$浙江电信
 
-翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
@@ -1592,186 +1596,6 @@ YY直播,#genre#
 
 
 
-New TV,#genre#
-超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
-超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
-超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
-金牌综艺,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND
-
-爱情喜剧,http://38.207.133.60:50001/TVOD/2000000003000000010/hnbblive/index.m3u8?ace
-超级电视剧,http://38.207.133.60:50001/TVOD/1000000006000268003/ystenlive/index.m3u8?ace
-超级电视剧,http://38.207.133.60:50001/TVOD/2000000003000000032/hnbblive/index.m3u8?ace
-超级电视剧,http://38.207.133.60:50001/TVOD/1000000001000008139/ystenlive/index.m3u8?ace
-超级电视剧,http://38.207.133.60:50001/TVOD/1000000004000024993/ystenlive/index.m3u8?ace
-超级电影,http://38.207.133.60:50001/TVOD/1000000003000012426/ystenlive/index.m3u8?ace
-超级电影,http://38.207.133.60:50001/TVOD/2000000003000000031/hnbblive/index.m3u8?ace
-超级电影,http://38.207.133.60:50001/TVOD/1000000001000012884/ystenlive/index.m3u8?ace
-超级电影,http://38.207.133.60:50001/TVOD/1000000004000002120/ystenlive/index.m3u8?ace
-超级体育,http://38.207.133.60:50001/TVOD/1000000001000009601/ystenlive/index.m3u8?ace
-超级体育,http://38.207.133.60:50001/TVOD/2000000003000000030/hnbblive/index.m3u8?ace
-超级体育,http://38.207.133.60:50001/TVOD/1000000001000009204/ystenlive/index.m3u8?ace
-超级体育,http://38.207.133.60:50001/TVOD/1000000004000007755/ystenlive/index.m3u8?ace
-超级综艺,http://38.207.133.60:50001/TVOD/1000000006000268002/ystenlive/index.m3u8?ace
-超级综艺,http://38.207.133.60:50001/TVOD/2000000003000000029/hnbblive/index.m3u8?ace
-超级综艺,http://38.207.133.60:50001/TVOD/1000000001000025771/ystenlive/index.m3u8?ace
-超级综艺,http://38.207.133.60:50001/TVOD/1000000004000023658/ystenlive/index.m3u8?ace
-潮妈辣婆,http://38.207.133.60:50001/TVOD/2000000003000000018/hnbblive/index.m3u8?ace
-东北剧场,http://38.207.133.60:50001/TVOD/1000000005000266013/ystenlive/index.m3u8?ace
-东北热剧,http://38.207.133.60:50001/TVOD/2000000003000000051/hnbblive/index.m3u8?ace
-动作电影,http://38.207.133.60:50001/TVOD/2000000003000000017/hnbblive/index.m3u8?ace
-动作电影,http://38.207.133.60:50001/TVOD/1000000004000018653/ystenlive/index.m3u8?ace
-古装剧场,http://38.207.133.60:50001/TVOD/2000000003000000024/hnbblive/index.m3u8?ace
-欢乐剧场,http://38.207.133.60:50001/TVOD/2000000003000000050/hnbblive/index.m3u8?ace
-欢乐剧场,http://38.207.133.60:50001/TVOD/1000000005000266012/ystenlive/index.m3u8?ace
-家庭剧场,http://38.207.133.60:50001/TVOD/2000000003000000012/hnbblive/index.m3u8?ace
-家庭剧场,http://38.207.133.60:50001/TVOD/1000000004000008284/ystenlive/index.m3u8?ace
-金牌综艺,http://38.207.133.60:50001/TVOD/2000000003000000005/hnbblive/index.m3u8?ace
-金牌综艺,http://38.207.133.60:50001/TVOD/1000000004000026167/ystenlive/index.m3u8?ace
-惊悚悬疑,http://38.207.133.60:50001/TVOD/2000000003000000015/hnbblive/index.m3u8?ace
-惊悚悬疑,http://38.207.133.60:50001/TVOD/1000000004000024282/ystenlive/index.m3u8?ace
-精品大剧,http://38.207.133.60:50001/TVOD/2000000003000000020/hnbblive/index.m3u8?ace
-精品大剧,http://38.207.133.60:50001/TVOD/1000000004000013968/ystenlive/index.m3u8?ace
-精品纪录,http://38.207.133.60:50001/TVOD/1000000004000013730/ystenlive/index.m3u8?ace
-精品记录,http://38.207.133.60:50001/TVOD/2000000003000000019/hnbblive/index.m3u8?ace
-精品萌宠,http://38.207.133.60:50001/TVOD/2000000003000000067/hnbblive/index.m3u8?ace
-精品萌宠,http://38.207.133.60:50001/TVOD/1000000006000032328/ystenlive/index.m3u8?ace
-精品体育,http://38.207.133.60:50001/TVOD/2000000003000000021/hnbblive/index.m3u8?ace
-精品体育,http://38.207.133.60:50001/TVOD/1000000004000014634/ystenlive/index.m3u8?ace
-精品综合,http://38.207.133.60:50001/TVOD/2000000003000000008/hnbblive/index.m3u8?ace
-精品综合,http://38.207.133.60:50001/TVOD/1000000004000019008/ystenlive/index.m3u8?ace
-军旅剧场,http://38.207.133.60:50001/TVOD/2000000003000000014/hnbblive/index.m3u8?ace
-军事评论,http://38.207.133.60:50001/TVOD/2000000003000000022/hnbblive/index.m3u8?ace
-魅力潇湘,http://38.207.133.60:50001/TVOD/2000000003000000041/hnbblive/index.m3u8?ace
-魅力潇湘,http://38.207.133.60:50001/TVOD/1000000001000006197/ystenlive/index.m3u8?ace
-魅力潇湘,http://38.207.133.60:50001/TVOD/1000000005000266014/ystenlive/index.m3u8?ace
-明星大片,http://38.207.133.60:50001/TVOD/2000000003000000016/hnbblive/index.m3u8?ace
-农业致富,http://38.207.133.60:50001/TVOD/2000000003000000003/hnbblive/index.m3u8?ace
-武博世界,http://38.207.133.60:50001/TVOD/2000000003000000007/hnbblive/index.m3u8?ace
-炫舞未来,http://38.207.133.60:50001/TVOD/2000000003000000044/hnbblive/index.m3u8?ace
-炫舞未来,http://38.207.133.60:50001/TVOD/1000000001000000515/ystenlive/index.m3u8?ace
-怡伴健康,http://38.207.133.60:50001/TVOD/2000000003000000023/hnbblive/index.m3u8?ace
-怡伴健康,http://38.207.133.60:50001/TVOD/1000000005000266011/ystenlive/index.m3u8?ace
-中国功夫,http://38.207.133.60:50001/TVOD/2000000003000000009/hnbblive/index.m3u8?ace
-哒啵电竞,http://38.207.133.60:50001/TVOD/2000000003000000066/hnbblive/index.m3u8?ace
-哒啵电竞,http://38.207.133.60:50001/TVOD/1000000006000032327/ystenlive/index.m3u8?ace
-哒啵赛事,http://38.207.133.60:50001/TVOD/2000000003000000004/hnbblive/index.m3u8?ace
-哒啵赛事,http://38.207.133.60:50001/TVOD/2000000003000000039/hnbblive/index.m3u8?ace
-哒啵赛事,http://38.207.133.60:50001/TVOD/2000000003000000040/hnbblive/index.m3u8?ace
-哒啵赛事,http://38.207.133.60:50001/TVOD/1000000001000003775/ystenlive/index.m3u8?ace
-哒啵赛事,http://38.207.133.60:50001/TVOD/1000000001000006906/ystenlive/index.m3u8?ace
-电子竞技,http://38.207.133.60:50001/TVOD/2000000004000000015/hnbblive/index.m3u8?ace
-电子竞技,http://38.207.133.60:50001/TVOD/6000000003000011654/wasusyt/index.m3u8?ace
-高清娱乐,http://38.207.133.60:50001/TVOD/2000000004000000013/hnbblive/index.m3u8?ace
-高清娱乐,http://38.207.133.60:50001/TVOD/6000000003000001569/wasusyt/index.m3u8?ace
-黑莓电影,http://38.207.133.60:50001/TVOD/2000000003000000001/hnbblive/index.m3u8?ace
-黑莓电影,http://38.207.133.60:50001/TVOD/1000000004000019624/ystenlive/index.m3u8?ace
-黑莓动画,http://38.207.133.60:50001/TVOD/2000000003000000002/hnbblive/index.m3u8?ace
-黑莓动画,http://38.207.133.60:50001/TVOD/1000000004000021734/ystenlive/index.m3u8?ace
-
-超级电视剧,http://www.xzbn.site:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
-动作电影,http://www.xzbn.site:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
-惊悚悬疑,http://www.xzbn.site:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
-哒啵电竞,http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-精品体育,http://www.xzbn.site:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
-精品综合,http://www.xzbn.site:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
-哒啵赛事,http://www.xzbn.site:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-黑莓动画,http://www.xzbn.site:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-黑莓电影,http://www.xzbn.site:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-怡伴健康,http://www.xzbn.site:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
-炫舞未来,http://www.xzbn.site:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
-魅力潇湘,http://www.xzbn.site:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
-金牌综艺,http://www.xzbn.site:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
-家庭剧场,http://www.xzbn.site:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-欢乐剧场,http://www.xzbn.site:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
-东北热剧,http://www.xzbn.site:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
-超级综艺,http://www.xzbn.site:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
-超级体育,http://www.xzbn.site:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-超级电影,http://www.xzbn.site:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-精品萌宠,http://www.xzbn.site:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
-精品纪录,http://www.xzbn.site:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
-
-iHOT频道,#genre#
-iHOT爱谍战,http://38.207.133.60:50001/TVOD/6000000006000070630/wasusyt/index.m3u8?ace
-iHOT爱谍战,http://38.207.133.60:50001/TVOD/2000000004000000038/hnbblive/index.m3u8?ace
-iHOT爱动漫,http://38.207.133.60:50001/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
-iHOT爱动漫,http://38.207.133.60:50001/TVOD/2000000004000000059/hnbblive/index.m3u8?ace
-iHOT爱都市,http://38.207.133.60:50001/TVOD/6000000006000080630/wasusyt/index.m3u8?ace
-iHOT爱怀旧,http://38.207.133.60:50001/TVOD/6000000006000260630/wasusyt/index.m3u8?ace
-iHOT爱经典,http://38.207.133.60:50001/TVOD/6000000006000060630/wasusyt/index.m3u8?ace
-iHOT爱科幻,http://38.207.133.60:50001/TVOD/6000000006000020630/wasusyt/index.m3u8?ace
-iHOT爱科幻,http://38.207.133.60:50001/TVOD/2000000004000000033/hnbblive/index.m3u8?ace
-iHOT爱科学,http://38.207.133.60:50001/TVOD/6000000006000160630/wasusyt/index.m3u8?ace
-iHOT爱科学,http://38.207.133.60:50001/TVOD/2000000004000000047/hnbblive/index.m3u8?ace
-iHOT爱浪漫,http://38.207.133.60:50001/TVOD/6000000006000040630/wasusyt/index.m3u8?ace
-iHOT爱浪漫,http://38.207.133.60:50001/TVOD/2000000004000000035/hnbblive/index.m3u8?ace
-iHOT爱历史,http://38.207.133.60:50001/TVOD/6000000006000150630/wasusyt/index.m3u8?ace
-iHOT爱历史,http://38.207.133.60:50001/TVOD/2000000004000000046/hnbblive/index.m3u8?ace
-iHOT爱旅行,http://38.207.133.60:50001/TVOD/6000000006000250630/wasusyt/index.m3u8?ace
-iHOT爱旅行,http://38.207.133.60:50001/TVOD/2000000004000000056/hnbblive/index.m3u8?ace
-iHOT爱奇谈,http://38.207.133.60:50001/TVOD/6000000006000270630/wasusyt/index.m3u8?ace
-iHOT爱奇谈,http://38.207.133.60:50001/TVOD/2000000004000000058/hnbblive/index.m3u8?ace
-iHOT爱青春,http://38.207.133.60:50001/TVOD/6000000006000100630/wasusyt/index.m3u8?ace
-iHOT爱赛车,http://38.207.133.60:50001/TVOD/6000000006000240630/wasusyt/index.m3u8?ace
-iHOT爱赛车,http://38.207.133.60:50001/TVOD/2000000004000000055/hnbblive/index.m3u8?ace
-iHOT爱体育,http://38.207.133.60:50001/TVOD/6000000006000290630/wasusyt/index.m3u8?ace
-iHOT爱体育,http://38.207.133.60:50001/TVOD/2000000004000000060/hnbblive/index.m3u8?ace
-iHOT爱玩具,http://38.207.133.60:50001/TVOD/6000000006000220630/wasusyt/index.m3u8?ace
-iHOT爱玩具,http://38.207.133.60:50001/TVOD/2000000004000000053/hnbblive/index.m3u8?ace
-iHOT爱喜剧,http://38.207.133.60:50001/TVOD/6000000006000010630/wasusyt/index.m3u8?ace
-iHOT爱喜剧,http://38.207.133.60:50001/TVOD/2000000004000000032/hnbblive/index.m3u8?ace
-iHOT爱悬疑,http://38.207.133.60:50001/TVOD/6000000006000050630/wasusyt/index.m3u8?ace
-iHOT爱悬疑,http://38.207.133.60:50001/TVOD/2000000004000000036/hnbblive/index.m3u8?ace
-iHOT爱幼教,http://38.207.133.60:50001/TVOD/6000000006000180630/wasusyt/index.m3u8?ace
-iHOT爱幼教,http://38.207.133.60:50001/TVOD/2000000004000000049/hnbblive/index.m3u8?ace
-iHOT爱院线,http://38.207.133.60:50001/TVOD/6000000006000030630/wasusyt/index.m3u8?ace
-iHOT爱院线,http://38.207.133.60:50001/TVOD/2000000004000000034/hnbblive/index.m3u8?ace
-Hot风尚音乐,http://38.207.133.60:50001/TVOD/2000000004000000004/hnbblive/index.m3u8?ace
-Hot风尚音乐,http://38.207.133.60:50001/TVOD/5529729098703832176/wasusyt/index.m3u8?ace
-Hot精品剧场,http://38.207.133.60:50001/TVOD/2000000004000000002/hnbblive/index.m3u8?ace
-Hot精品剧场,http://38.207.133.60:50001/TVOD/8230197131234717902/wasusyt/index.m3u8?ace
-Hot欧美影院,http://38.207.133.60:50001/TVOD/2000000004000000005/hnbblive/index.m3u8?ace
-Hot欧美影院,http://38.207.133.60:50001/TVOD/7185203501769528108/wasusyt/index.m3u8?ace
-Hot亚洲影院,http://38.207.133.60:50001/TVOD/2000000004000000006/hnbblive/index.m3u8?ace
-Hot亚洲影院,http://38.207.133.60:50001/TVOD/5841816227539527643/wasusyt/index.m3u8?ace
-
-iHOT爱院线,http://171.213.139.85:19999/udp/239.93.42.11:5140
-iHOT爱幼教,http://171.213.139.85:19999/udp/239.93.42.17:5140
-iHOT爱悬疑,http://171.213.139.85:19999/udp/239.93.42.12:5140
-iHOT爱喜剧,http://171.213.139.85:19999/udp/239.93.42.9:5140
-iHOT爱玩具,http://171.213.139.85:19999/udp/239.93.42.18:5140
-iHOT爱体育,
-iHOT爱赛车,http://171.213.139.85:19999/udp/239.93.42.20:5140
-iHOT爱奇谈,http://171.213.139.85:19999/udp/239.93.42.22:5140
-iHOT爱旅行,
-iHOT爱历史,
-iHOT爱浪漫,
-iHOT爱科学,
-iHOT爱科幻,http://171.213.139.85:19999/udp/239.93.42.10:5140
-iHOT爱动漫,http://171.213.139.85:19999/udp/239.93.42.23:5140
-iHOT爱谍战,http://171.213.139.85:19999/udp/239.93.42.14:5140
-iHOT爱怀旧,http://171.213.139.85:19999/udp/239.93.42.21:5140
-iHOT爱经典,http://171.213.139.85:19999/udp/239.93.42.13:5140
-iHOT爱青春,http://171.213.139.85:19999/udp/239.93.42.16:5140
-iHOT爱都市,http://171.213.139.85:19999/udp/239.93.42.15:5140
-iHOT爱电竞,http://171.213.139.85:19999/udp/239.93.42.19:5140
-
-iHOT爱院线,http://www.xzbn.site:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-iHOT爱幼教,http://www.xzbn.site:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-iHOT爱悬疑,http://www.xzbn.site:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-iHOT爱喜剧,http://www.xzbn.site:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-iHOT爱玩具,http://www.xzbn.site:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
-iHOT爱体育,http://www.xzbn.site:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-iHOT爱赛车,http://www.xzbn.site:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-iHOT爱奇谈,http://www.xzbn.site:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-iHOT爱旅行,http://www.xzbn.site:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-iHOT爱历史,http://www.xzbn.site:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-iHOT爱浪漫,http://www.xzbn.site:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
-iHOT爱科学,http://www.xzbn.site:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-iHOT爱科幻,http://www.xzbn.site:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-iHOT爱动漫,http://www.xzbn.site:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-iHOT爱谍战,http://www.xzbn.site:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-
-
 
 全球频道,#genre#
 BBC News (720p),https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/4.m3u8
@@ -1881,32 +1705,6 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-
-
-百视通,#genre#
-BesTV,http://raytitor.cn:8888/udp/239.45.1.15:5140
-BesTV,http://raytitor.cn:8888/udp/239.45.3.240:5140
-BesTV-1 4K,http://raytitor.cn:8888/udp/239.45.1.1:5140
-BesTV-1 4K,http://raytitor.cn:8888/udp/239.45.1.11:5140
-BesTV-2 4K,http://raytitor.cn:8888/udp/239.45.1.9:5140
-BesTV-2 4K,http://raytitor.cn:8888/udp/239.45.1.42:5140
-BesTV-2 4K,http://raytitor.cn:8888/udp/239.45.3.107:5140
-BesTV-3 4K,http://raytitor.cn:8888/udp/239.45.1.10:5140
-BesTV-4,http://raytitor.cn:8888/udp/239.45.1.28:5140
-BesTV-5,http://raytitor.cn:8888/udp/239.45.1.29:5140
-BesTV-6 4K,http://raytitor.cn:8888/udp/239.45.1.108:5140
-
-BesTV,http://cloud.sunrisecom.wang:8888/udp/239.45.1.15:5140
-BesTV,http://cloud.sunrisecom.wang:8888/udp/239.45.3.240:5140
-BesTV-1 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.1.1:5140
-BesTV-1 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.1.11:5140
-BesTV-2 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.1.9:5140
-BesTV-2 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.1.42:5140
-BesTV-2 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.3.107:5140
-BesTV-3 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.1.10:5140
-BesTV-4,http://cloud.sunrisecom.wang:8888/udp/239.45.1.28:5140
-BesTV-5,http://cloud.sunrisecom.wang:8888/udp/239.45.1.29:5140
-BesTV-6 4K,http://cloud.sunrisecom.wang:8888/udp/239.45.1.108:5140
 
 
 
