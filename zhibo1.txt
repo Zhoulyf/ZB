@@ -77,26 +77,6 @@ CCTV15音乐,http://182.254.225.1/zm/akmg.php?id=cctv15
 CCTV16奥林匹克,
 CCTV17农业农村,http://182.254.225.1/zm/akmg.php?id=cctv17
 
-CCTV1综合,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV2财经,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV3综艺,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV4中文国际,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV5体育,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV5+体育赛事,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV6电影,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV7国防军事,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV8电视剧,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV9纪录,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV10科教,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV11戏曲,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV12社会与法,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV13新闻,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV14少儿,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV15音乐,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16 
-CCTV17农业农村,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-
 CCTV1综合,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV2财经,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV3综艺,http://112.46.105.20:8009/hls/3/index.m3u8
@@ -216,7 +196,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海本地,#genre#
 东方卫视,http://180.165.12.126:7777/bptv/10000100000000050000000003873462.m3u8
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://182.254.225.1/zm/akmg.php?id=dfws
@@ -370,18 +349,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 海南卫视,http://61.184.46.85:9901/tsfile/live/1018_1.m3u8
 东南卫视,http://61.184.46.85:9901/tsfile/live/1019_1.m3u8
 
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
 湖南卫视,http://goo.bkpcp.top/mg/hunws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 浙江卫视,http://goo.bkpcp.top/mg/zjws
@@ -412,31 +379,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 海峡卫视,http://goo.bkpcp.top/mg/hxws
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
-
-
-
-北京卫视,http://124.90.164.34:8888/udp/233.50.200.179:5140$浙江电信
-浙江卫视,http://124.90.164.34:8888/udp/233.50.200.145:5140$浙江电信
-湖南卫视,http://124.90.164.34:8888/udp/233.50.200.190:5140$浙江电信
-江苏卫视,http://124.90.164.34:8888/udp/233.50.200.144:5140$浙江电信
-东方卫视,http://124.90.164.34:8888/udp/233.50.200.146:5140$浙江电信
-天津卫视,http://124.90.164.34:8888/udp/233.50.200.104:5140$浙江电信
-河北卫视,http://124.90.164.34:8888/udp/233.50.200.105:5140$浙江电信
-安徽卫视,http://124.90.164.34:8888/udp/233.50.200.106:5140$浙江电信
-重庆卫视,http://124.90.164.34:8888/udp/233.50.200.114:5140$浙江电信
-云南卫视,http://124.90.164.34:8888/udp/233.50.200.115:5140$浙江电信
-四川卫视,http://124.90.164.34:8888/udp/233.50.200.118:5140$浙江电信
-江西卫视,http://124.90.164.34:8888/udp/233.50.200.119:5140$浙江电信
-湖北卫视,http://124.90.164.34:8888/udp/233.50.200.147:5140$浙江电信
-广东卫视,http://124.90.164.34:8888/udp/233.50.200.149:5140$浙江电信
-深圳卫视,http://124.90.164.34:8888/udp/233.50.200.188:5140$浙江电信
-黑龙江卫视,http://124.90.164.34:8888/udp/233.50.200.189:5140$浙江电信
-山东卫视,http://124.90.164.34:8888/udp/233.50.201.105:5140$浙江电信
-辽宁卫视,http://124.90.164.34:8888/udp/233.50.201.141:5140$浙江电信
-贵州卫视,http://124.90.164.34:8888/udp/233.50.201.142:5140$浙江电信
-重庆卫视,http://124.90.164.34:8888/udp/233.50.201.143:5140$浙江电信
-河南卫视,http://124.90.164.34:8888/udp/233.50.201.144:5140$浙江电信
-东南卫视,http://124.90.164.34:8888/udp/233.50.201.146:5140$浙江电信
 
 湖南卫视,http://raytitor.cn:8888/udp/239.45.3.228:5140$上海电信
 江苏卫视,http://raytitor.cn:8888/udp/239.45.3.177:5140$上海电信
@@ -502,6 +444,28 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.3.232:5140$上海电信
 三沙卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.0.56:5140$上海电信
 
+北京卫视,http://124.90.164.34:8888/udp/233.50.200.179:5140$浙江电信
+浙江卫视,http://124.90.164.34:8888/udp/233.50.200.145:5140$浙江电信
+湖南卫视,http://124.90.164.34:8888/udp/233.50.200.190:5140$浙江电信
+江苏卫视,http://124.90.164.34:8888/udp/233.50.200.144:5140$浙江电信
+东方卫视,http://124.90.164.34:8888/udp/233.50.200.146:5140$浙江电信
+天津卫视,http://124.90.164.34:8888/udp/233.50.200.104:5140$浙江电信
+河北卫视,http://124.90.164.34:8888/udp/233.50.200.105:5140$浙江电信
+安徽卫视,http://124.90.164.34:8888/udp/233.50.200.106:5140$浙江电信
+重庆卫视,http://124.90.164.34:8888/udp/233.50.200.114:5140$浙江电信
+云南卫视,http://124.90.164.34:8888/udp/233.50.200.115:5140$浙江电信
+四川卫视,http://124.90.164.34:8888/udp/233.50.200.118:5140$浙江电信
+江西卫视,http://124.90.164.34:8888/udp/233.50.200.119:5140$浙江电信
+湖北卫视,http://124.90.164.34:8888/udp/233.50.200.147:5140$浙江电信
+广东卫视,http://124.90.164.34:8888/udp/233.50.200.149:5140$浙江电信
+深圳卫视,http://124.90.164.34:8888/udp/233.50.200.188:5140$浙江电信
+黑龙江卫视,http://124.90.164.34:8888/udp/233.50.200.189:5140$浙江电信
+山东卫视,http://124.90.164.34:8888/udp/233.50.201.105:5140$浙江电信
+辽宁卫视,http://124.90.164.34:8888/udp/233.50.201.141:5140$浙江电信
+贵州卫视,http://124.90.164.34:8888/udp/233.50.201.142:5140$浙江电信
+重庆卫视,http://124.90.164.34:8888/udp/233.50.201.143:5140$浙江电信
+河南卫视,http://124.90.164.34:8888/udp/233.50.201.144:5140$浙江电信
+东南卫视,http://124.90.164.34:8888/udp/233.50.201.146:5140$浙江电信
 
 
 
