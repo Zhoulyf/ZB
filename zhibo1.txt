@@ -655,7 +655,8 @@ DAZN 体育2台,rtmp://f13h.mine.nu/sat/tv741
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-
+星河,http://108.181.20.197/livehttpplay?channel_id=20070
+博斯运动,http://108.181.20.197/livehttpplay?channel_id=10131
 
 
 
