@@ -226,7 +226,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物3,http://home.867324.xyz:18888/udp/239.45.3.207:5140$上海电信
 
 上海新闻综合,http://live.nctv.top/JKHdjsi/dftv.php?id=xwzh
-上海新闻综合,http://live.nctv.top/JKHdjsi/migu.php?id=shxwzh
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-6.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
