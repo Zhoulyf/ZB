@@ -200,14 +200,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
 
-上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
-上海新闻综合,http://goo.bkpcp.top/mg/shxw
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
-五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
-五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
-
 东方卫视,http://home.867324.xyz:18888/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://home.867324.xyz:18888/udp/239.45.3.209:5140$上海电信
 上海都市,http://home.867324.xyz:18888/udp/239.45.3.236:5140$上海电信
@@ -232,6 +224,16 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方购物1,http://home.867324.xyz:18888/udp/239.45.3.75:5140$上海电信
 东方购物2,http://home.867324.xyz:18888/udp/239.45.3.74:5140$上海电信
 东方购物3,http://home.867324.xyz:18888/udp/239.45.3.207:5140$上海电信
+
+上海新闻综合,http://live.nctv.top/JKHdjsi/dftv.php?id=xwzh
+上海新闻综合,http://live.nctv.top/JKHdjsi/migu.php?id=shxwzh
+上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8x
+上海新闻综合,http://goo.bkpcp.top/mg/shxw
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
+五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
+东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
 
 东方卫视,http://raytitor.cn:8888/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://raytitor.cn:8888/udp/239.45.3.209:5140$上海电信
