@@ -227,7 +227,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 上海新闻综合,http://live.nctv.top/JKHdjsi/dftv.php?id=xwzh
 上海新闻综合,http://live.nctv.top/JKHdjsi/migu.php?id=shxwzh
-上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8x
+上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-6.ctv
+上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
 上海新闻综合,http://goo.bkpcp.top/mg/shxw
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
