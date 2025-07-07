@@ -101,25 +101,6 @@ CCTV风云足球,http://cloud.sunrisecom.wang:8888/udp/239.45.0.43:5140$上海�
 CCTV风云音乐,http://cloud.sunrisecom.wang:8888/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://cloud.sunrisecom.wang:8888/udp/239.45.0.48:5140$上海电信
 
-CCTV1综合,http://home.kuaidi521.com:35455/mgtv/608807420.m3u8
-CCTV2财经,http://home.kuaidi521.com:35455/mgtv/631780532.m3u8
-CCTV3综艺,http://home.kuaidi521.com:35455/mgtv/624878271.m3u8
-CCTV4中文国际,http://home.kuaidi521.com:35455/mgtv/631780421.m3u8
-CCTV5体育,http://home.kuaidi521.com:35455/mgtv/641886683.m3u8
-CCTV5+体育赛事,http://home.kuaidi521.com:35455/mgtv/641886773.m3u8
-CCTV6电影,http://home.kuaidi521.com:35455/mgtv/624878396.m3u8
-CCTV7国防军事,http://home.kuaidi521.com:35455/mgtv/673168121.m3u8
-CCTV8电视剧,http://home.kuaidi521.com:35455/mgtv/624878356.m3u8
-CCTV9纪录,http://home.kuaidi521.com:35455/mgtv/673168140.m3u8
-CCTV10科教,http://home.kuaidi521.com:35455/mgtv/624878405.m3u8
-CCTV11戏曲,http://home.kuaidi521.com:35455/mgtv/667987558.m3u8
-CCTV12社会与法,http://home.kuaidi521.com:35455/mgtv/673168185.m3u8
-CCTV13新闻,http://home.kuaidi521.com:35455/mgtv/608807423.m3u8
-CCTV14少儿,http://home.kuaidi521.com:35455/mgtv/624878440.m3u8
-CCTV15音乐,http://home.kuaidi521.com:35455/mgtv/673168223.m3u8
-CCTV16奥林匹克,
-CCTV17农业农村,http://home.kuaidi521.com:35455/mgtv/673168256.m3u8
-
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -363,9 +344,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.74:5140$上海电信
 东方购物3,http://cloud.sunrisecom.wang:8888/udp/239.45.3.207:5140$上海电信
 
-上海新闻综合,http://home.kuaidi521.com:35455/mgtv/651632657.m3u8
-东方影视,http://home.kuaidi521.com:35455/mgtv/617290047.m3u8
-第一财经,http://home.kuaidi521.com:35455/mgtv/608780988.m3u8
 
 东方卫视,http://183.156.54.211:4022/udp/233.50.200.146:5140$浙江电信
 生活时尚,http://183.156.54.211:4022/udp/233.50.200.15:5140$浙江电信
