@@ -2,6 +2,25 @@
 CCTV1综合,http://8.138.7.223/tv/ptbtv.php?id=27$『线路1』
 CCTV13新闻,http://8.138.7.223/tv/ptbtv.php?id=28$『线路1』
 
+CCTV1综合,http://home.kuaidi521.com:35455/mgtv/608807420.m3u8
+CCTV2财经,http://home.kuaidi521.com:35455/mgtv/631780532.m3u8
+CCTV3综艺,http://home.kuaidi521.com:35455/mgtv/624878271.m3u8
+CCTV4中文国际,http://home.kuaidi521.com:35455/mgtv/631780421.m3u8
+CCTV5体育,http://home.kuaidi521.com:35455/mgtv/641886683.m3u8
+CCTV5+体育赛事,,http://home.kuaidi521.com:35455/mgtv/641886773.m3u8
+CCTV6电影,http://home.kuaidi521.com:35455/mgtv/624878396.m3u8
+CCTV7国防军事,http://home.kuaidi521.com:35455/mgtv/673168121.m3u8
+CCTV8电视剧,http://home.kuaidi521.com:35455/mgtv/624878356.m3u8
+CCTV9纪录,http://home.kuaidi521.com:35455/mgtv/673168140.m3u8
+CCTV10科教,http://home.kuaidi521.com:35455/mgtv/624878405.m3u8
+CCTV11戏曲,http://home.kuaidi521.com:35455/mgtv/667987558.m3u8
+CCTV12社会与法,http://home.kuaidi521.com:35455/mgtv/673168185.m3u8
+CCTV13新闻,http://home.kuaidi521.com:35455/mgtv/608807423.m3u8
+CCTV14少儿,http://home.kuaidi521.com:35455/mgtv/624878440.m3u8
+CCTV15音乐,http://home.kuaidi521.com:35455/mgtv/673168223.m3u8
+CCTV16奥林匹克,
+CCTV17农业农村,http://home.kuaidi521.com:35455/mgtv/673168256.m3u8
+
 CCTV1综合,http://vpn.shpcw.com:9898/udp/239.45.3.51:5140$上海电信
 CCTV2财经,http://vpn.shpcw.com:9898/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://vpn.shpcw.com:9898/udp/239.45.1.68:5140$上海电信
@@ -269,6 +288,17 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 上海本地,#genre#
+东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+
+新闻综合,http://home.kuaidi521.com:35455/mgtv/651632657.m3u8
+东方影视,http://home.kuaidi521.com:35455/mgtv/617290047.m3u8
+第一财经,http://home.kuaidi521.com:35455/mgtv/608780988.m3u8
+
+上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
+
 东方卫视,http://vpn.shpcw.com:9898/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://vpn.shpcw.com:9898/udp/239.45.3.209:5140$上海电信
 上海都市,http://vpn.shpcw.com:9898/udp/239.45.3.236:5140$上海电信
@@ -291,12 +321,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物1,http://vpn.shpcw.com:9898/udp/239.45.3.75:5140$上海电信
 东方购物2,http://vpn.shpcw.com:9898/udp/239.45.3.74:5140$上海电信
 东方购物3,http://vpn.shpcw.com:9898/udp/239.45.3.207:5140$上海电信
-
-东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
-上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
-上海都市,http://8.138.7.223/tv/shtv.php?id=ds
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 
 东方卫视,http://home.870503.xyz:18885/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://home.870503.xyz:18885/udp/239.45.3.209:5140$上海电信
@@ -411,6 +435,10 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 卫视频道,#genre#
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+
 湖南卫视,http://vpn.shpcw.com:9898/udp/239.45.3.228:5140$上海电信
 江苏卫视,http://vpn.shpcw.com:9898/udp/239.45.3.177:5140$上海电信
 浙江卫视,http://vpn.shpcw.com:9898/udp/239.45.3.178:5140$上海电信
@@ -442,10 +470,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 青海卫视,http://vpn.shpcw.com:9898/udp/239.45.0.37:5140$上海电信
 黑龙江卫视,http://vpn.shpcw.com:9898/udp/239.45.3.232:5140$上海电信
 三沙卫视,http://vpn.shpcw.com:9898/udp/239.45.0.56:5140$上海电信
-
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
 
 湖南卫视,http://home.870503.xyz:18885/udp/239.45.3.228:5140$上海电信
 江苏卫视,http://home.870503.xyz:18885/udp/239.45.3.177:5140$上海电信
@@ -942,6 +966,10 @@ DAZN 体育2台,rtmp://f13h.mine.nu/sat/tv741
 
 
 电影频道,#genre#
+CHC家庭影院,http://home.kuaidi521.com:35455/mgtv/644368373.m3u8
+CHC动作电影,http://home.kuaidi521.com:35455/mgtv/644368714.m3u8
+CHC影迷电影,http://home.kuaidi521.com:35455/mgtv/952383261.m3u8
+
 CHC动作电影,http://vpn.shpcw.com:9898/udp/239.45.0.41:5140$上海电信
 CHC家庭影院,http://vpn.shpcw.com:9898/udp/239.45.0.40:5140$上海电信
 CHC影迷电影,http://vpn.shpcw.com:9898/udp/239.45.0.42:5140$上海电信
