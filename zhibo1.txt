@@ -340,10 +340,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物2,http://home.870503.xyz:18885/udp/239.45.3.74:5140$上海电信
 东方购物3,http://home.870503.xyz:18885/udp/239.45.3.207:5140$上海电信
 
-上海新闻综合,http://home.kuaidi521.com:35455/mgtv/651632657.m3u8
-东方影视,http://home.kuaidi521.com:35455/mgtv/617290047.m3u8
-第一财经,http://home.kuaidi521.com:35455/mgtv/608780988.m3u8
-
 东方卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://cloud.sunrisecom.wang:8888/udp/239.45.3.209:5140$上海电信
 上海都市,http://cloud.sunrisecom.wang:8888/udp/239.45.3.236:5140$上海电信
@@ -366,6 +362,10 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物1,http://cloud.sunrisecom.wang:8888/udp/239.45.3.75:5140$上海电信
 东方购物2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.74:5140$上海电信
 东方购物3,http://cloud.sunrisecom.wang:8888/udp/239.45.3.207:5140$上海电信
+
+上海新闻综合,http://home.kuaidi521.com:35455/mgtv/651632657.m3u8
+东方影视,http://home.kuaidi521.com:35455/mgtv/617290047.m3u8
+第一财经,http://home.kuaidi521.com:35455/mgtv/608780988.m3u8
 
 东方卫视,http://183.156.54.211:4022/udp/233.50.200.146:5140$浙江电信
 生活时尚,http://183.156.54.211:4022/udp/233.50.200.15:5140$浙江电信
