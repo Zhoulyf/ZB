@@ -1,4 +1,27 @@
 央视频道,#genre#
+CCTV1综合,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8$fjcm17
+CCTV2财经,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225800/index.m3u8$fjcm17
+CCTV3综艺,http://pal.rogerxlj.top:9998/udp/239.45.1.68:5140$上海电信
+CCTV4中文国际,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8$fjcm17
+CCTV5体育,http://pal.rogerxlj.top:9998/udp/239.45.1.69:5140$上海电信
+CCTV5+体育赛事,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8$fjcm17
+CCTV6电影,http://pal.rogerxlj.top:9998/udp/239.45.1.70:5140$上海电信
+CCTV7国防军事,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8$fjcm17
+CCTV8电视剧,http://pal.rogerxlj.top:9998/udp/239.45.1.71:5140$上海电信
+CCTV9纪录,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8$fjcm17
+CCTV9纪录,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225929/index.m3u8$fjcm17
+CCTV10科教,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8$fjcm17
+CCTV10科教,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8$fjcm17
+CCTV11戏曲,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8$fjcm17
+CCTV12社会与法,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8$fjcm18
+CCTV13新闻,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8$fjcm18
+CCTV14少儿,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8$fjcm17
+CCTV14少儿,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8$fjcm17
+CCTV15音乐,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8$fjcm17
+CCTV16奥林匹克,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8$fjcm17
+CCTV16奥林匹克,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227148/index.m3u8$fjcm17
+CCTV17农业农村,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/index.m3u8$fjcm18
+
 CCTV1综合,http://pal.rogerxlj.top:9998/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://pal.rogerxlj.top:9998/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://pal.rogerxlj.top:9998/udp/239.45.1.68:5140$上海电信
@@ -347,6 +370,8 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 上海本地,#genre#
+东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8$fjcm17
+
 东方卫视,http://pal.rogerxlj.top:9998/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://pal.rogerxlj.top:9998/udp/239.45.3.209:5140$上海电信
 上海都市,http://pal.rogerxlj.top:9998/udp/239.45.3.236:5140$上海电信
@@ -499,6 +524,28 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 卫视频道,#genre#
+浙江卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8$fjcm17
+东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8$fjcm17
+湖南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8$fjcm17
+江苏卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8$fjcm17
+北京卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8$fjcm17
+安徽卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8$fjcm17
+东南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8$fjcm17
+广东卫视4k,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8$fjcm17
+广东卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8$fjcm17
+广西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8$fjcm17
+贵州卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227201/index.m3u8$fjcm17
+黑龙江卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8$fjcm17
+江西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8$fjcm17
+辽宁卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8$fjcm17
+青海卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8$fjcm17
+青海卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8$fjcm17
+山东卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8$fjcm17
+深圳卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8$fjcm17
+四川卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8$fjcm17
+天津卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8$fjcm17
+重庆卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8$fjcm17
+
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
