@@ -1271,6 +1271,10 @@ DAZN 体育2台,rtmp://f13h.mine.nu/sat/tv741
 
 
 电影及其他,#genre#
+CHC家庭影院,https://migu.188766.xyz/?migutoken=f76d65b832bba60306533b6ff5c62816&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+CHC动作电影,https://migu.188766.xyz/?migutoken=8f4c9232642735ecad099935e0999be8&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+CHC影迷电影,https://migu.188766.xyz/?migutoken=d0a6df5f7d54443d8e4906fcd8e3b264&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+
 CHC家庭影院,http://home.kuaidi521.com:35455/mgtv/644368373.m3u8
 CHC动作电影,http://home.kuaidi521.com:35455/mgtv/644368714.m3u8
 CHC影迷电影,http://home.kuaidi521.com:35455/mgtv/952383261.m3u8
