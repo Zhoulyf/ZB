@@ -2,13 +2,14 @@
 {
 	 "urls": [
 	{ "url": "http://www.饭太硬.com/tv/", "name": "饭太硬线路" }, 
-	{ "url": "http://肥猫.live", "name": "肥猫线路" }, 
-	{ "url": "http://tv.奥利给.top", "name": "奥利给" }, 
+	{ "url": "https://8815.kstore.vip/tvbox/Absurd.json", "name": "聚合线路" },
+	{ "url": "http://肥猫.com", "name": "肥猫线路" }, 
+	{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" }, 
 	{ "url": "http://home.jundie.top:81/top98.json", "name": "俊佬线路" }, 
-	{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" }, 
+	{ "url": "http://ok321.top/tv", "name": "OK" }, 
  	{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
-	{ "url": "https://www.lysvc.cc/tvbox/TVshare.json", "name": "狸云" },
-	{ "url": "http://我不是.摸鱼儿.top", "name": "摸鱼" },
+	{ "url": "https://tv.xn--yhqu5zs87a.top", "name": "莱妮丝" },
+	{ "url": "http://tv.nxog.top/m/", "name": "讴歌" },
 	{ "url": "https://100km.top/0", "name": "骚零" },		
 	{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" }
  	]
