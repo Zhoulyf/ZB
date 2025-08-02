@@ -416,6 +416,12 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 上海本地,#genre#
+东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
+
 东方卫视,http://pal.rogerxlj.top:9998/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://pal.rogerxlj.top:9998/udp/239.45.3.209:5140$上海电信
 上海都市,http://pal.rogerxlj.top:9998/udp/239.45.3.236:5140$上海电信
@@ -509,14 +515,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物3,http://home.870503.xyz:18885/udp/239.45.3.207:5140$上海电信
 
 东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8$fjcm17
-
-
-
-东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
-上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
-上海都市,http://8.138.7.223/tv/shtv.php?id=ds
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 生活时尚,http://home.kuaidi521.com:35455/bst/shsshd@4000000.m3u8
 
 东方卫视,http://183.156.54.211:4022/udp/233.50.200.146:5140$浙江电信
