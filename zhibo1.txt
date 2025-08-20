@@ -421,6 +421,8 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
 上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-8.m3u8
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 
