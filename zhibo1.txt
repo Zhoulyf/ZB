@@ -164,6 +164,25 @@ CCTV风云足球,http://karika.myds.me:4022/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://karika.myds.me:4022/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://karika.myds.me:4022/udp/239.45.0.48:5140$上海电信
 
+CCTV1综合,http://m.061899.xyz/mg/cctv1$咪咕
+CCTV2财经,http://m.061899.xyz/mg/cctv2$咪咕
+CCTV3综艺,http://m.061899.xyz/mg/cctv3$咪咕
+CCTV4中文国际,http://m.061899.xyz/mg/cctv4$咪咕
+CCTV5体育,http://m.061899.xyz/mg/cctv5$咪咕
+CCTV5+体育赛事,http://m.061899.xyz/mg/cctv5p$咪咕
+CCTV6电影,http://m.061899.xyz/mg/cctv6$咪咕
+CCTV7国防军事,http://m.061899.xyz/mg/cctv7$咪咕
+CCTV8电视剧,http://m.061899.xyz/mg/cctv8$咪咕
+CCTV9纪录,http://m.061899.xyz/mg/cctv9$咪咕
+CCTV10科教,http://m.061899.xyz/mg/cctv10$咪咕
+CCTV11戏曲,http://m.061899.xyz/mg/cctv11$咪咕
+CCTV12社会与法,http://m.061899.xyz/mg/cctv12$咪咕
+CCTV13新闻,http://m.061899.xyz/mg/cctv13$咪咕
+CCTV14少儿,http://m.061899.xyz/mg/cctv14$咪咕
+CCTV15音乐,http://m.061899.xyz/mg/cctv15$咪咕
+CCTV16奥林匹克,http://m.061899.xyz/mg/cctv16$咪咕
+CCTV17农业农村,http://m.061899.xyz/mg/cctv17$咪咕
+
 
 CCTV1综合,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1综合,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -606,6 +625,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物2,http://karika.myds.me:4022/udp/239.45.3.74:5140$上海电信
 东方购物3,http://karika.myds.me:4022/udp/239.45.3.207:5140$上海电信
 
+劲爆体育,http://m.061899.xyz/mg/jbty$咪咕
 
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
@@ -816,6 +836,37 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 青海卫视,http://karika.myds.me:4022/udp/239.45.0.37:5140$上海电信
 黑龙江卫视,http://karika.myds.me:4022/udp/239.45.3.232:5140$上海电信
 三沙卫视,http://karika.myds.me:4022/udp/239.45.0.56:5140$上海电信
+
+北京卫视,http://m.061899.xyz/mg/bjws$咪咕
+东方卫视,http://m.061899.xyz/mg/dfws$咪咕
+浙江卫视,http://m.061899.xyz/mg/zjws$咪咕
+江苏卫视,http://m.061899.xyz/mg/jsws$咪咕
+湖南卫视,http://m.061899.xyz/mg/hunws$咪咕
+广东卫视,http://m.061899.xyz/mg/gdws$咪咕
+深圳卫视,http://m.061899.xyz/mg/szws$咪咕
+天津卫视,http://m.061899.xyz/mg/tjws$咪咕
+安徽卫视,http://m.061899.xyz/mg/ahws$咪咕
+山东卫视,http://m.061899.xyz/mg/sdws$咪咕
+河北卫视,http://m.061899.xyz/mg/hbws$咪咕
+河南卫视,http://m.061899.xyz/mg/hnws$咪咕
+江西卫视,http://m.061899.xyz/mg/jxws$咪咕
+四川卫视,http://m.061899.xyz/mg/scws$咪咕
+重庆卫视,http://m.061899.xyz/mg/cqws$咪咕
+贵州卫视,http://m.061899.xyz/mg/gzws$咪咕
+湖北卫视,http://m.061899.xyz/mg/hubws$咪咕
+广西卫视,http://m.061899.xyz/mg/gxws$咪咕
+东南卫视,http://m.061899.xyz/mg/dnws$咪咕
+海南卫视,http://m.061899.xyz/mg/hinws$咪咕
+甘肃卫视,http://m.061899.xyz/mg/gsws$咪咕
+青海卫视,http://m.061899.xyz/mg/qhws$咪咕
+陕西卫视,http://m.061899.xyz/mg/sxws$咪咕
+宁夏卫视,http://m.061899.xyz/mg/nxws$咪咕
+新疆卫视,http://m.061899.xyz/mg/xjws$咪咕
+西藏卫视,http://m.061899.xyz/mg/xzws$咪咕
+兵团卫视,http://m.061899.xyz/mg/btws$咪咕
+吉林卫视,http://m.061899.xyz/mg/jlws$咪咕
+内蒙古视,http://m.061899.xyz/mg/nmgws$咪咕
+黑龙江视,http://m.061899.xyz/mg/hljws$咪咕
 
 
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
@@ -1190,6 +1241,10 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
+凤凰中文,http://m.061899.xyz/mg/fhzw$咪咕
+凤凰资讯,http://m.061899.xyz/mg/fhzx$咪咕
+凤凰香港,http://m.061899.xyz/mg/fhhk$咪咕
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
@@ -1397,6 +1452,10 @@ CHC影迷电影,http://cloud.sunrisecom.wang:8888/udp/239.45.0.42:5140$上海电
 CHC动作电影,http://liuwenxiaokevin.top:14044/udp/239.45.0.41:5140$上海电信
 CHC家庭影院,http://liuwenxiaokevin.top:14044/udp/239.45.0.40:5140$上海电信
 CHC影迷电影,http://liuwenxiaokevin.top:14044/udp/239.45.0.42:5140$上海电信
+
+CHC动作电影,http://m.061899.xyz/mg/dzdy$咪咕
+CHC家庭影院,http://m.061899.xyz/mg/jtyy$咪咕
+CHC影迷电影,http://m.061899.xyz/mg/ymdy$咪咕
 
 CHC动作电影,http://karika.myds.me:4022/udp/239.45.0.41:5140$上海电信
 CHC家庭影院,http://karika.myds.me:4022/udp/239.45.0.40:5140$上海电信
