@@ -164,6 +164,25 @@ CCTV风云足球,http://karika.myds.me:4022/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://karika.myds.me:4022/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://karika.myds.me:4022/udp/239.45.0.48:5140$上海电信
 
+CCTV1综合,https://cc06.tv12.xyz/1.m3u8 
+CCTV2财经,https://cc06.tv12.xyz/2.m3u8 
+CCTV3综艺,https://cc06.tv12.xyz/3.m3u8 
+CCTV4中文国际,https://cc06.tv12.xyz/4.m3u8 
+CCTV5体育,https://cc06.tv12.xyz/5.m3u8 
+CCTV5+体育赛事,https://cc06.tv12.xyz/6.m3u8 
+CCTV6电影,https://cc06.tv12.xyz/7.m3u8 
+CCTV7国防军事,https://cc06.tv12.xyz/8.m3u8 
+CCTV8电视剧,https://cc06.tv12.xyz/9.m3u8 
+CCTV9纪录,https://cc06.tv12.xyz/10.m3u8 
+CCTV10科教,https://cc06.tv12.xyz/11.m3u8 
+CCTV11戏曲,https://cc06.tv12.xyz/12.m3u8 
+CCTV12社会与法,https://cc06.tv12.xyz/13.m3u8 
+CCTV13新闻,https://cc06.tv12.xyz/14.m3u8 
+CCTV14少儿,https://cc06.tv12.xyz/15.m3u8 
+CCTV15音乐,https://cc06.tv12.xyz/16.m3u8 
+CCTV16奥林匹克,
+CCTV17农业农村,https://cc06.tv12.xyz/17.m3u8 
+
 CCTV1综合,http://m.061899.xyz/mg/cctv1$咪咕
 CCTV2财经,http://m.061899.xyz/mg/cctv2$咪咕
 CCTV3综艺,http://m.061899.xyz/mg/cctv3$咪咕
