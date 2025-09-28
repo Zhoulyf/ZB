@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV1综合,http://go.bkpcp.top/mg/cctv1
 CCTV2财经,http://go.bkpcp.top/mg/cctv2
+CCTV3综艺,http://cx.shscxzx.cn:8899/udp/239.45.1.68:5140$上海电信
 CCTV3综艺,http://go.bkpcp.top/mg/cctv3
 CCTV4中文国际,http://go.bkpcp.top/mg/cctv4
 CCTV5体育,http://go.bkpcp.top/mg/cctv5
@@ -615,11 +616,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 上海本地,#genre#
-东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
-上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
-上海都市,http://8.138.7.223/tv/shtv.php?id=ds
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 
 东方卫视,http://cx.shscxzx.cn:8899/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://cx.shscxzx.cn:8899/udp/239.45.3.209:5140$上海电信
@@ -643,6 +639,12 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物1,http://cx.shscxzx.cn:8899/udp/239.45.3.75:5140$上海电信
 东方购物2,http://cx.shscxzx.cn:8899/udp/239.45.3.74:5140$上海电信
 东方购物3,http://cx.shscxzx.cn:8899/udp/239.45.3.207:5140$上海电信
+
+东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 
 东方卫视,http://lf.670203.xyz:7088/udp/239.45.3.146:5140$上海电信
 上海新闻综合,http://lf.670203.xyz:7088/udp/239.45.3.209:5140$上海电信
