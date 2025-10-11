@@ -68,6 +68,7 @@ CCTV风云足球,http://lf.670203.xyz:7088/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://lf.670203.xyz:7088/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://lf.670203.xyz:7088/udp/239.45.0.48:5140$上海电信
 
+
 CCTV1综合,http://raytitor.cn:8888/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://raytitor.cn:8888/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://raytitor.cn:8888/udp/239.45.1.68:5140$上海电信
@@ -89,7 +90,6 @@ CCTV16奥林匹克4K,http://raytitor.cn:8888/udp/239.45.0.12:5140$上海电信
 CCTV17农业农村,http://raytitor.cn:8888/udp/239.45.3.52:5140$上海电信
 CCTV4k超高清,http://raytitor.cn:8888/udp/239.45.0.55:5140$上海电信
 
-
 CCTV世界地理,http://raytitor.cn:8888/udp/239.45.0.46:5140$上海电信
 CCTV兵器科技,http://raytitor.cn:8888/udp/239.45.0.45:5140$上海电信
 CCTV央视台球,http://raytitor.cn:8888/udp/239.45.0.44:5140$上海电信
@@ -102,6 +102,7 @@ CCTV风云剧场,http://raytitor.cn:8888/udp/239.45.0.50:5140$上海电信
 CCTV风云足球,http://raytitor.cn:8888/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://raytitor.cn:8888/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://raytitor.cn:8888/udp/239.45.0.48:5140$上海电信
+
 
 CCTV1综合,http://aklim.f3322.net:18885/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://aklim.f3322.net:18885/udp/239.45.0.1:5140$上海电信
@@ -137,6 +138,7 @@ CCTV风云足球,http://aklim.f3322.net:18885/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://aklim.f3322.net:18885/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://aklim.f3322.net:18885/udp/239.45.0.48:5140$上海电信
 
+
 CCTV1综合,http://cloud.sunrisecom.wang:8888/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://cloud.sunrisecom.wang:8888/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://cloud.sunrisecom.wang:8888/udp/239.45.1.68:5140$上海电信
@@ -170,6 +172,7 @@ CCTV风云剧场,http://cloud.sunrisecom.wang:8888/udp/239.45.0.50:5140$上海�
 CCTV风云足球,http://cloud.sunrisecom.wang:8888/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://cloud.sunrisecom.wang:8888/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://cloud.sunrisecom.wang:8888/udp/239.45.0.48:5140$上海电信
+
 
 CCTV1综合,http://liuwenxiaokevin.top:14044/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://liuwenxiaokevin.top:14044/udp/239.45.0.1:5140$上海电信
@@ -205,6 +208,7 @@ CCTV风云足球,http://liuwenxiaokevin.top:14044/udp/239.45.0.43:5140$上海电
 CCTV风云音乐,http://liuwenxiaokevin.top:14044/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://liuwenxiaokevin.top:14044/udp/239.45.0.48:5140$上海电信
 
+
 CCTV1综合,http://karika.myds.me:4022/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://karika.myds.me:4022/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://karika.myds.me:4022/udp/239.45.1.68:5140$上海电信
@@ -238,6 +242,7 @@ CCTV风云剧场,http://karika.myds.me:4022/udp/239.45.0.50:5140$上海电信
 CCTV风云足球,http://karika.myds.me:4022/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://karika.myds.me:4022/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://karika.myds.me:4022/udp/239.45.0.48:5140$上海电信
+
 
 CCTV1综合,http://home.870503.xyz:18885/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://home.870503.xyz:18885/udp/239.45.0.1:5140$上海电信
@@ -273,6 +278,7 @@ CCTV风云足球,http://home.870503.xyz:18885/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://home.870503.xyz:18885/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://home.870503.xyz:18885/udp/239.45.0.48:5140$上海电信
 
+
 CCTV1综合,http://vpn.shpcw.com:9898/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://vpn.shpcw.com:9898/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://vpn.shpcw.com:9898/udp/239.45.1.68:5140$上海电信
@@ -307,6 +313,7 @@ CCTV风云足球,http://vpn.shpcw.com:9898/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://vpn.shpcw.com:9898/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://vpn.shpcw.com:9898/udp/239.45.0.48:5140$上海电信
 
+
 CCTV1综合,http://pal.rogerxlj.top:9998/udp/239.45.3.88:5140$上海电信
 CCTV2财经,http://pal.rogerxlj.top:9998/udp/239.45.0.1:5140$上海电信
 CCTV3综艺,http://pal.rogerxlj.top:9998/udp/239.45.1.68:5140$上海电信
@@ -340,6 +347,7 @@ CCTV风云剧场,http://pal.rogerxlj.top:9998/udp/239.45.0.50:5140$上海电信
 CCTV风云足球,http://pal.rogerxlj.top:9998/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://pal.rogerxlj.top:9998/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://pal.rogerxlj.top:9998/udp/239.45.0.48:5140$上海电信
+
 
 CCTV1综合,http://go.bkpcp.top/mg/cctv1
 CCTV2财经,http://go.bkpcp.top/mg/cctv2
@@ -961,6 +969,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://www.rogerxlj.top:9998/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://www.rogerxlj.top:9998/udp/239.45.3.143:5140$上海电信
 山东卫视,http://www.rogerxlj.top:9998/udp/239.45.3.238:5140$上海电信
+山西卫视,http://www.rogerxlj.top:9998/udp/239.45.0.57:5140$上海电信
 广东卫视,http://www.rogerxlj.top:9998/udp/239.45.3.230:5140$上海电信
 广西卫视,http://www.rogerxlj.top:9998/udp/239.45.0.5:5140$上海电信
 江西卫视,http://www.rogerxlj.top:9998/udp/239.45.1.122:5140$上海电信
@@ -992,6 +1001,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://lf.670203.xyz:7088/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://lf.670203.xyz:7088/udp/239.45.3.143:5140$上海电信
 山东卫视,http://lf.670203.xyz:7088/udp/239.45.3.238:5140$上海电信
+山西卫视,http://lf.670203.xyz:7088/udp/239.45.0.57:5140$上海电信
 广东卫视,http://lf.670203.xyz:7088/udp/239.45.3.230:5140$上海电信
 广西卫视,http://lf.670203.xyz:7088/udp/239.45.0.5:5140$上海电信
 江西卫视,http://lf.670203.xyz:7088/udp/239.45.1.122:5140$上海电信
@@ -1023,6 +1033,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://raytitor.cn:8888/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://raytitor.cn:8888/udp/239.45.3.143:5140$上海电信
 山东卫视,http://raytitor.cn:8888/udp/239.45.3.238:5140$上海电信
+山西卫视,http://raytitor.cn:8888/udp/239.45.0.57:5140$上海电信
 广东卫视,http://raytitor.cn:8888/udp/239.45.3.230:5140$上海电信
 广西卫视,http://raytitor.cn:8888/udp/239.45.0.5:5140$上海电信
 江西卫视,http://raytitor.cn:8888/udp/239.45.1.122:5140$上海电信
@@ -1054,6 +1065,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://aklim.f3322.net:18885/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://aklim.f3322.net:18885/udp/239.45.3.143:5140$上海电信
 山东卫视,http://aklim.f3322.net:18885/udp/239.45.3.238:5140$上海电信
+山西卫视,http://aklim.f3322.net:18885/udp/239.45.0.57:5140$上海电信
 广东卫视,http://aklim.f3322.net:18885/udp/239.45.3.230:5140$上海电信
 广西卫视,http://aklim.f3322.net:18885/udp/239.45.0.5:5140$上海电信
 江西卫视,http://aklim.f3322.net:18885/udp/239.45.1.122:5140$上海电信
@@ -1085,6 +1097,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.3.143:5140$上海电信
 山东卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.3.238:5140$上海电信
+山西卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.0.57:5140$上海电信
 广东卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.3.230:5140$上海电信
 广西卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.0.5:5140$上海电信
 江西卫视,http://cloud.sunrisecom.wang:8888/udp/239.45.1.122:5140$上海电信
@@ -1116,6 +1129,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://liuwenxiaokevin.top:14044/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://liuwenxiaokevin.top:14044/udp/239.45.3.143:5140$上海电信
 山东卫视,http://liuwenxiaokevin.top:14044/udp/239.45.3.238:5140$上海电信
+山西卫视,http://liuwenxiaokevin.top:14044/udp/239.45.0.57:5140$上海电信
 广东卫视,http://liuwenxiaokevin.top:14044/udp/239.45.3.230:5140$上海电信
 广西卫视,http://liuwenxiaokevin.top:14044/udp/239.45.0.5:5140$上海电信
 江西卫视,http://liuwenxiaokevin.top:14044/udp/239.45.1.122:5140$上海电信
@@ -1147,6 +1161,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://karika.myds.me:4022/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://karika.myds.me:4022/udp/239.45.3.143:5140$上海电信
 山东卫视,http://karika.myds.me:4022/udp/239.45.3.238:5140$上海电信
+山西卫视,http://karika.myds.me:4022/udp/239.45.0.57:5140$上海电信
 广东卫视,http://karika.myds.me:4022/udp/239.45.3.230:5140$上海电信
 广西卫视,http://karika.myds.me:4022/udp/239.45.0.5:5140$上海电信
 江西卫视,http://karika.myds.me:4022/udp/239.45.1.122:5140$上海电信
@@ -1178,6 +1193,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://home.870503.xyz:18885/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://home.870503.xyz:18885/udp/239.45.3.143:5140$上海电信
 山东卫视,http://home.870503.xyz:18885/udp/239.45.3.238:5140$上海电信
+山西卫视,http://home.870503.xyz:18885/udp/239.45.0.57:5140$上海电信
 广东卫视,http://home.870503.xyz:18885/udp/239.45.3.230:5140$上海电信
 广西卫视,http://home.870503.xyz:18885/udp/239.45.0.5:5140$上海电信
 江西卫视,http://home.870503.xyz:18885/udp/239.45.1.122:5140$上海电信
@@ -1209,6 +1225,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://vpn.shpcw.com:9898/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://vpn.shpcw.com:9898/udp/239.45.3.143:5140$上海电信
 山东卫视,http://vpn.shpcw.com:9898/udp/239.45.3.238:5140$上海电信
+山西卫视,http://vpn.shpcw.com:9898/udp/239.45.0.57:5140$上海电信
 广东卫视,http://vpn.shpcw.com:9898/udp/239.45.3.230:5140$上海电信
 广西卫视,http://vpn.shpcw.com:9898/udp/239.45.0.5:5140$上海电信
 江西卫视,http://vpn.shpcw.com:9898/udp/239.45.1.122:5140$上海电信
@@ -1240,6 +1257,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 安徽卫视,http://pal.rogerxlj.top:9998/udp/239.45.1.120:5140$上海电信
 安徽卫视,http://pal.rogerxlj.top:9998/udp/239.45.3.143:5140$上海电信
 山东卫视,http://pal.rogerxlj.top:9998/udp/239.45.3.238:5140$上海电信
+山西卫视,http://pal.rogerxlj.top:9998/udp/239.45.0.57:5140$上海电信
 广东卫视,http://pal.rogerxlj.top:9998/udp/239.45.3.230:5140$上海电信
 广西卫视,http://pal.rogerxlj.top:9998/udp/239.45.0.5:5140$上海电信
 江西卫视,http://pal.rogerxlj.top:9998/udp/239.45.1.122:5140$上海电信
