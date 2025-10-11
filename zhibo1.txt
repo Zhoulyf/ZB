@@ -639,6 +639,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物3,http://cx.shscxzx.cn:8899/udp/239.45.3.207:5140$上海电信
 
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
