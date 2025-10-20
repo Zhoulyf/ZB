@@ -636,7 +636,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
 上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
-上海新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-1.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 
