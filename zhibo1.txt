@@ -347,6 +347,25 @@ CCTV风云足球,http://lf.670203.xyz:7088/udp/239.45.0.43:5140$上海电信
 CCTV风云音乐,http://lf.670203.xyz:7088/udp/239.45.0.52:5140$上海电信
 CCTV高尔夫网球,http://lf.670203.xyz:7088/udp/239.45.0.48:5140$上海电信
 
+CCTV1综合,https://shyd.695847.xyz/cms001/ch00000090990000001388/index.m3u8?Ace
+CCTV1综合,https://shyd.695847.xyz/cms001/ch00000090990000001520/index.m3u8?Ace
+CCTV2财经,https://shyd.695847.xyz/cms001/ch00000090990000001220/index.m3u8?Ace
+CCTV3综艺,https://shyd.695847.xyz/cms001/ch00000090990000001186/index.m3u8?Ace
+CCTV4中文国际,https://shyd.695847.xyz/cms001/ch00000090990000001221/index.m3u8?Ace
+CCTV5体育,https://shyd.695847.xyz/cms001/ch00000090990000001187/index.m3u8?Ace
+CCTV6电影,https://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?Ace
+CCTV7国防军事,https://shyd.695847.xyz/cms001/ch00000090990000001236/index.m3u8?Ace
+CCTV8电视剧,https://shyd.695847.xyz/cms001/ch00000090990000001189/index.m3u8?Ace
+CCTV9纪录,https://shyd.695847.xyz/cms001/ch00000090990000001237/index.m3u8?Ace
+CCTV10科教,https://shyd.695847.xyz/cms001/ch00000090990000001238/index.m3u8?Ace
+CCTV11戏曲,https://shyd.695847.xyz/cms001/ch00000090990000001309/index.m3u8?Ace
+CCTV12社会与法,https://shyd.695847.xyz/cms001/ch00000090990000001239/index.m3u8?Ace
+CCTV13新闻,https://shyd.695847.xyz/cms001/ch00000090990000001328/index.m3u8?Ace
+CCTV14少儿,https://shyd.695847.xyz/cms001/ch00000090990000001240/index.m3u8?Ace
+CCTV15音乐,https://shyd.695847.xyz/cms001/ch00000090990000001338/index.m3u8?Ace
+CCTV16奥林匹克,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?Ace
+CCTV17农业农村,https://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?Ace
+
 
 CCTV1综合,http://go.bkpcp.top/mg/cctv1
 CCTV2财经,http://go.bkpcp.top/mg/cctv2
@@ -884,7 +903,25 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方购物2,http://lf.670203.xyz:7088/udp/239.45.3.74:5140$上海电信
 东方购物3,http://lf.670203.xyz:7088/udp/239.45.3.207:5140$上海电信
 
-
+东方卫视,https://shyd.695847.xyz/cms001/ch00000090990000001013/index.m3u8?Ace
+上海新闻综合,https://shyd.695847.xyz/cms001/ch00000090990000001014/index.m3u8?Ace
+上海都市,https://shyd.695847.xyz/cms001/ch00000090990000001015/index.m3u8?Ace
+五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?Ace
+东方影视,https://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?Ace
+生活时尚,https://shyd.695847.xyz/cms001/ch00000090990000001199/index.m3u8?Ace
+第一财经,https://shyd.695847.xyz/cms001/ch00000090990000001017/index.m3u8?Ace
+上海教育,https://shyd.695847.xyz/cms001/ch00000090990000001268/index.m3u8?Ace
+欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001193/index.m3u8?Ace
+法治天地,https://shyd.695847.xyz/cms001/ch00000090990000001195/index.m3u8?Ace
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?Ace
+乐游,https://shyd.695847.xyz/cms001/ch00000090990000001200/index.m3u8?Ace
+金色学堂,https://shyd.695847.xyz/cms001/ch00000090990000001194/index.m3u8?Ace
+东方财经,https://shyd.695847.xyz/cms001/ch00000090990000001318/index.m3u8?Ace
+动漫秀场,https://shyd.695847.xyz/cms001/ch00000090990000001196/index.m3u8?Ace
+哈哈炫动,https://shyd.695847.xyz/cms001/ch00000090990000001232/index.m3u8?Ace
+游戏风云,https://shyd.695847.xyz/cms001/ch00000090990000001192/index.m3u8?Ace
+东方购物1,https://shyd.695847.xyz/cms001/ch00000090990000001040/index.m3u8?Ace
+东方购物2,https://shyd.695847.xyz/cms001/ch00000090990000001039/index.m3u8?Ace
 
 劲爆体育,http://m.061899.xyz/mg/jbty$咪咕
 
@@ -1276,6 +1313,43 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 青海卫视,http://lf.670203.xyz:7088/udp/239.45.0.37:5140$上海电信
 黑龙江卫视,http://lf.670203.xyz:7088/udp/239.45.3.232:5140$上海电信
 三沙卫视,http://lf.670203.xyz:7088/udp/239.45.0.56:5140$上海电信
+
+湖南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001026/index.m3u8?Ace
+江苏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001033/index.m3u8?Ace
+浙江卫视,https://shyd.695847.xyz/cms001/ch00000090990000001023/index.m3u8?Ace
+北京卫视,https://shyd.695847.xyz/cms001/ch00000090990000001029/index.m3u8?Ace
+东方卫视,https://shyd.695847.xyz/cms001/ch00000090990000001013/index.m3u8?Ace
+东南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001201/index.m3u8?Ace
+安徽卫视,https://shyd.695847.xyz/cms001/ch00000090990000001037/index.m3u8?Ace
+兵团卫视,https://shyd.695847.xyz/cms001/ch00000090990000001066/index.m3u8?Ace
+甘肃卫视,https://shyd.695847.xyz/cms001/ch00000090990000001298/index.m3u8?Ace
+广东卫视,https://shyd.695847.xyz/cms001/ch00000090990000001032/index.m3u8?Ace
+广西卫视,https://shyd.695847.xyz/cms001/ch00000090990000001224/index.m3u8?Ace
+贵州卫视,https://shyd.695847.xyz/cms001/ch00000090990000001184/index.m3u8?Ace
+海南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001183/index.m3u8?Ace
+河北卫视,https://shyd.695847.xyz/cms001/ch00000090990000001229/index.m3u8?Ace
+河南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001222/index.m3u8?Ace
+黑龙江卫视,https://shyd.695847.xyz/cms001/ch00000090990000001031/index.m3u8?Ace
+湖北卫视,https://shyd.695847.xyz/cms001/ch00000090990000001027/index.m3u8?Ace
+吉林卫视,https://shyd.695847.xyz/cms001/ch00000090990000001225/index.m3u8?Ace
+江西卫视,https://shyd.695847.xyz/cms001/ch00000090990000001034/index.m3u8?Ace
+辽宁卫视,https://shyd.695847.xyz/cms001/ch00000090990000001035/index.m3u8?Ace
+内蒙古卫视,https://shyd.695847.xyz/cms001/ch00000090990000001530/index.m3u8?Ace
+宁夏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001074/index.m3u8?Ace
+青海卫视,https://shyd.695847.xyz/cms001/ch00000090990000001082/index.m3u8?Ace
+青海卫视,https://shyd.695847.xyz/cms001/ch00000090990000001450/index.m3u8?Ace
+三沙卫视,https://shyd.695847.xyz/cms001/ch00000090990000001185/index.m3u8?Ace
+山东卫视,https://shyd.695847.xyz/cms001/ch00000090990000001028/index.m3u8?Ace
+山西卫视,https://shyd.695847.xyz/cms001/ch00000090990000001070/index.m3u8?Ace
+陕西卫视,https://shyd.695847.xyz/cms001/ch00000090990000001067/index.m3u8?Ace
+深圳卫视,https://shyd.695847.xyz/cms001/ch00000090990000001030/index.m3u8?Ace
+四川卫视,https://shyd.695847.xyz/cms001/ch00000090990000001130/index.m3u8?Ace
+天津卫视,https://shyd.695847.xyz/cms001/ch00000090990000001036/index.m3u8?Ace
+西藏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001072/index.m3u8?Ace
+新疆卫视,https://shyd.695847.xyz/cms001/ch00000090990000001065/index.m3u8?Ace
+延边卫视,https://shyd.695847.xyz/cms001/ch00000090990000001470/index.m3u8?Ace
+云南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001223/index.m3u8?Ace
+重庆卫视,https://shyd.695847.xyz/cms001/ch00000090990000001129/index.m3u8?Ace
 
 
 湖南卫视,http://go.bkpcp.top/mg/hunws
@@ -1888,6 +1962,10 @@ CHC影迷电影,http://www.rogerxlj.top:9998/udp/239.45.0.42:5140$上海电信
 CHC动作电影,http://lf.670203.xyz:7088/udp/239.45.0.41:5140$上海电信
 CHC家庭影院,http://lf.670203.xyz:7088/udp/239.45.0.40:5140$上海电信
 CHC影迷电影,http://lf.670203.xyz:7088/udp/239.45.0.42:5140$上海电信
+
+CHC家庭影院,https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8?Ace
+CHC动作电影,https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?Ace
+CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?Ace
 
 
 CHC动作电影,http://m.061899.xyz/mg/dzdy$咪咕
