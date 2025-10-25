@@ -961,23 +961,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 
-东方卫视,http://go.bkpcp.top/mg/dfws
-上海都市,
-五星体育,
-劲爆体育,http://go.bkpcp.top/mg/jbty
-东方影视,
-生活时尚,
-第一财经,http://go.bkpcp.top/mg/dycj
-上海教育,
-欢笑剧场,http://go.bkpcp.top/mg/hxjc
-法治天地,http://go.bkpcp.top/mg/fztd
-都市剧场,
-乐游,http://go.bkpcp.top/mg/ly
-金色学堂,
-动漫秀场,
-魅力足球,http://go.bkpcp.top/mg/mlzq
-哈哈炫动,
-游戏风云,http://go.bkpcp.top/mg/yxfy
 
 
 
@@ -1646,6 +1629,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 
 4K 频道,#genre#
+东方卫视4K,http://go.bkpcp.top/mg/dfws
 东方卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?Ace
 湖南卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?Ace
 北京卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?Ace
