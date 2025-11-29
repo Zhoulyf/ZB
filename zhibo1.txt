@@ -24,7 +24,6 @@ CCTV11戏曲,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
 CCTV11戏曲,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV12社会与法,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
 CCTV12社会与法,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV13新闻,http://8.138.7.223/tv/cctv13.m3u8
 CCTV13新闻,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV14少儿,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV14少儿,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
