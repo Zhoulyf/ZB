@@ -675,6 +675,23 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 
 上海本地,#genre#
 东方卫视,http://go.bkpcp.top/mg/dfws
+上海新闻综合,http://go.bkpcp.top/mg/shxw 
+上海都市,http://go.bkpcp.top/mg/shds
+五星体育,http://go.bkpcp.top/mg/wxty
+劲爆体育,http://go.bkpcp.top/mg/jbty 
+东方影视,
+生活时尚,
+第一财经,http://go.bkpcp.top/mg/dycj 
+上海教育, 
+欢笑剧场,
+法治天地,
+都市剧场,
+乐游,
+金色学堂, 
+动漫秀场, 
+魅力足球,
+哈哈炫动, 
+游戏风云,
 
 东方卫视,http://raytitor.cn:8888/udp/239.45.3.146:5140$上海电信
 上海新闻综合http://raytitor.cn:8888/udp/239.45.3.209:5140$上海电信
@@ -951,9 +968,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 
-五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
-五星体育,https://cdn3.163189.xyz/163189/wxty
-
 东方卫视,https://shyd.695847.xyz/cms001/ch00000090990000001013/index.m3u8?Ace
 上海新闻综合,https://shyd.695847.xyz/cms001/ch00000090990000001014/index.m3u8?Ace
 上海都市,https://shyd.695847.xyz/cms001/ch00000090990000001015/index.m3u8?Ace
@@ -973,11 +987,6 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 游戏风云,https://shyd.695847.xyz/cms001/ch00000090990000001192/index.m3u8?Ace
 东方购物1,https://shyd.695847.xyz/cms001/ch00000090990000001040/index.m3u8?Ace
 东方购物2,https://shyd.695847.xyz/cms001/ch00000090990000001039/index.m3u8?Ace
-
-劲爆体育,http://m.061899.xyz/mg/jbty$咪咕
-
-东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8$fjcm17
-生活时尚,http://home.kuaidi521.com:35455/bst/shsshd@4000000.m3u8
 
 东方购物1,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 东方购物2,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
