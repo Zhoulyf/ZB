@@ -704,7 +704,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-6.m3u8
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-6.m3u8
 
-东方卫视,https://migu.188766.xyz/?migutoken=ada8b0c22568bf44bbc363792a669983&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 东方卫视,http://yp.qqqtv.top/bc/bc.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&auth=66615415
@@ -712,7 +712,7 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&auth=666858
 东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8
 东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-
+东方卫视,https://migu.188766.xyz/?migutoken=ada8b0c22568bf44bbc363792a669983&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 
 东方卫视,http://raytitor.cn:8888/udp/239.45.3.146:5140$上海电信
 上海新闻综合http://raytitor.cn:8888/udp/239.45.3.209:5140$上海电信
