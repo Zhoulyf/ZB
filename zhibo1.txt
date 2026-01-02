@@ -723,7 +723,11 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 哈哈炫动, 
 游戏风云,
 
+东方卫视,http://www.wmviv.com/iptv/bc2t.php?id=dfws
 上海新闻综合,http://www.wmviv.com/iptv/bc2t.php?id=shxwzh
+上海都市,http://www.wmviv.com/iptv/bc2t.php?id=shds
+五星体育,http://go.bkpcp.top/mg/wxty
+
 
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
