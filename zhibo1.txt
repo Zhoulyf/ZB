@@ -734,7 +734,8 @@ CCTV17农业农村,http://183.158.157.12:8000/udp/233.50.200.113:5140$浙江电�
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 
-上海新闻综合,https://migu.188766.xyz/?migutoken=33ff7593f2fd92a9e83b3006e319a8fa&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+上海新闻综合,https://migu.188766.xyz/?migutoken=8f53c495c0c7213f6d7882b33fff8546&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+
 
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-10.m3u8
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-6.m3u8
