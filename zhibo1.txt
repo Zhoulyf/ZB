@@ -4707,11 +4707,11 @@ CCTVNEWS,http://113.57.20.158:9901/tsfile/live/1002_1.m3u8
 
 
 卫视频道,#genre#
+东方卫视,http://go.bkpcp.top/mg/dfws
 湖南卫视,http://go.bkpcp.top/mg/hunws
 江苏卫视,http://go.bkpcp.top/mg/jsws
 浙江卫视,http://go.bkpcp.top/mg/zjws
 北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
 东南卫视,http://go.bkpcp.top/mg/dnws
 云南卫视,http://go.bkpcp.top/mg/ynws
 吉林卫视,http://go.bkpcp.top/mg/jlws
