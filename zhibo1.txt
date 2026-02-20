@@ -126,6 +126,8 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 
 
 上海本地,#genre#
+东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
+东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
 东方卫视,http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 
