@@ -1,5 +1,10 @@
 央视频道,#genre#
+
 CCTV1,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13,http://iptv.4666888.xyz/iptv2A.php?id=11
 
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
@@ -493,7 +498,12 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
 黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
 
+山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
+广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
+江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
+浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
 东方卫视,http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://111.221.137.234:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -553,12 +563,34 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰资讯,http://120.76.248.139/live/bfgd/4200000201.m3u8
 凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8
+
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
+TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
+TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB 娱乐新闻台,http://iptv.4666888.xyz/iptv2A.php?id=36
+TVB pearl,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVB Drama,http://iptv.4666888.xyz/iptv2A.php?id=33
+SPDTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+SPDTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+MYTV,http://iptv.4666888.xyz/iptv2A.php?id=24
+iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
+53,http://iptv.4666888.xyz/iptv2A.php?id=53
+52,http://iptv.4666888.xyz/iptv2A.php?id=52
+50,http://iptv.4666888.xyz/iptv2A.php?id=50
+40,http://iptv.4666888.xyz/iptv2A.php?id=40
+
 
 
 
