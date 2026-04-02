@@ -851,6 +851,37 @@ CHC动作电影,http://raytitor.cn:8888/rtp/233.18.204.174:5140$上海电信
 
 
 港澳台频道,#genre#
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
+有线综合,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
+Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
+
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
