@@ -1,4 +1,33 @@
 央视频道,#genre#
+CCTV1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
+CCTV2,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV2
+CCTV3,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
+CCTV4,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV4
+CCTV5,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5
+CCTV5+,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5p
+CCTV6,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV6
+CCTV7,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
+CCTV8,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
+CCTV9,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV9
+CCTV10,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
+CCTV11,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
+CCTV12,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV12
+CCTV13,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
+CCTV14,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
+CCTV15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
+CCTV16,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV16
+CCTV17,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
+
+世界地理,http://iptv.19840608.xyz:16666/rtp/239.69.1.91:10186
+兵器科技,http://iptv.19840608.xyz:16666/rtp/239.69.1.79:10114
+女性时尚,http://iptv.19840608.xyz:16666/rtp/239.69.1.86:10156
+第一剧场,http://iptv.19840608.xyz:16666/rtp/239.69.1.74:10084
+怀旧剧场,http://iptv.19840608.xyz:16666/rtp/239.69.1.89:10174
+风云音乐,http://iptv.19840608.xyz:16666/rtp/239.69.1.90:10180
+风云足球,http://iptv.19840608.xyz:16666/rtp/239.69.1.81:10126
+高尔夫网球,http://iptv.19840608.xyz:16666/rtp/239.69.1.83:10138
+电视指南,http://iptv.19840608.xyz:16666/rtp/239.69.1.87:10162
+
 CCTV1,http://223.167.230.46:4022/rtp/233.18.204.52:5140$上海电信
 CCTV2,http://223.167.230.46:4022/rtp/233.18.204.68:5140$上海电信
 CCTV3,http://223.167.230.46:4022/rtp/233.18.204.69:5140$上海电信
@@ -301,6 +330,9 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 
 
 上海本地,#genre#
+东方卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
+东方卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
+
 东方卫视,http://223.167.230.46:4022/rtp/233.18.204.51:5140$上海电信
 东方卫视4K,http://223.167.230.46:4022/rtp/233.18.204.224:5140$上海电信
 上海新闻综合,http://223.167.230.46:4022/rtp/233.18.204.57:5140$上海电信
@@ -476,7 +508,8 @@ CHC动作电影,http://raytitor.cn:8888/rtp/233.18.204.174:5140$上海电信
 第一财经,http://180.165.12.42:50001/tsfile/live/0001_43.m3u8?key=txiptv&playlive=1&authid=0
 乐游,http://180.165.12.42:50001/tsfile/live/0001_44.m3u8?key=txiptv&playlive=1&authid=0
 
-
+CHC家庭影院,http://iptv.19840608.xyz:16666/rtp/239.69.1.243:11100
+CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
 
 
 东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
@@ -511,9 +544,52 @@ CHC动作电影,http://raytitor.cn:8888/rtp/233.18.204.174:5140$上海电信
 
 
 
-
-
 卫视频道,#genre#
+湖南卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=湖南卫视
+湖南卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=湖南卫视
+江苏卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=江苏卫视
+江苏卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=江苏卫视
+浙江卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=浙江卫视
+浙江卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=浙江卫视
+北京卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=北京卫视
+北京卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=北京卫视
+东方卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
+东方卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
+广东卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=广东卫视
+广东卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=广东卫视
+湖北卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=湖北卫视
+黑龙江卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=黑龙江卫视
+黑龙江卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=黑龙江卫视
+安徽卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=安徽卫视
+重庆卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=重庆卫视
+东南卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=东南卫视
+甘肃卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=甘肃卫视
+广西卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=广西卫视
+贵州卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=贵州卫视
+海南卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=海南卫视
+河北卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=河北卫视
+河北卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=河北卫视
+河南卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=河南卫视
+河南卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=河南卫视
+吉林卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=吉林卫视
+江西卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=江西卫视
+辽宁卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=辽宁卫视
+内蒙古卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=内蒙古卫视
+宁夏卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=宁夏卫视
+青海卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=青海卫视
+山东卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=山东卫视
+山东卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=山东卫视
+山西卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=山西卫视
+陕西卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=陕西卫视
+四川卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=四川卫视
+四川卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=四川卫视
+深圳卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=深圳卫视
+深圳卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=深圳卫视
+天津卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=天津卫视
+西藏卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=西藏卫视
+新疆卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=新疆卫视
+云南卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=云南卫视
+
 湖南卫视,http://223.167.230.46:4022/rtp/233.18.204.86:5140$上海电信
 湖南卫视4K,http://223.167.230.46:4022/rtp/233.18.204.227:5140$上海电信
 江苏卫视,http://223.167.230.46:4022/rtp/233.18.204.85:5140$上海电信
@@ -866,6 +942,12 @@ CHC动作电影,http://raytitor.cn:8888/rtp/233.18.204.174:5140$上海电信
 
 
 港澳台频道,#genre#
+凤凰中文,http://iptv.19840608.xyz:16666/rtp/239.69.2.20:11274
+凤凰资讯,http://iptv.19840608.xyz:16666/rtp/239.69.2.19:11268
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+
+中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
+
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
