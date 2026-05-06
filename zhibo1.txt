@@ -1086,6 +1086,7 @@ PDD影院,https://live.iill.top/douyu/1274132
 
 
 虎牙直播线路,#genre#
+王者荣耀,https://live.ottiptv.cc/huya/660002
 huya台球1,https://live.ottiptv.cc/huya/880214
 huya台球2,https://live.ottiptv.cc/huya/880625
 庞卫国台球直播间,https://live.ottiptv.cc/huya/287115
@@ -1166,6 +1167,7 @@ huya台球2,https://live.ottiptv.cc/huya/880625
 怪兽系列,https://live.ottiptv.cc/huya/21059554
 延禧攻略,https://live.ottiptv.cc/huya/26355864
 
+王者荣耀,https://goodiptv.club/huya/660002
 huya台球1,https://goodiptv.club/huya/880214
 huya台球2,https://goodiptv.club/huya/880625
 庞卫国台球直播间,https://goodiptv.club/huya/287115
@@ -1246,6 +1248,7 @@ huya台球2,https://goodiptv.club/huya/880625
 怪兽系列,https://goodiptv.club/huya/21059554
 延禧攻略,https://goodiptv.club/huya/26355864
 
+王者荣耀,https://tv.315600.xyz/huya/660002
 huya台球1,https://tv.315600.xyz/huya/880214
 huya台球2,https://tv.315600.xyz/huya/880625
 庞卫国台球直播间,https://tv.315600.xyz/huya/287115
@@ -1326,6 +1329,7 @@ huya台球2,https://tv.315600.xyz/huya/880625
 怪兽系列,https://tv.315600.xyz/huya/21059554
 延禧攻略,https://tv.315600.xyz/huya/26355864
 
+王者荣耀,https://www.goodiptv.club/huya/660002
 huya台球1,https://www.goodiptv.club/huya/880214
 huya台球2,https://www.goodiptv.club/huya/880625
 庞卫国台球直播间,https://www.goodiptv.club/huya/287115
@@ -1406,6 +1410,7 @@ huya台球2,https://www.goodiptv.club/huya/880625
 怪兽系列,https://www.goodiptv.club/huya/21059554
 延禧攻略,https://www.goodiptv.club/huya/26355864
 
+王者荣耀,https://live.iill.top/huya/660002
 huya台球1,https://live.iill.top/huya/880214
 huya台球2,https://live.iill.top/huya/880625
 庞卫国台球直播间,https://live.iill.top/huya/287115
@@ -1486,6 +1491,7 @@ huya台球2,https://live.iill.top/huya/880625
 怪兽系列,https://live.iill.top/huya/21059554
 延禧攻略,https://live.iill.top/huya/26355864
 
+王者荣耀,https://home.kuaidi521.com:35455/huya/660002
 huya台球1,http://home.kuaidi521.com:35455/huya/880214
 huya台球2,http://home.kuaidi521.com:35455/huya/880625
 庞卫国台球直播间,http://home.kuaidi521.com:35455/huya/287115
@@ -1566,6 +1572,7 @@ huya台球2,http://home.kuaidi521.com:35455/huya/880625
 怪兽系列,http://home.kuaidi521.com:35455/huya/21059554
 延禧攻略,http://home.kuaidi521.com:35455/huya/26355864
 
+王者荣耀,https://i.880824.xyz:35455/huya/660002
 huya台球1,http://i.880824.xyz:35455/huya/880214
 huya台球2,http://i.880824.xyz:35455/huya/880625
 庞卫国台球直播间,http://i.880824.xyz:35455/huya/287115
@@ -1646,6 +1653,7 @@ huya台球2,http://i.880824.xyz:35455/huya/880625
 怪兽系列,http://i.880824.xyz:35455/huya/21059554
 延禧攻略,http://i.880824.xyz:35455/huya/26355864
 
+王者荣耀,http://fmbox.cc/huya.php?id=660002
 huya台球1,http://fmbox.cc/huya.php?id=880214
 huya台球2,http://fmbox.cc/huya.php?id=880625
 庞卫国台球直播间,http://fmbox.cc/huya.php?id=287115
@@ -1726,6 +1734,7 @@ huya台球2,http://fmbox.cc/huya.php?id=880625
 怪兽系列,http://fmbox.cc/huya.php?id=21059554
 延禧攻略,http://fmbox.cc/huya.php?id=26355864
 
+王者荣耀,http://iptv.jxpan.vip:18888/aio/huya/660002
 huya台球1,http://iptv.jxpan.vip:18888/aio/huya/880214
 huya台球2,http://iptv.jxpan.vip:18888/aio/huya/880625
 庞卫国台球直播间,http://iptv.jxpan.vip:18888/aio/huya/287115
@@ -1806,6 +1815,7 @@ huya台球2,http://iptv.jxpan.vip:18888/aio/huya/880625
 怪兽系列,http://iptv.jxpan.vip:18888/aio/huya/21059554
 延禧攻略,http://iptv.jxpan.vip:18888/aio/huya/26355864
 
+王者荣耀,http://www.52sw.top:678/play/huya.php?id=660002
 huya台球1,http://www.52sw.top:678/play/huya.php?id=880214
 huya台球2,http://www.52sw.top:678/play/huya.php?id=880625
 庞卫国台球直播间,http://www.52sw.top:678/play/huya.php?id=287115
@@ -1886,6 +1896,7 @@ huya台球2,http://www.52sw.top:678/play/huya.php?id=880625
 怪兽系列,http://www.52sw.top:678/play/huya.php?id=21059554
 延禧攻略,http://www.52sw.top:678/play/huya.php?id=26355864
 
+王者荣耀,http://103.193.151.146/huya.php?id=660002
 huya台球1,http://103.193.151.146/huya.php?id=880214
 huya台球2,http://103.193.151.146/huya.php?id=880625
 庞卫国台球直播间,http://103.193.151.146/huya.php?id=287115
@@ -1966,6 +1977,7 @@ huya台球2,http://103.193.151.146/huya.php?id=880625
 怪兽系列,http://103.193.151.146/huya.php?id=21059554
 延禧攻略,http://103.193.151.146/huya.php?id=26355864
 
+王者荣耀,http://dns.yiandrive.com:15907/huya/660002
 huya台球1,http://dns.yiandrive.com:15907/huya/880214
 huya台球2,http://dns.yiandrive.com:15907/huya/880625
 庞卫国台球直播间,http://dns.yiandrive.com:15907/huya/287115
@@ -2046,6 +2058,7 @@ huya台球2,http://dns.yiandrive.com:15907/huya/880625
 怪兽系列,http://dns.yiandrive.com:15907/huya/21059554
 延禧攻略,http://dns.yiandrive.com:15907/huya/26355864
 
+王者荣耀,http://nas.809899.xyz:16000/huya/660002
 huya台球1,http://nas.809899.xyz:16000/huya/880214 
 huya台球2,http://nas.809899.xyz:16000/huya/880625 
 庞卫国台球直播间,http://nas.809899.xyz:16000/huya/287115 
