@@ -1,16 +1,17 @@
 //个人自用分享，禁止商用
 {
 	 "urls": [
-	{ "url": "https://tv.xn--yhqu5zs87a.top", "name": "莱妮丝" },
-    { "url": "http://www.饭太硬.com/tv/", "name": "饭太硬线路" }, 
-	{ "url": "http://肥猫.com", "name": "肥猫线路" }, 
+    { "url": "http://www.饭太硬.net/tv/", "name": "饭太硬线路" }, 
+	{ "url": "http://fty.xxooo.cf/tv", "name": "饭太硬备用1" }, 
+    { "url": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp", "name": "饭太硬备用2" }, 
+    { "url": "https://tv.xn--yhqu5zs87a.top", "name": "莱妮丝" },
 	{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" }, 
-	{ "url": "http://home.jundie.top:81/top98.json", "name": "俊佬线路" }, 
-	{ "url": "http://ok321.top/tv", "name": "OK" }, 
- 	{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
-	{ "url": "http://tv.nxog.top/m/", "name": "讴歌" },
-	{ "url": "https://100km.top/0", "name": "骚零" },		
-	{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
-	{ "url": "https://clun.top/box.json", "name": "自用线路" }
+	{ "url": "http://home.jundie.top:81/top98.json", "name": "360" }, 
+  	{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
+    { "url": "http://tv.nxog.top/m/", "name": "讴歌" },
+  
+
+
+      
  	]
  }
