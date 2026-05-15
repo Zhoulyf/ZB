@@ -1,9 +1,13 @@
 //个人自用分享，禁止商用
 {
 	 "urls": [
-    { "url": "http://www.饭太硬.net/tv/", "name": "饭太硬线路" }, 
+    { "url": "http://www.饭太硬.cc/tv/", "name": "饭太硬线路" }, 
+    { "url": "http://www.饭太硬.net/tv/", "name": "饭太硬线路1" }, 
+    { "url": "http://www.饭太硬.art/tv/", "name": "饭太硬线路2" }, 
 	{ "url": "http://fty.xxooo.cf/tv", "name": "饭太硬备用1" }, 
-    { "url": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp", "name": "饭太硬备用2" }, 
+	{ "url": "http://fty.888484.xyz/tv", "name": "饭太硬备用2" }, 
+	{ "url": "http://fty.333232.xyz/tv", "name": "饭太硬备用3" }, 
+    { "url": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp", "name": "饭太硬备用4" }, 
     { "url": "https://tv.xn--yhqu5zs87a.top", "name": "莱妮丝" },
 	{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" }, 
 	{ "url": "http://home.jundie.top:81/top98.json", "name": "360" }, 
