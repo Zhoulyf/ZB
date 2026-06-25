@@ -690,7 +690,36 @@ CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
 辽宁卫视,http://111.221.137.234:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://111.221.137.234:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 
-
+东方卫视,http://go.bkpcp.top/mg/dfws
+湖南卫视,http://go.bkpcp.top/mg/hunws
+江苏卫视,http://go.bkpcp.top/mg/jsws
+浙江卫视,http://go.bkpcp.top/mg/zjws
+北京卫视,http://go.bkpcp.top/mg/bjws
+东南卫视,http://go.bkpcp.top/mg/dnws
+云南卫视,http://go.bkpcp.top/mg/ynws
+吉林卫视,http://go.bkpcp.top/mg/jlws
+四川卫视,http://go.bkpcp.top/mg/scws
+安徽卫视,http://go.bkpcp.top/mg/ahws
+山东卫视,http://go.bkpcp.top/mg/sdws
+广东卫视,http://go.bkpcp.top/mg/gdws
+广西卫视,http://go.bkpcp.top/mg/gxws
+江西卫视,http://go.bkpcp.top/mg/jxws
+河北卫视,http://go.bkpcp.top/mg/hbws
+河南卫视,http://go.bkpcp.top/mg/hnws
+海南卫视,http://go.bkpcp.top/mg/hinws
+深圳卫视,http://go.bkpcp.top/mg/szws
+湖北卫视,http://go.bkpcp.top/mg/hubws
+甘肃卫视,http://go.bkpcp.top/mg/gsws
+辽宁卫视,http://go.bkpcp.top/mg/lnws
+重庆卫视,http://go.bkpcp.top/mg/cqws
+青海卫视,http://go.bkpcp.top/mg/qhws
+黑龙江卫视,http://go.bkpcp.top/mg/hljws
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+陕西卫视,http://go.bkpcp.top/mg/sxws
+西藏卫视,http://go.bkpcp.top/mg/xzws
+海峡卫视,http://go.bkpcp.top/mg/hxws
+宁夏卫视,http://go.bkpcp.top/mg/nxws
+新疆卫视,http://go.bkpcp.top/mg/xjws
 
 
 
