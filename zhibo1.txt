@@ -420,32 +420,7 @@ CHC家庭影院,http://218.81.49.34:10010/rtp/233.18.204.173:5140$上海电信
 CHC动作电影,http://218.81.49.34:10010/rtp/233.18.204.174:5140$上海电信
 
 
-东方卫视,http://171.213.214.228:7788/651632648
-上海新闻综合,http://171.213.214.228:7788/651632657
-东方影视SD,http://171.213.214.228:7788/617290047
-第一财经,http://171.213.214.228:7788/608780988
-CHC影迷电影,http://171.213.214.228:7788/952383261
-CHC动作电影,http://171.213.214.228:7788/644368714
-CHC家庭影院,http://171.213.214.228:7788/644368373
-
-东方卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
-东方卫视4K,http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
-
-上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he.m3u8
-上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-2.m3u8
-上海都市,https://t.freetv.fun/live/shang-hai-du-shi-5.m3u8
-上海都市,https://t.freetv.fun/live/shang-hai-du-shi-2.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
-东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
-东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-4.m3u8
-生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-5.m3u8
-生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-2.m3u8
-生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang.m3u8
-第一财经,https://t.freetv.fun/live/di-yi-cai-jing-1.m3u8
-第一财经,https://t.freetv.fun/live/di-yi-cai-jing-5.m3u8
-第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8
+东方卫视,http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
 
@@ -453,28 +428,6 @@ CHC家庭影院,http://iptv.19840608.xyz:16666/rtp/239.69.1.243:11100
 CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
 
 
-
-东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
-
-
-东方卫视,http://go.bkpcp.top/mg/dfws
-上海新闻综合,http://go.bkpcp.top/mg/shxw 
-上海都市,http://go.bkpcp.top/mg/shds
-五星体育,http://go.bkpcp.top/mg/wxty
-劲爆体育,http://go.bkpcp.top/mg/jbty 
-东方影视,
-生活时尚,
-第一财经,http://go.bkpcp.top/mg/dycj 
-上海教育, 
-欢笑剧场,
-法治天地,
-都市剧场,
-乐游,
-金色学堂, 
-动漫秀场, 
-魅力足球,
-哈哈炫动, 
-游戏风云,
 
 东方购物1,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 东方购物2,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
