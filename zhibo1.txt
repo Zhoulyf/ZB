@@ -965,8 +965,14 @@ CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
 
 
 港澳台频道,#genre#
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+凤凰中文,http://182.135.66.163:18888/rtp/239.94.2.51:5140$四川电信
+凤凰中文,http://182.135.66.163:18888/rtp/239.94.2.52:5140$四川电信
+凤凰资讯,http://182.135.66.163:18888/rtp/239.94.2.49:5140$四川电信
+凤凰资讯,http://182.135.66.163:18888/rtp/239.94.2.50:5140$四川电信
+凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.51:5140$四川电信
+凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.52:5140$四川电信
+凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.49:5140$四川电信
+凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.50:5140$四川电信
 
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -999,45 +1005,6 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
 
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中天新闻,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7
-
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-
-凤凰资讯,http://120.76.248.139/live/bfgd/4200000201.m3u8
-凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8
-
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
-翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
-TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
-TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-TVB 娱乐新闻台,http://iptv.4666888.xyz/iptv2A.php?id=36
-TVB pearl,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB Drama,http://iptv.4666888.xyz/iptv2A.php?id=33
-SPDTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
-SPDTV,http://iptv.4666888.xyz/iptv2A.php?id=2
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-MYTV,http://iptv.4666888.xyz/iptv2A.php?id=24
-iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
-HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
-53,http://iptv.4666888.xyz/iptv2A.php?id=53
-52,http://iptv.4666888.xyz/iptv2A.php?id=52
-50,http://iptv.4666888.xyz/iptv2A.php?id=50
-40,http://iptv.4666888.xyz/iptv2A.php?id=40
-
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 
 
