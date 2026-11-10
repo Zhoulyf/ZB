@@ -353,28 +353,6 @@ CCTV15,http://115.171.216.174:4000/rtp/225.1.8.74:8136$北京电信
 CCTV17,http://115.171.216.174:4000/rtp/225.1.8.17:8144$北京电信
 
 
-CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
-CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
-CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
-CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
-CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
-CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
-CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
-CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
-CCTV风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
-CCTV世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
-CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 
 
 上海本地,#genre#
